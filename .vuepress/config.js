@@ -2,9 +2,6 @@ module.exports = {
     lang: 'zh-tw',
     title: 'Richard',
 
-    dest: 'dist',
-    base: /blog-vuepress/,
-
     
     
     description: '歡迎',

@@ -2,19 +2,32 @@ export const data = {
   "key": "v-8daa1a0e",
   "path": "/",
   "title": "Hello VuePress",
-  "lang": "zh-tw",
+  "lang": "zh-CN",
   "frontmatter": {},
   "excerpt": "",
   "headers": [],
   "filePathRelative": "README.md",
   "git": {
-    "updatedTime": 1624245219000,
+    "updatedTime": 1624244951000,
     "contributors": [
       {
         "name": "Richard",
         "email": "dpes8693@gmail.com",
-        "commits": 2
+        "commits": 1
       }
     ]
   }
+}
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
 }
