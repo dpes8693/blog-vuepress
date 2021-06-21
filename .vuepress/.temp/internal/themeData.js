@@ -1,5 +1,4 @@
 export const themeData = {
-  "logo": "/blog-vuepress/images/cat.jpg",
   "navbar": [
     {
       "text": "guide",
@@ -12,8 +11,8 @@ export const themeData = {
       "link": "/guide/1.md",
       "children": [
         {
-          "text": "github",
-          "link": "https://github.com",
+          "text": "github原始碼",
+          "link": "https://github.com/dpes8693/blog-vuepress",
           "children": []
         }
       ]
@@ -24,6 +23,7 @@ export const themeData = {
       "selectLanguageName": "English"
     }
   },
+  "logo": null,
   "darkMode": true,
   "repo": null,
   "selectLanguageText": "Languages",

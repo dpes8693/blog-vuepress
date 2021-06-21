@@ -10,7 +10,7 @@ module.exports = {
   
     themeConfig: {
       //logo: 'https://vuejs.org/images/logo.png',
-      logo: '/blog-vuepress/images/cat.jpg',
+      
 
       navbar: [
         // NavbarItem
@@ -35,8 +35,8 @@ module.exports = {
           children: [
             // SidebarItem
             {
-              text: 'github',
-              link: 'https://github.com',
+              text: 'github原始碼',
+              link: 'https://github.com/dpes8693/blog-vuepress',
               children: [],
             },
             // 字符串 - 页面文件路径
@@ -52,7 +52,6 @@ module.exports = {
         
       ],
     },
-
 
 
   }
