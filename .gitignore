@@ -1,5 +1,6 @@
+#
 node_modules
-
-.vupress/.cache
-
-.vupress/.temp
+#
+/.vupress/.cache
+#
+/.vupress/.temp

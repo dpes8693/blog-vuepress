@@ -10,28 +10,28 @@ module.exports = {
   
     themeConfig: {
       //logo: 'https://vuejs.org/images/logo.png',
-      logo: 'https://i.imgur.com/9DX9OuA.png',
+      logo: '/blog-vuepress/images/logo.svg',
 
       navbar: [
         // NavbarItem
         {
-          text: 'Foo',
-          link: '/foo/',
+          text: 'guide',
+          link: '/guide/1.md',
         },
         // NavbarGroup
-        {
-          text: 'Group',
-          children: ['/group/foo.md', '/group/bar.md'],
-        },
-        // 字符串 - 页面文件路径
-        '/bar/README.md',
+        // {
+        //   text: 'Group',
+        //   children: ['/group/foo.md', '/group/bar.md'],
+        // },
+        
+        //'/guide/1.md',
       ],
 
       sidebar: [
         // SidebarItem
         {
-          text: 'Foo',
-          link: '/foo/',
+          text: 'Guide',
+          link: '#',
           children: [
             // SidebarItem
             {
@@ -40,17 +40,16 @@ module.exports = {
               children: [],
             },
             // 字符串 - 页面文件路径
-            '/foo/bar.md',
+            '/guide/1.md',
           ],
         },
         // SidebarGroup
-        {
-          isGroup: true,
-          text: 'Group',
-          children: ['/group/foo.md', '/group/bar.md'],
-        },
-        // 字符串 - 页面文件路径
-        '/bar/README.md',
+        // {
+        //   isGroup: true,
+        //   text: 'Group',
+        //   children: ['/group/foo.md', '/group/bar.md'],
+        // },
+        
       ],
     },
 

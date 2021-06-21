@@ -1,41 +1,24 @@
 export const themeData = {
-  "logo": "https://i.imgur.com/9DX9OuA.png",
+  "logo": "/blog-vuepress/images/logo.svg",
   "navbar": [
     {
-      "text": "Foo",
-      "link": "/foo/"
-    },
-    {
-      "text": "Group",
-      "children": [
-        "/group/foo.md",
-        "/group/bar.md"
-      ]
-    },
-    "/bar/README.md"
+      "text": "guide",
+      "link": "/guide/1.md"
+    }
   ],
   "sidebar": [
     {
-      "text": "Foo",
-      "link": "/foo/",
+      "text": "Guide",
+      "link": "#",
       "children": [
         {
           "text": "github",
           "link": "https://github.com",
           "children": []
         },
-        "/foo/bar.md"
+        "/guide/1.md"
       ]
-    },
-    {
-      "isGroup": true,
-      "text": "Group",
-      "children": [
-        "/group/foo.md",
-        "/group/bar.md"
-      ]
-    },
-    "/bar/README.md"
+    }
   ],
   "locales": {
     "/": {
