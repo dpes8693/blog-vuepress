@@ -1,11 +1,10 @@
 module.exports = {
-    lang: 'zh-CN',
+    lang: 'zh-tw',
     title: 'Richard',
-    dest: 'docs',
-    base: /blog-vuepress/,
+
     
     
-    description: '这是我的第一个 VuePress 站点',
+    description: '歡迎',
   
     themeConfig: {
       logo: 'https://vuejs.org/images/logo.png',
