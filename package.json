@@ -1,0 +1,14 @@
+{
+  "name": "blog-vuepress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Richard <dpes8693@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.19"
+  },
+  "scripts": {
+    "serve": "vuepress dev",
+    "build": "vuepress build"
+  }
+}
