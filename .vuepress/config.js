@@ -1,7 +1,7 @@
 module.exports = {
     lang: 'zh-tw',
     title: 'Richard',
-
+    head: [['link', { rel: 'icon', href: '/blog-vuepress/images/icon.png' }]],
     dest: 'docs',
     base: "/blog-vuepress/",
 
@@ -9,7 +9,8 @@ module.exports = {
     description: '歡迎',
   
     themeConfig: {
-      logo: 'https://vuejs.org/images/logo.png',
+      //logo: 'https://vuejs.org/images/logo.png',
+      logo: 'https://i.imgur.com/9DX9OuA.png',
 
       navbar: [
         // NavbarItem
@@ -52,6 +53,7 @@ module.exports = {
         '/bar/README.md',
       ],
     },
+
 
 
   }

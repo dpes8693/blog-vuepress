@@ -1,5 +1,5 @@
 export const themeData = {
-  "logo": "https://vuejs.org/images/logo.png",
+  "logo": "https://i.imgur.com/9DX9OuA.png",
   "navbar": [
     {
       "text": "Foo",

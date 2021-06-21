@@ -3,6 +3,14 @@ export const siteData = {
   "lang": "zh-tw",
   "title": "Richard",
   "description": "歡迎",
-  "head": [],
+  "head": [
+    [
+      "link",
+      {
+        "rel": "icon",
+        "href": "/blog-vuepress/images/icon.png"
+      }
+    ]
+  ],
   "locales": {}
 }
