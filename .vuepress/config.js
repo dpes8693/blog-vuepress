@@ -3,6 +3,7 @@ module.exports = {
     title: 'Richard',
 
     dest: 'docs',
+    base: "/blog-vuepress/",
 
     
     description: '歡迎',
