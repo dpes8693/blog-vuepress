@@ -1,5 +1,5 @@
 export const themeData = {
-  "logo": "/blog-vuepress/images/logo.svg",
+  "logo": "/blog-vuepress/images/cat.jpg",
   "navbar": [
     {
       "text": "guide",
@@ -9,14 +9,13 @@ export const themeData = {
   "sidebar": [
     {
       "text": "Guide",
-      "link": "#",
+      "link": "/guide/1.md",
       "children": [
         {
           "text": "github",
           "link": "https://github.com",
           "children": []
-        },
-        "/guide/1.md"
+        }
       ]
     }
   ],
@@ -44,4 +43,17 @@ export const themeData = {
   ],
   "backToHome": "Take me home",
   "openInNewWindow": "open in new window"
+}
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updateThemeData) {
+    __VUE_HMR_RUNTIME__.updateThemeData(themeData)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ themeData }) => {
+    __VUE_HMR_RUNTIME__.updateThemeData(themeData)
+  })
 }

@@ -10,7 +10,7 @@ module.exports = {
   
     themeConfig: {
       //logo: 'https://vuejs.org/images/logo.png',
-      logo: '/blog-vuepress/images/logo.svg',
+      logo: '/blog-vuepress/images/cat.jpg',
 
       navbar: [
         // NavbarItem
@@ -31,7 +31,7 @@ module.exports = {
         // SidebarItem
         {
           text: 'Guide',
-          link: '#',
+          link: '/guide/1.md',
           children: [
             // SidebarItem
             {
@@ -40,7 +40,7 @@ module.exports = {
               children: [],
             },
             // 字符串 - 页面文件路径
-            '/guide/1.md',
+            //'/guide/1.md',
           ],
         },
         // SidebarGroup
