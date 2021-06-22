@@ -5,10 +5,36 @@ export const data = {
   "lang": "zh-tw",
   "frontmatter": {},
   "excerpt": "",
-  "headers": [],
+  "headers": [
+    {
+      "level": 2,
+      "title": "文",
+      "slug": "文",
+      "children": []
+    }
+  ],
   "filePathRelative": "web/vue.md",
   "git": {
-    "updatedTime": null,
-    "contributors": []
+    "updatedTime": 1624353581000,
+    "contributors": [
+      {
+        "name": "Richard",
+        "email": "dpes8693@gmail.com",
+        "commits": 1
+      }
+    ]
   }
+}
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
 }

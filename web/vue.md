@@ -1,7 +1,6 @@
 # Vue.js
 
-sass
-https://medium.com/@enshenghuang/%E4%BD%BF%E7%94%A8vscode%E5%A4%96%E6%8E%9B%E8%87%AA%E5%8B%95%E7%B7%A8%E8%AD%AFsass-scss-9ff768d23b48
+## 文
 AJAX(GET、POST):axios | jQuery | fetch
 Core-js 
 react/vue/angular，webpack、babel、core-js

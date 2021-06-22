@@ -34,13 +34,75 @@ export const data = {
           "title": "多國語系 Localization",
           "slug": "多國語系-localization",
           "children": []
+        },
+        {
+          "level": 3,
+          "title": "html",
+          "slug": "html",
+          "children": []
+        },
+        {
+          "level": 3,
+          "title": "JS",
+          "slug": "js",
+          "children": []
+        },
+        {
+          "level": 3,
+          "title": "API",
+          "slug": "api",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "title": "ALL",
+      "slug": "all",
+      "children": [
+        {
+          "level": 3,
+          "title": "DOM vs JS => jQuery",
+          "slug": "dom-vs-js-jquery",
+          "children": []
+        },
+        {
+          "level": 3,
+          "title": "AJAX: axios | jQuery | fetch",
+          "slug": "ajax-axios-jquery-fetch",
+          "children": []
+        },
+        {
+          "level": 3,
+          "title": "http method",
+          "slug": "http-method",
+          "children": []
         }
       ]
     }
   ],
   "filePathRelative": "web/common.md",
   "git": {
-    "updatedTime": null,
-    "contributors": []
+    "updatedTime": 1624353581000,
+    "contributors": [
+      {
+        "name": "Richard",
+        "email": "dpes8693@gmail.com",
+        "commits": 1
+      }
+    ]
   }
+}
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
 }

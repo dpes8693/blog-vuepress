@@ -27,8 +27,8 @@ module.exports = {
       sidebar: [
         
         {
-          text: 'Guide',
-          link: '/guide/1.md',
+          // text: 'Guide',
+          // link: '/guide/1.md',
           children: [
             {
               text: 'github原始碼',
@@ -37,11 +37,15 @@ module.exports = {
             },
           ],
         },
-        
+        {
+          isGroup: true,
+          text: 'Guide',
+          children: ['/guide/1.md', '/guide/plugin.md' ], //會去抓#的名稱
+        },
         {
           isGroup: true,
           text: 'Web',
-          children: ['/web/common.md', '/web/vue.md' ], //會去抓#的名稱
+          children: ['/web/common.md', '/web/vue.md', '/web/vscode.md' ], //會去抓#的名稱
         },
       ],
     },

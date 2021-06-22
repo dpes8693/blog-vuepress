@@ -2,8 +2,6 @@ export const themeData = {
   "navbar": [],
   "sidebar": [
     {
-      "text": "Guide",
-      "link": "/guide/1.md",
       "children": [
         {
           "text": "github原始碼",
@@ -14,10 +12,19 @@ export const themeData = {
     },
     {
       "isGroup": true,
+      "text": "Guide",
+      "children": [
+        "/guide/1.md",
+        "/guide/plugin.md"
+      ]
+    },
+    {
+      "isGroup": true,
       "text": "Web",
       "children": [
         "/web/common.md",
-        "/web/vue.md"
+        "/web/vue.md",
+        "/web/vscode.md"
       ]
     }
   ],
@@ -46,4 +53,17 @@ export const themeData = {
   ],
   "backToHome": "Take me home",
   "openInNewWindow": "open in new window"
+}
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updateThemeData) {
+    __VUE_HMR_RUNTIME__.updateThemeData(themeData)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ themeData }) => {
+    __VUE_HMR_RUNTIME__.updateThemeData(themeData)
+  })
 }
