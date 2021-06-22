@@ -5,7 +5,7 @@
 [# 文件~~~](https://v2.vuepress.vuejs.org/reference/default-theme/config.html#basic-config)
 ## Markdown 語法
 <!--  -->
-<iframe height=370 width=49% src="/blog-vuepress/demo/EmbedTest.html"></iframe>
+<iframe height=370 width=100% src="/blog-vuepress/demo/EmbedTest.html"></iframe>
 
 :::: code-group
 ::: code-group-item FOO
@@ -25,12 +25,12 @@ const bar = 'bar';
 <!--  -->
 ```html
 Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7tdsTRV2b58" 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/7tdsTRV2b58" 
 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; 
 clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 ```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7tdsTRV2b58" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/7tdsTRV2b58" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--  -->
 ---
