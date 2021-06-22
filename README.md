@@ -4,7 +4,17 @@
 [Medium](https://dpes5407.medium.com/)
 ## Markdown 語法
 <!--  -->
+```html
+Youtube
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7tdsTRV2b58" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+```
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7tdsTRV2b58" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<!--  -->
+
 ![](https://i.imgur.com/8K8J9lX.png)
+
 
 :::: code-group
 ::: code-group-item FOO
@@ -19,6 +29,30 @@ const bar = 'bar';
 ```
 :::
 ::::
+
+
+```md
++ a
+  + 1
+  + 2
++ b
+  1. OuO
+  2. QuQ
+```
++ a
+  + 1
+  + 2
++ b
+  1. OuO
+  2. QuQ
+<!--  -->
+```md
+> The more I learn, the more I realize how much I don't know.  
+> --- Albert Einstein
+```
+> The more I learn, the more I realize how much I don't know.  
+> --- Albert Einstein
+
 <!--  -->
 ```md
 ![VuePress Logo](/blog-vuepress/images/cat.jpg)
@@ -74,3 +108,4 @@ console.log('Hello, VuePress!')
 console.log('Hello, VuePress!')
 ```
 :::
+<!-- 破圖:https://ianwu.tw/press/vuepress/enhance/embed_responsive_video.html#%E5%AE%89%E8%A3%9D-markdown-it-video -->
