@@ -3,18 +3,11 @@
 
 [Medium](https://dpes5407.medium.com/)
 ## Markdown 語法
-<!--  -->
-```html
-Youtube
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7tdsTRV2b58" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7tdsTRV2b58" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--  -->
 
-![](https://i.imgur.com/8K8J9lX.png)
 
+<iframe height=370 width=49% src="/blog-vuepress/demo/EmbedTest.html"></iframe>
 
 :::: code-group
 ::: code-group-item FOO
@@ -29,8 +22,19 @@ const bar = 'bar';
 ```
 :::
 ::::
+---
+<!--  -->
+```html
+Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7tdsTRV2b58" 
+title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; 
+clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+```
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7tdsTRV2b58" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
+<!--  -->
+---
 ```md
 + a
   + 1
@@ -46,6 +50,7 @@ const bar = 'bar';
   1. OuO
   2. QuQ
 <!--  -->
+---
 ```md
 > The more I learn, the more I realize how much I don't know.  
 > --- Albert Einstein
@@ -54,11 +59,14 @@ const bar = 'bar';
 > --- Albert Einstein
 
 <!--  -->
+---
 ```md
 ![VuePress Logo](/blog-vuepress/images/cat.jpg)
 ```
-![VuePress Logo](/blog-vuepress/images/cat.jpg)
+<!-- ![VuePress Logo](/blog-vuepress/images/cat.jpg) -->
+![](https://i.imgur.com/eRVS5qg.jpg)
 <!--  -->
+---
 ```md
 :tada: 
 :100:
@@ -67,6 +75,7 @@ const bar = 'bar';
 
 :100:
 <!--  -->
+---
 ```md
 ::: tip
 This is a tip
@@ -77,6 +86,7 @@ This is a tip
 :::
 
 <!--  -->
+---
 
 
 ```md
@@ -94,9 +104,11 @@ This is a tip
 | zebra stripes | are neat      |    $1 |
 
 <!--  -->
+---
 [# 文件~~~](https://v2.vuepress.vuejs.org/reference/default-theme/config.html#basic-config))
 
 <!--  -->
+---
 ```md
 ::: details [展開]
 ```js

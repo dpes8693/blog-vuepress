@@ -3,12 +3,7 @@
 <p><a href="https://dpes5407.medium.com/" target="_blank" rel="noopener noreferrer">Medium<OutboundLink/></a></p>
 <h2 id="markdown-語法"><a class="header-anchor" href="#markdown-語法">#</a> Markdown 語法</h2>
 <!--  -->
-<div class="language-html ext-html line-numbers-mode"><pre v-pre class="language-html"><code>Youtube
-
-<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>iframe</span> <span class="token attr-name">width</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>560<span class="token punctuation">"</span></span> <span class="token attr-name">height</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>315<span class="token punctuation">"</span></span> <span class="token attr-name">src</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>https://www.youtube.com/embed/7tdsTRV2b58<span class="token punctuation">"</span></span> <span class="token attr-name">title</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>YouTube video player<span class="token punctuation">"</span></span> <span class="token attr-name">frameborder</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>0<span class="token punctuation">"</span></span> <span class="token attr-name">allow</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture<span class="token punctuation">"</span></span> <span class="token attr-name">allowfullscreen</span><span class="token punctuation">></span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>iframe</span><span class="token punctuation">></span></span>
-</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br></div></div><iframe width="560" height="315" src="https://www.youtube.com/embed/7tdsTRV2b58" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<!--  -->
-<p><img src="https://i.imgur.com/8K8J9lX.png" alt=""></p>
+<iframe height=370 width=49% src="/blog-vuepress/demo/EmbedTest.html"></iframe>
 <CodeGroup>
 <CodeGroupItem title="FOO">
 <div class="language-javascript ext-js line-numbers-mode"><pre v-pre class="language-javascript"><code><span class="token keyword">const</span> foo <span class="token operator">=</span> <span class="token string">'foo'</span>
@@ -18,6 +13,16 @@
 
 </code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br></div></div></CodeGroupItem>
 </CodeGroup>
+<hr>
+<!--  -->
+<div class="language-html ext-html line-numbers-mode"><pre v-pre class="language-html"><code>Youtube
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>iframe</span> <span class="token attr-name">width</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>560<span class="token punctuation">"</span></span> <span class="token attr-name">height</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>315<span class="token punctuation">"</span></span> <span class="token attr-name">src</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>https://www.youtube.com/embed/7tdsTRV2b58<span class="token punctuation">"</span></span> 
+<span class="token attr-name">title</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>YouTube video player<span class="token punctuation">"</span></span> <span class="token attr-name">frameborder</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>0<span class="token punctuation">"</span></span> <span class="token attr-name">allow</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>accelerometer; autoplay; 
+clipboard-write; encrypted-media; gyroscope; picture-in-picture<span class="token punctuation">"</span></span> <span class="token attr-name">allowfullscreen</span><span class="token punctuation">></span></span>
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>iframe</span><span class="token punctuation">></span></span>
+</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br></div></div><iframe width="560" height="315" src="https://www.youtube.com/embed/7tdsTRV2b58" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!--  -->
+<hr>
 <div class="language-markdown ext-md line-numbers-mode"><pre v-pre class="language-markdown"><code><span class="token list punctuation">+</span> a
   <span class="token list punctuation">+</span> 1
   <span class="token list punctuation">+</span> 2
@@ -39,6 +44,7 @@
 </li>
 </ul>
 <!--  -->
+<hr>
 <div class="language-markdown ext-md line-numbers-mode"><pre v-pre class="language-markdown"><code><span class="token blockquote punctuation">></span> The more I learn, the more I realize how much I don't know.  
 <span class="token blockquote punctuation">></span> --- Albert Einstein
 </code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br></div></div><blockquote>
@@ -46,14 +52,18 @@
 --- Albert Einstein</p>
 </blockquote>
 <!--  -->
+<hr>
 <div class="language-markdown ext-md line-numbers-mode"><pre v-pre class="language-markdown"><code><span class="token url"><span class="token operator">!</span>[<span class="token content">VuePress Logo</span>](<span class="token url">/blog-vuepress/images/cat.jpg</span>)</span>
-</code></pre><div class="line-numbers"><span class="line-number">1</span><br></div></div><p><img src="/blog-vuepress/images/cat.jpg" alt="VuePress Logo"></p>
+</code></pre><div class="line-numbers"><span class="line-number">1</span><br></div></div><!-- ![VuePress Logo](/blog-vuepress/images/cat.jpg) -->
+<p><img src="https://i.imgur.com/eRVS5qg.jpg" alt=""></p>
 <!--  -->
+<hr>
 <div class="language-markdown ext-md line-numbers-mode"><pre v-pre class="language-markdown"><code>:tada: 
 :100:
 </code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br></div></div><p>🎉</p>
 <p>💯</p>
 <!--  -->
+<hr>
 <div class="language-markdown ext-md line-numbers-mode"><pre v-pre class="language-markdown"><code>::: tip
 This is a tip
 :::
@@ -61,6 +71,7 @@ This is a tip
 <p>This is a tip</p>
 </div>
 <!--  -->
+<hr>
 <div class="language-markdown ext-md line-numbers-mode"><pre v-pre class="language-markdown"><code><span class="token table"><span class="token table-header-row"><span class="token punctuation">|</span><span class="token table-header important"> Tables        </span><span class="token punctuation">|</span><span class="token table-header important"> Are           </span><span class="token punctuation">|</span><span class="token table-header important"> Cool  </span><span class="token punctuation">|</span>
 </span><span class="token table-line"><span class="token punctuation">|</span> <span class="token punctuation">-------------</span> <span class="token punctuation">|</span><span class="token punctuation">:-------------:</span><span class="token punctuation">|</span> <span class="token punctuation">-----:</span><span class="token punctuation">|</span>
 </span><span class="token table-data-rows"><span class="token punctuation">|</span><span class="token table-data"> col 3 is      </span><span class="token punctuation">|</span><span class="token table-data"> right-aligned </span><span class="token punctuation">|</span><span class="token table-data"> $1600 </span><span class="token punctuation">|</span>
@@ -93,8 +104,10 @@ This is a tip
 </tbody>
 </table>
 <!--  -->
+<hr>
 <p><a href="https://v2.vuepress.vuejs.org/reference/default-theme/config.html#basic-config" target="_blank" rel="noopener noreferrer"># 文件~~~<OutboundLink/></a>)</p>
 <!--  -->
+<hr>
 <div class="language-markdown ext-md line-numbers-mode"><pre v-pre class="language-markdown"><code>::: details [展開]
 ```js
 console.log('Hello, VuePress!')
