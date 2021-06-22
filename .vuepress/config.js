@@ -11,10 +11,10 @@ module.exports = {
       
       navbar: [
         // NavbarItem
-        {
-          text: 'guide',
-          link: '/guide/1.md',
-        },
+        // {
+        //   text: 'guide',
+        //   link: '/guide/1.md',
+        // },
         // NavbarGroup
         // {
         //   text: 'Group',
@@ -25,27 +25,24 @@ module.exports = {
       ],
 
       sidebar: [
-        // SidebarItem
+        
         {
           text: 'Guide',
           link: '/guide/1.md',
           children: [
-            // SidebarItem
             {
               text: 'github原始碼',
               link: 'https://github.com/dpes8693/blog-vuepress',
               children: [],
             },
-            // 字符串 - 页面文件路径
-            //'/guide/1.md',
           ],
         },
-        // SidebarGroup
-        // {
-        //   isGroup: true,
-        //   text: 'Group',
-        //   children: ['/group/foo.md', '/group/bar.md'],
-        // },
+        
+        {
+          isGroup: true,
+          text: 'Web',
+          children: ['/web/common.md', '/web/vue.md' ], //會去抓#的名稱
+        },
       ],
     },
   }

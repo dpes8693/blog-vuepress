@@ -1,10 +1,5 @@
 export const themeData = {
-  "navbar": [
-    {
-      "text": "guide",
-      "link": "/guide/1.md"
-    }
-  ],
+  "navbar": [],
   "sidebar": [
     {
       "text": "Guide",
@@ -15,6 +10,14 @@ export const themeData = {
           "link": "https://github.com/dpes8693/blog-vuepress",
           "children": []
         }
+      ]
+    },
+    {
+      "isGroup": true,
+      "text": "Web",
+      "children": [
+        "/web/common.md",
+        "/web/vue.md"
       ]
     }
   ],
