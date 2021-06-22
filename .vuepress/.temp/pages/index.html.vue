@@ -1,6 +1,8 @@
 <template><h1 id="about-me"><a class="header-anchor" href="#about-me">#</a> About Me</h1>
-<p><a href="https://home.gamer.com.tw/creation.php?owner=dpes5407" target="_blank" rel="noopener noreferrer">巴哈<OutboundLink/></a></p>
-<p><a href="https://dpes5407.medium.com/" target="_blank" rel="noopener noreferrer">Medium<OutboundLink/></a></p>
+<p><a href="https://home.gamer.com.tw/creation.php?owner=dpes5407" target="_blank" rel="noopener noreferrer"> #巴哈<OutboundLink/></a>
+<a href="https://dpes8693.github.io/blog-vuepress/" target="_blank" rel="noopener noreferrer"> #Blog<OutboundLink/></a>
+<a href="https://dpes5407.medium.com/" target="_blank" rel="noopener noreferrer"> #Medium<OutboundLink/></a><br>
+<a href="https://v2.vuepress.vuejs.org/reference/default-theme/config.html#basic-config" target="_blank" rel="noopener noreferrer"># 文件~~~<OutboundLink/></a></p>
 <h2 id="markdown-語法"><a class="header-anchor" href="#markdown-語法">#</a> Markdown 語法</h2>
 <!--  -->
 <iframe height=370 width=49% src="/blog-vuepress/demo/EmbedTest.html"></iframe>
@@ -24,23 +26,21 @@ clipboard-write; encrypted-media; gyroscope; picture-in-picture<span class="toke
 <!--  -->
 <hr>
 <div class="language-markdown ext-md line-numbers-mode"><pre v-pre class="language-markdown"><code><span class="token list punctuation">+</span> a
-  <span class="token list punctuation">+</span> 1
-  <span class="token list punctuation">+</span> 2
 <span class="token list punctuation">+</span> b
   <span class="token list punctuation">1.</span> OuO
   <span class="token list punctuation">2.</span> QuQ
+  <span class="token list punctuation">-</span> 123
+
 </code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br></div></div><ul>
-<li>a
-<ul>
-<li>1</li>
-<li>2</li>
-</ul>
-</li>
+<li>a</li>
 <li>b
 <ol>
 <li>OuO</li>
 <li>QuQ</li>
 </ol>
+<ul>
+<li>123</li>
+</ul>
 </li>
 </ul>
 <!--  -->
@@ -55,20 +55,21 @@ clipboard-write; encrypted-media; gyroscope; picture-in-picture<span class="toke
 <hr>
 <div class="language-markdown ext-md line-numbers-mode"><pre v-pre class="language-markdown"><code><span class="token url"><span class="token operator">!</span>[<span class="token content">VuePress Logo</span>](<span class="token url">/blog-vuepress/images/cat.jpg</span>)</span>
 </code></pre><div class="line-numbers"><span class="line-number">1</span><br></div></div><!-- ![VuePress Logo](/blog-vuepress/images/cat.jpg) -->
-<p><img src="https://i.imgur.com/eRVS5qg.jpg" alt=""></p>
+<p><img src="https://i.imgur.com/eRVS5qg.jpg" alt="CAT"></p>
 <!--  -->
 <hr>
 <div class="language-markdown ext-md line-numbers-mode"><pre v-pre class="language-markdown"><code>:tada: 
+
 :100:
-</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br></div></div><p>🎉</p>
+</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br></div></div><p>🎉</p>
 <p>💯</p>
 <!--  -->
 <hr>
 <div class="language-markdown ext-md line-numbers-mode"><pre v-pre class="language-markdown"><code>::: tip
 This is a tip
 :::
-</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br></div></div><div class="custom-container tip"><p class="custom-container-title">TIP</p>
-<p>This is a tip</p>
+</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br></div></div><div class="custom-container tip"><p class="custom-container-title">This is a tip</p>
+<br>
 </div>
 <!--  -->
 <hr>
@@ -105,7 +106,13 @@ This is a tip
 </table>
 <!--  -->
 <hr>
-<p><a href="https://v2.vuepress.vuejs.org/reference/default-theme/config.html#basic-config" target="_blank" rel="noopener noreferrer"># 文件~~~<OutboundLink/></a>)</p>
+<div class="language-markdown ext-md line-numbers-mode"><pre v-pre class="language-markdown"><code>    1.Apple
+    2.Banana
+    3.Pineapple
+</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br></div></div><pre><code>1.Apple
+2.Banana
+3.Pineapple
+</code></pre>
 <!--  -->
 <hr>
 <div class="language-markdown ext-md line-numbers-mode"><pre v-pre class="language-markdown"><code>::: details [展開]
@@ -114,4 +121,5 @@ console.log('Hello, VuePress!')
 </code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br></div></div><details class="custom-container details"><summary>[展開]</summary>
 <div class="language-javascript ext-js line-numbers-mode"><pre v-pre class="language-javascript"><code>console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token string">'Hello, VuePress!'</span><span class="token punctuation">)</span>
 </code></pre><div class="line-numbers"><span class="line-number">1</span><br></div></div></details>
+<!--  -->
 <!-- 破圖:https://ianwu.tw/press/vuepress/enhance/embed_responsive_video.html#%E5%AE%89%E8%A3%9D-markdown-it-video --></template>

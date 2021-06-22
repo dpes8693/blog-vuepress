@@ -4,14 +4,11 @@ module.exports = {
     head: [['link', { rel: 'icon', href: '/blog-vuepress/images/icon.png' }]],
     dest: 'docs',
     base: "/blog-vuepress/",
-
-    
     description: '歡迎',
   
     themeConfig: {
       //logo: 'https://vuejs.org/images/logo.png',
       
-
       navbar: [
         // NavbarItem
         {
@@ -49,9 +46,6 @@ module.exports = {
         //   text: 'Group',
         //   children: ['/group/foo.md', '/group/bar.md'],
         // },
-        
       ],
     },
-
-
   }

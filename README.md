@@ -1,12 +1,10 @@
 # About Me
-[巴哈](https://home.gamer.com.tw/creation.php?owner=dpes5407)
-
-[Medium](https://dpes5407.medium.com/)
+[ #巴哈](https://home.gamer.com.tw/creation.php?owner=dpes5407)
+[ #Blog](https://dpes8693.github.io/blog-vuepress/)
+[ #Medium](https://dpes5407.medium.com/)<br>
+[# 文件~~~](https://v2.vuepress.vuejs.org/reference/default-theme/config.html#basic-config)
 ## Markdown 語法
-
 <!--  -->
-
-
 <iframe height=370 width=49% src="/blog-vuepress/demo/EmbedTest.html"></iframe>
 
 :::: code-group
@@ -22,6 +20,7 @@ const bar = 'bar';
 ```
 :::
 ::::
+
 ---
 <!--  -->
 ```html
@@ -37,18 +36,17 @@ clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
 ---
 ```md
 + a
-  + 1
-  + 2
 + b
   1. OuO
   2. QuQ
+  - 123
+
 ```
 + a
-  + 1
-  + 2
 + b
   1. OuO
   2. QuQ
+  - 123
 <!--  -->
 ---
 ```md
@@ -57,18 +55,18 @@ clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
 ```
 > The more I learn, the more I realize how much I don't know.  
 > --- Albert Einstein
-
 <!--  -->
 ---
 ```md
 ![VuePress Logo](/blog-vuepress/images/cat.jpg)
 ```
 <!-- ![VuePress Logo](/blog-vuepress/images/cat.jpg) -->
-![](https://i.imgur.com/eRVS5qg.jpg)
+![CAT](https://i.imgur.com/eRVS5qg.jpg)
 <!--  -->
 ---
 ```md
 :tada: 
+
 :100:
 ```
 :tada: 
@@ -81,10 +79,9 @@ clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
 This is a tip
 :::
 ```
-::: tip
-This is a tip
+::: tip This is a tip
+<br>
 :::
-
 <!--  -->
 ---
 
@@ -102,11 +99,17 @@ This is a tip
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
-
 <!--  -->
 ---
-[# 文件~~~](https://v2.vuepress.vuejs.org/reference/default-theme/config.html#basic-config))
 
+```md
+    1.Apple
+    2.Banana
+    3.Pineapple
+```
+    1.Apple
+    2.Banana
+    3.Pineapple
 <!--  -->
 ---
 ```md
@@ -120,4 +123,9 @@ console.log('Hello, VuePress!')
 console.log('Hello, VuePress!')
 ```
 :::
+<!--  -->
+
+
+
+
 <!-- 破圖:https://ianwu.tw/press/vuepress/enhance/embed_responsive_video.html#%E5%AE%89%E8%A3%9D-markdown-it-video -->
