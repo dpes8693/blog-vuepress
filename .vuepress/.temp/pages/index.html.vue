@@ -117,21 +117,3 @@ console.log('Hello, VuePress!')
 </code></pre><div class="line-numbers"><span class="line-number">1</span><br></div></div></details>
 <!--  -->
 <!-- 破圖:https://ianwu.tw/press/vuepress/enhance/embed_responsive_video.html#%E5%AE%89%E8%A3%9D-markdown-it-video --></template>
-
-<style>
-html {
-    overflow: -moz-hidden-unscrollable;
-    height: 100%;
-}
-
-body::-webkit-scrollbar {
-    display: none;
-}
-
-body {
-    -ms-overflow-style: none;
-    height: 100%;
-	width: calc(100vw + 18px);
-	overflow: auto;
-}
-</style>

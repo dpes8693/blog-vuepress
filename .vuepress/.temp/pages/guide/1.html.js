@@ -1,7 +1,7 @@
 export const data = {
   "key": "v-6e0d8f34",
   "path": "/guide/1.html",
-  "title": "用 Vupress 架 Blog",
+  "title": "用Vupress架Blog",
   "lang": "zh-tw",
   "frontmatter": {},
   "excerpt": "",
@@ -119,26 +119,13 @@ export const data = {
   ],
   "filePathRelative": "guide/1.md",
   "git": {
-    "updatedTime": 1624429629000,
+    "updatedTime": 1624431747000,
     "contributors": [
       {
         "name": "Richard",
         "email": "dpes8693@gmail.com",
-        "commits": 8
+        "commits": 9
       }
     ]
   }
-}
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
 }
