@@ -21,3 +21,21 @@ https://ithelp.ithome.com.tw/articles/10157832</p>
 <p>moment.js 時間
 https://ithelp.ithome.com.tw/articles/10208995</p>
 </template>
+
+<style>
+html {
+    overflow: -moz-hidden-unscrollable;
+    height: 100%;
+}
+
+body::-webkit-scrollbar {
+    display: none;
+}
+
+body {
+    -ms-overflow-style: none;
+    height: 100%;
+	width: calc(100vw + 18px);
+	overflow: auto;
+}
+</style>

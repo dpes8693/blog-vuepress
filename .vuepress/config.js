@@ -1,7 +1,10 @@
 module.exports = {
   lang: "zh-tw",
   title: "Richard",
-  head: [["link", { rel: "icon", href: "/blog-vuepress/images/icon.png" }]],
+  head: [
+    ["link", { rel: "icon", href: "/blog-vuepress/images/icon.png" }]
+    // ["style",{ src: "/blog-vuepress/style/base.css"}]
+  ],
   dest: "docs",
   base: "/blog-vuepress/",
   description: "歡迎",

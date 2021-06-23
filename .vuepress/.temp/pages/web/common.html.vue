@@ -218,3 +218,21 @@ xhttp<span class="token punctuation">.</span><span class="token function">send</
 <p>5XX 系列
 5XX 系列代表 server 端在處理請求的過程中有錯誤，看到這類代表不用檢查自己程式碼是否有寫錯，趕快跟後端工程師反應吧 XD</p>
 </template>
+
+<style>
+html {
+    overflow: -moz-hidden-unscrollable;
+    height: 100%;
+}
+
+body::-webkit-scrollbar {
+    display: none;
+}
+
+body {
+    -ms-overflow-style: none;
+    height: 100%;
+	width: calc(100vw + 18px);
+	overflow: auto;
+}
+</style>

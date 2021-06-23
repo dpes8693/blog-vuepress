@@ -13,3 +13,21 @@ CSS設定表: https://css3generator.com/ 假圖產生:<span class="token tag"><s
 畫Wireframe：Whimsical 一些工具名詞: strikingly Mobirise Weebly Squarespace Wix
 Webflow 拖拉輸出code要收費了 Font Awesome icon語法 unbounce jimdo
 </code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br></div></div></template>
+
+<style>
+html {
+    overflow: -moz-hidden-unscrollable;
+    height: 100%;
+}
+
+body::-webkit-scrollbar {
+    display: none;
+}
+
+body {
+    -ms-overflow-style: none;
+    height: 100%;
+	width: calc(100vw + 18px);
+	overflow: auto;
+}
+</style>

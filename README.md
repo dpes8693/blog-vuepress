@@ -1,4 +1,21 @@
 # About Me
+<style>
+html {
+    overflow: -moz-hidden-unscrollable;
+    height: 100%;
+}
+
+body::-webkit-scrollbar {
+    display: none;
+}
+
+body {
+    -ms-overflow-style: none;
+    height: 100%;
+	width: calc(100vw + 18px);
+	overflow: auto;
+}
+</style>
 [ #巴哈](https://home.gamer.com.tw/creation.php?owner=dpes5407)
 [ #Blog](https://dpes8693.github.io/blog-vuepress/)
 [ #Medium](https://dpes5407.medium.com/)<br>

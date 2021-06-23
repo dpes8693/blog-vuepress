@@ -224,3 +224,21 @@ module<span class="token punctuation">.</span>exports <span class="token operato
 這篇閱讀完可能只花 15 分鐘,剛接觸實作就要好幾個小時!💯
 以上 有問題慢慢補充</p>
 </template>
+
+<style>
+html {
+    overflow: -moz-hidden-unscrollable;
+    height: 100%;
+}
+
+body::-webkit-scrollbar {
+    display: none;
+}
+
+body {
+    -ms-overflow-style: none;
+    height: 100%;
+	width: calc(100vw + 18px);
+	overflow: auto;
+}
+</style>
