@@ -13,8 +13,6 @@ export const pagesComponents = {
   "v-ec084aca": defineAsyncComponent(() => import(/* webpackChunkName: "v-ec084aca" */"C:/Users/dpes/Documents/GitHub/blog-vuepress/.vuepress/.temp/pages/web/vscode.html.vue")),
   // path: /web/vue.html
   "v-1f585632": defineAsyncComponent(() => import(/* webpackChunkName: "v-1f585632" */"C:/Users/dpes/Documents/GitHub/blog-vuepress/.vuepress/.temp/pages/web/vue.html.vue")),
-  // path: /docs/demo/test.html
-  "v-6d829d16": defineAsyncComponent(() => import(/* webpackChunkName: "v-6d829d16" */"C:/Users/dpes/Documents/GitHub/blog-vuepress/.vuepress/.temp/pages/docs/demo/test.html.vue")),
   // path: /404.html
   "v-3706649a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3706649a" */"C:/Users/dpes/Documents/GitHub/blog-vuepress/.vuepress/.temp/pages/404.html.vue")),
 }

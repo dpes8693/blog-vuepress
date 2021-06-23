@@ -1,82 +1,184 @@
 <template><h1 id="小常識"><a class="header-anchor" href="#小常識">#</a> 小常識</h1>
 <h2 id="網頁架構"><a class="header-anchor" href="#網頁架構">#</a> 網頁架構</h2>
 <p>說到網頁不得不提 DOM BOM
-![BOM](https://i.imgur.com/n9FjFpv.png =500x)
+<img src="https://i.imgur.com/n9FjFpv.png" alt="BOM">
 Browser Object Model
-https://ithelp.ithome.com.tw/upload/images/20171214/20065504EIG4UYcuGE.png</p>
-<p>![DOM](https://i.imgur.com/uJwKmCq.png =500x)
+<a href="https://ithelp.ithome.com.tw/upload/images/20171214/20065504EIG4UYcuGE.png" target="_blank" rel="noopener noreferrer"><OutboundLink/></a></p>
+<p><img src="https://i.imgur.com/uJwKmCq.png" alt="DOM">
 Document Object Model
-https://www.javadrive.jp/javascript/dom/index1.html</p>
+<a href="https://www.javadrive.jp/javascript/dom/index1.html" target="_blank" rel="noopener noreferrer"><OutboundLink/></a></p>
 <h2 id="web-三本柱"><a class="header-anchor" href="#web-三本柱">#</a> Web 三本柱</h2>
 <h3 id="git"><a class="header-anchor" href="#git">#</a> Git</h3>
-<p>雖然 Git 用下指令才能發揮威力，但降低門檻從圖形化介面入門也沒不好。
+<ul>
+<li>
+<p>雖然 Git 用下指令才能發揮威力，但降低門檻從圖形化介面入門也沒不好。<br>
 https://progressbar.tw/posts/49</p>
-<p>常見的五個開源專案授權條款，使用軟體更自由
+</li>
+<li>
+<p>常見的五個開源專案授權條款，使用軟體更自由<br>
 https://noob.tw/open-source-licenses/</p>
-<p>git ignore
+</li>
+<li>
+<p>Git ignore<br>
 https://gitbook.tw/chapters/using-git/ignore.html</p>
+</li>
+</ul>
 <h3 id="語言-language"><a class="header-anchor" href="#語言-language">#</a> 語言 Language</h3>
 <p><img src="https://i.imgur.com/9DX9OuA.png" alt="靜態型別-必須宣告資料"></p>
 <h3 id="多國語系-localization"><a class="header-anchor" href="#多國語系-localization">#</a> 多國語系 Localization</h3>
-<p>zh 或 zh-tw, zh-cn 是什麼的縮寫？
-https://english.bruceli.net/2011/11/zhzh-tw-zh-cn.html</p>
+<ul>
+<li>zh 或 zh-tw, zh-cn 是什麼的縮寫？<br>
+https://english.bruceli.net/2011/11/zhzh-tw-zh-cn.html</li>
+</ul>
 <h3 id="html"><a class="header-anchor" href="#html">#</a> html</h3>
-<p>從 0 開始的網頁生活！30 天從網頁新手到網頁入門
-https://ithelp.ithome.com.tw/users/20111948/ironman/1776</p>
-<p>| HTML TAG | Eng.            |
-| -------- | --------------- | -------------------------------- |
-| var      | variable        | Text                             |
-| q        | quotation       | Text                             |
-| em       | emphasized      | Text                             |
-| b        | bold            | Text                             |
-| i        | italic          | Text                             |
-| br       | break           | Text                             |
-| u        | underlined      | Text                             |
-| s        | strikethrough   | Text                             |
-| span     | span            | 範圍                             |
-| ol       | ordered list    | Text                             |
-| ul       | unordered list  | Text                             |
-| li       | list item       | ***                           |
-| h1       | header 1        | ***                           |
-| p        | paragraph       | 段落                             |
-| hr       | horizontal rule | 段落                             |
-| rel      | relations       | 关联到一个 stylesheet（样式表单) |</p>
+<ul>
+<li>從 0 開始的網頁生活！30 天從網頁新手到網頁入門<br>
+https://ithelp.ithome.com.tw/users/20111948/ironman/1776</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>HTML TAG</th>
+<th>Eng.</th>
+<th>X</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>var</td>
+<td>variable</td>
+<td>Text</td>
+</tr>
+<tr>
+<td>q</td>
+<td>quotation</td>
+<td>Text</td>
+</tr>
+<tr>
+<td>em</td>
+<td>emphasized</td>
+<td>Text</td>
+</tr>
+<tr>
+<td>b</td>
+<td>bold</td>
+<td>Text</td>
+</tr>
+<tr>
+<td>i</td>
+<td>italic</td>
+<td>Text</td>
+</tr>
+<tr>
+<td>br</td>
+<td>break</td>
+<td>Text</td>
+</tr>
+<tr>
+<td>u</td>
+<td>underlined</td>
+<td>Text</td>
+</tr>
+<tr>
+<td>s</td>
+<td>strikethrough</td>
+<td>Text</td>
+</tr>
+<tr>
+<td>span</td>
+<td>span</td>
+<td>範圍</td>
+</tr>
+<tr>
+<td>ol</td>
+<td>ordered list</td>
+<td>Text</td>
+</tr>
+<tr>
+<td>ul</td>
+<td>unordered list</td>
+<td>Text</td>
+</tr>
+<tr>
+<td>li</td>
+<td>list item</td>
+<td>***</td>
+</tr>
+<tr>
+<td>h1</td>
+<td>header 1</td>
+<td>***</td>
+</tr>
+<tr>
+<td>p</td>
+<td>paragraph</td>
+<td>段落</td>
+</tr>
+<tr>
+<td>hr</td>
+<td>horizontal rule</td>
+<td>段落</td>
+</tr>
+<tr>
+<td>rel</td>
+<td>relations</td>
+<td>关联到一个 stylesheet（样式表单)</td>
+</tr>
+</tbody>
+</table>
 <h3 id="js"><a class="header-anchor" href="#js">#</a> JS</h3>
 <p>重新認識 JavaScript: Day 01 前言
-2018 鐵人賽 javascript
-Kuro Hsu
+2018 鐵人賽 javascript</p>
+<ul>
+<li>
+<p>Kuro Hsu<br>
 https://ithelp.ithome.com.tw/articles/10190633</p>
-<p>從 ES6 開始的 JavaScript 學習生活
+</li>
+<li>
+<p>從 ES6 開始的 JavaScript 學習生活<br>
 https://eyesofkids.gitbooks.io/javascript-start-from-es6/content/</p>
-<p>JavaScript 初心者ノ研究日記
+</li>
+<li>
+<p>JavaScript 初心者ノ研究日記<br>
 https://ithelp.ithome.com.tw/users/20129506/ironman/3700?page=1</p>
-<p>ES6
+</li>
+<li>
+<p>ES6<br>
 https://ithelp.ithome.com.tw/articles/10223406</p>
+</li>
+</ul>
 <p>JavaScript
 jQuery 這個 JavaScript 函式庫
 初衷是用來簡化 HTML 與 JavaScript 之間的溝通與操作</p>
  <!-- 将<script type="text/javascript"></script>
  修改为<script type="module"></script> -->
 <h3 id="api"><a class="header-anchor" href="#api">#</a> API</h3>
-<p>Application Programming Interface
-RESTful API
-https://ithelp.ithome.com.tw/users/20107247/ironman/1312?page=1</p>
+<ul>
+<li>Application Programming Interface</li>
+<li>RESTful API<br>
+https://ithelp.ithome.com.tw/users/20107247/ironman/1312?page=1</li>
+</ul>
 <h2 id="all"><a class="header-anchor" href="#all">#</a> ALL</h2>
 <p><img src="https://i.imgur.com/QPYZIfa.png" alt=""></p>
-<p>1.妹子教學
-https://ithelp.ithome.com.tw/users/20121212/ironman/3578 2.初心者的前端路線學習指南
-https://medium.com/i-am-mike/%E5%88%9D%E5%BF%83%E8%80%85%E7%9A%84%E5%89%8D%E7%AB%AF%E8%B7%AF%E7%B7%9A%E5%AD%B8%E7%BF%92%E6%8C%87%E5%8D%97-895de088257f</p>
-<ol start="3">
-<li>https://medium.com/%E9%BA%A5%E5%85%8B%E7%9A%84%E5%8D%8A%E8%B7%AF%E5%87%BA%E5%AE%B6%E7%AD%86%E8%A8%98/%E4%BB%80%E9%BA%BC%E6%98%AF%E5%88%87%E7%89%88-%E5%88%87%E7%89%88%E7%B7%B4%E7%BF%92%E7%9A%84%E6%96%B9%E5%BC%8F%E8%88%87%E5%B7%A5%E5%85%B7-7069b2dbf742</li>
+<ol>
+<li>
+<p><a href="https://ithelp.ithome.com.tw/users/20121212/ironman/3578" target="_blank" rel="noopener noreferrer">正妹教學<OutboundLink/></a></p>
+</li>
+<li>
+<p><a href="https://medium.com/i-am-mike/%E5%88%9D%E5%BF%83%E8%80%85%E7%9A%84%E5%89%8D%E7%AB%AF%E8%B7%AF%E7%B7%9A%E5%AD%B8%E7%BF%92%E6%8C%87%E5%8D%97-895de088257f" target="_blank" rel="noopener noreferrer">初心者的前端路線學習指南<OutboundLink/></a></p>
+</li>
+<li>
+<p><a href="https://medium.com/%E9%BA%A5%E5%85%8B%E7%9A%84%E5%8D%8A%E8%B7%AF%E5%87%BA%E5%AE%B6%E7%AD%86%E8%A8%98/%E4%BB%80%E9%BA%BC%E6%98%AF%E5%88%87%E7%89%88-%E5%88%87%E7%89%88%E7%B7%B4%E7%BF%92%E7%9A%84%E6%96%B9%E5%BC%8F%E8%88%87%E5%B7%A5%E5%85%B7-7069b2dbf742" target="_blank" rel="noopener noreferrer">什麼是切版？切版練習的方式與工具<OutboundLink/></a></p>
+</li>
 </ol>
 <h3 id="dom-vs-js-jquery"><a class="header-anchor" href="#dom-vs-js-jquery">#</a> DOM vs JS =&gt; jQuery</h3>
 <div class="language-javascript ext-js line-numbers-mode"><pre v-pre class="language-javascript"><code><span class="token keyword">const</span> element <span class="token operator">=</span> document<span class="token punctuation">.</span><span class="token function">getElementById</span><span class="token punctuation">(</span><span class="token string">'test'</span><span class="token punctuation">)</span>
 test<span class="token punctuation">.</span><span class="token function">addEventListener</span><span class="token punctuation">(</span><span class="token string">'click'</span><span class="token punctuation">,</span> <span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">=></span> <span class="token function">alert</span><span class="token punctuation">(</span><span class="token string">'Hello World'</span><span class="token punctuation">)</span><span class="token punctuation">,</span> <span class="token boolean">false</span><span class="token punctuation">)</span>
 </code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br></div></div><div class="language-javascript ext-js line-numbers-mode"><pre v-pre class="language-javascript"><code><span class="token function">$</span><span class="token punctuation">(</span><span class="token string">'#test'</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">click</span><span class="token punctuation">(</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">=></span> <span class="token function">alert</span><span class="token punctuation">(</span>'Hello World
 </code></pre><div class="line-numbers"><span class="line-number">1</span><br></div></div><p>頁面讀取: 白話來說 就是 DOM 建立好就執行 function 和 等圖片等 DOM 載入完成才執行 function</p>
-<p>$(document).ready(callback)
+<p>$(document).ready(callback)<br>
 當頁面內的 DOM 都準備好開始讀取就會執行 callback 內的 function ，亦可簡寫成 $(() =&gt; {})</p>
-<p>window.onload = callback
+<p>window.onload = callback<br>
 當頁面內的 DOM 已經開始讀取才會執行 callback 內的 function 。</p>
 <p>CSS 選擇器</p>
 <h3 id="ajax-axios-jquery-fetch"><a class="header-anchor" href="#ajax-axios-jquery-fetch">#</a> AJAX: axios | jQuery | fetch</h3>

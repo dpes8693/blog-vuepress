@@ -7,7 +7,6 @@ const routeItems = [
   ["v-07f2110c","/web/common.html","小常識",["/web/common.md"]],
   ["v-ec084aca","/web/vscode.html","VScode",["/web/vscode.md"]],
   ["v-1f585632","/web/vue.html","Vue.js",["/web/vue.md"]],
-  ["v-6d829d16","/docs/demo/test.html","",["/docs/demo/test.md"]],
   ["v-3706649a","/404.html","",[]],
 ]
 

@@ -3,25 +3,25 @@
 ## 網頁架構
 
 說到網頁不得不提 DOM BOM
-![BOM](https://i.imgur.com/n9FjFpv.png =500x)
+![BOM](https://i.imgur.com/n9FjFpv.png)
 Browser Object Model
-https://ithelp.ithome.com.tw/upload/images/20171214/20065504EIG4UYcuGE.png
+[](https://ithelp.ithome.com.tw/upload/images/20171214/20065504EIG4UYcuGE.png)
 
-![DOM](https://i.imgur.com/uJwKmCq.png =500x)
+![DOM](https://i.imgur.com/uJwKmCq.png)
 Document Object Model
-https://www.javadrive.jp/javascript/dom/index1.html
+[](https://www.javadrive.jp/javascript/dom/index1.html)
 
 ## Web 三本柱
 
 ### Git
 
-雖然 Git 用下指令才能發揮威力，但降低門檻從圖形化介面入門也沒不好。
++ 雖然 Git 用下指令才能發揮威力，但降低門檻從圖形化介面入門也沒不好。<br>
 https://progressbar.tw/posts/49
 
-常見的五個開源專案授權條款，使用軟體更自由
++ 常見的五個開源專案授權條款，使用軟體更自由<br>
 https://noob.tw/open-source-licenses/
 
-git ignore
++ Git ignore<br>
 https://gitbook.tw/chapters/using-git/ignore.html
 
 ### 語言 Language
@@ -30,15 +30,15 @@ https://gitbook.tw/chapters/using-git/ignore.html
 
 ### 多國語系 Localization
 
-zh 或 zh-tw, zh-cn 是什麼的縮寫？
++ zh 或 zh-tw, zh-cn 是什麼的縮寫？<br>
 https://english.bruceli.net/2011/11/zhzh-tw-zh-cn.html
 
 ### html
 
-從 0 開始的網頁生活！30 天從網頁新手到網頁入門
++ 從 0 開始的網頁生活！30 天從網頁新手到網頁入門<br>
 https://ithelp.ithome.com.tw/users/20111948/ironman/1776
 
-| HTML TAG | Eng.            |
+| HTML TAG | Eng.            | X
 | -------- | --------------- | -------------------------------- |
 | var      | variable        | Text                             |
 | q        | quotation       | Text                             |
@@ -61,16 +61,16 @@ https://ithelp.ithome.com.tw/users/20111948/ironman/1776
 
 重新認識 JavaScript: Day 01 前言
 2018 鐵人賽 javascript
-Kuro Hsu
++ Kuro Hsu<br>
 https://ithelp.ithome.com.tw/articles/10190633
 
-從 ES6 開始的 JavaScript 學習生活
++ 從 ES6 開始的 JavaScript 學習生活<br>
 https://eyesofkids.gitbooks.io/javascript-start-from-es6/content/
 
-JavaScript 初心者ノ研究日記
++ JavaScript 初心者ノ研究日記<br>
 https://ithelp.ithome.com.tw/users/20129506/ironman/3700?page=1
 
-ES6
++ ES6<br>
 https://ithelp.ithome.com.tw/articles/10223406
 
 JavaScript
@@ -82,19 +82,19 @@ jQuery 這個 JavaScript 函式庫
 
 ### API
 
-Application Programming Interface
-RESTful API
++ Application Programming Interface
++ RESTful API<br>
 https://ithelp.ithome.com.tw/users/20107247/ironman/1312?page=1
 
 ## ALL
 
 ![](https://i.imgur.com/QPYZIfa.png)
 
-1.妹子教學
-https://ithelp.ithome.com.tw/users/20121212/ironman/3578 2.初心者的前端路線學習指南
-https://medium.com/i-am-mike/%E5%88%9D%E5%BF%83%E8%80%85%E7%9A%84%E5%89%8D%E7%AB%AF%E8%B7%AF%E7%B7%9A%E5%AD%B8%E7%BF%92%E6%8C%87%E5%8D%97-895de088257f
+1. [正妹教學](https://ithelp.ithome.com.tw/users/20121212/ironman/3578)
 
-3.  https://medium.com/%E9%BA%A5%E5%85%8B%E7%9A%84%E5%8D%8A%E8%B7%AF%E5%87%BA%E5%AE%B6%E7%AD%86%E8%A8%98/%E4%BB%80%E9%BA%BC%E6%98%AF%E5%88%87%E7%89%88-%E5%88%87%E7%89%88%E7%B7%B4%E7%BF%92%E7%9A%84%E6%96%B9%E5%BC%8F%E8%88%87%E5%B7%A5%E5%85%B7-7069b2dbf742
+2. [初心者的前端路線學習指南](https://medium.com/i-am-mike/%E5%88%9D%E5%BF%83%E8%80%85%E7%9A%84%E5%89%8D%E7%AB%AF%E8%B7%AF%E7%B7%9A%E5%AD%B8%E7%BF%92%E6%8C%87%E5%8D%97-895de088257f)
+
+3.  [什麼是切版？切版練習的方式與工具](https://medium.com/%E9%BA%A5%E5%85%8B%E7%9A%84%E5%8D%8A%E8%B7%AF%E5%87%BA%E5%AE%B6%E7%AD%86%E8%A8%98/%E4%BB%80%E9%BA%BC%E6%98%AF%E5%88%87%E7%89%88-%E5%88%87%E7%89%88%E7%B7%B4%E7%BF%92%E7%9A%84%E6%96%B9%E5%BC%8F%E8%88%87%E5%B7%A5%E5%85%B7-7069b2dbf742)
 
 ### DOM vs JS => jQuery
 
@@ -109,10 +109,10 @@ $('#test').click(() => alert('Hello World
 
 頁面讀取: 白話來說 就是 DOM 建立好就執行 function 和 等圖片等 DOM 載入完成才執行 function
 
-$(document).ready(callback)
+$(document).ready(callback)<br>
 當頁面內的 DOM 都準備好開始讀取就會執行 callback 內的 function ，亦可簡寫成 $(() => {})
 
-window.onload = callback
+window.onload = callback<br>
 當頁面內的 DOM 已經開始讀取才會執行 callback 內的 function 。
 
 CSS 選擇器

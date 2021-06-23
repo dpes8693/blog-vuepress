@@ -25,8 +25,8 @@ module.exports = {
 
     sidebar: [
       {
-        // text: 'Guide',
-        // link: '/guide/1.md',
+        text: 'Home',
+        link: '/',
         children: [
           {
             text: "github原始碼",
