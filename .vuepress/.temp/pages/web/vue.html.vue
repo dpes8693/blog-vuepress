@@ -3,13 +3,13 @@
 <p>AJAX(GET、POST):axios | jQuery | fetch
 Core-js
 react/vue/angular，webpack、babel、core-js
-crypto-js  加密
-nodejs dotenv套件 環境變數
+crypto-js 加密
+nodejs dotenv 套件 環境變數
 https://dwatow.github.io/2019/01-26-node-with-env-first/
-popper js 提示alert 輕量級的套件
-sweetalert2 漂亮的alert 自訂
+popper js 提示 alert 輕量級的套件
+sweetalert2 漂亮的 alert 自訂
 uuid 不重複
-velocity.js 動畫vs GSAP
+velocity.js 動畫 vs GSAP
 vue-axios
 vue-router
 vuex</p>

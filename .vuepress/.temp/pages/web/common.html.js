@@ -14,8 +14,8 @@ export const data = {
     },
     {
       "level": 2,
-      "title": "Web三本柱",
-      "slug": "web三本柱",
+      "title": "Web 三本柱",
+      "slug": "web-三本柱",
       "children": [
         {
           "level": 3,
@@ -83,12 +83,12 @@ export const data = {
   ],
   "filePathRelative": "web/common.md",
   "git": {
-    "updatedTime": 1624353581000,
+    "updatedTime": 1624355001000,
     "contributors": [
       {
         "name": "Richard",
         "email": "dpes8693@gmail.com",
-        "commits": 1
+        "commits": 2
       }
     ]
   }

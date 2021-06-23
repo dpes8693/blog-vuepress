@@ -105,14 +105,6 @@ This is a tip
 </tbody>
 </table>
 <!--  -->
-<hr>
-<div class="language-markdown ext-md line-numbers-mode"><pre v-pre class="language-markdown"><code>    1.Apple
-    2.Banana
-    3.Pineapple
-</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br></div></div><pre><code>1.Apple
-2.Banana
-3.Pineapple
-</code></pre>
 <!--  -->
 <hr>
 <div class="language-markdown ext-md line-numbers-mode"><pre v-pre class="language-markdown"><code>::: details [展開]

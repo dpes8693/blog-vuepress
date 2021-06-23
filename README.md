@@ -100,16 +100,7 @@ This is a tip
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 <!--  -->
----
 
-```md
-    1.Apple
-    2.Banana
-    3.Pineapple
-```
-    1.Apple
-    2.Banana
-    3.Pineapple
 <!--  -->
 ---
 ```md

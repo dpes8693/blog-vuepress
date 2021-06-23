@@ -1,7 +1,7 @@
 export const data = {
   "key": "v-6e0d8f34",
   "path": "/guide/1.html",
-  "title": "用Vupress架Blog",
+  "title": "用 Vupress 架 Blog",
   "lang": "zh-tw",
   "frontmatter": {},
   "excerpt": "",
@@ -31,8 +31,8 @@ export const data = {
       "children": [
         {
           "level": 3,
-          "title": "開始裝vuepress",
-          "slug": "開始裝vuepress",
+          "title": "開始裝 vuepress",
+          "slug": "開始裝-vuepress",
           "children": []
         },
         {
@@ -100,8 +100,8 @@ export const data = {
     },
     {
       "level": 2,
-      "title": "6.部屬到Github",
-      "slug": "_6-部屬到github",
+      "title": "6.部屬到 Github",
+      "slug": "_6-部屬到-github",
       "children": []
     },
     {
@@ -112,8 +112,8 @@ export const data = {
     },
     {
       "level": 2,
-      "title": "Github Desktop上傳程式碼",
-      "slug": "github-desktop上傳程式碼",
+      "title": "Github Desktop 上傳程式碼",
+      "slug": "github-desktop-上傳程式碼",
       "children": []
     }
   ],
