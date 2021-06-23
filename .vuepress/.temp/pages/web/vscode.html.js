@@ -21,12 +21,12 @@ export const data = {
   ],
   "filePathRelative": "web/vscode.md",
   "git": {
-    "updatedTime": 1624419487000,
+    "updatedTime": 1624429629000,
     "contributors": [
       {
         "name": "Richard",
         "email": "dpes8693@gmail.com",
-        "commits": 2
+        "commits": 3
       }
     ]
   }

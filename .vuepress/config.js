@@ -1,13 +1,23 @@
 module.exports = {
   lang: "zh-tw",
-  title: "Richard",
+  title: "Richard's Blog",
   head: [
-    ["link", { rel: "icon", href: "/blog-vuepress/images/icon.png" }]
+    [ "link", 
+      { 
+        rel: "icon", href: "/blog-vuepress/images/icon.png",
+ 
+      }
+    ],
+    ["script",
+      { 
+        src: "https://kit.fontawesome.com/e6a339ae70.js",crossorigin: "anonymous",
+      }
+    ]
     // ["style",{ src: "/blog-vuepress/style/base.css"}]
   ],
   dest: "docs",
   base: "/blog-vuepress/",
-  description: "歡迎",
+  description: "用Vupress架Blog",
 
   themeConfig: {
     //logo: 'https://vuejs.org/images/logo.png',

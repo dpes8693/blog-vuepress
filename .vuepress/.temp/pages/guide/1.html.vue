@@ -1,4 +1,4 @@
-<template><h1 id="用-vupress-架-blog"><a class="header-anchor" href="#用-vupress-架-blog">#</a> 用 Vupress 架 Blog</h1>
+<template><h1 id="用-vupress-架-blog"><a class="header-anchor" href="#用-vupress-架-blog">#</a> <i class="fas fa-book"></i> 用 Vupress 架 Blog</h1>
 <h2 id="_0-名詞"><a class="header-anchor" href="#_0-名詞">#</a> 0.名詞</h2>
 <div class="custom-container tip"><p class="custom-container-title">先看一些名詞~~</p>
 <br>

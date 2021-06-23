@@ -16,7 +16,9 @@ body {
 	overflow: auto;
 }
 </style>
+
 ## 網頁架構
+
 
 說到網頁不得不提 DOM BOM
 ![BOM](https://i.imgur.com/n9FjFpv.png)
