@@ -114,9 +114,26 @@ console.log('Hello, VuePress!')
 console.log('Hello, VuePress!')
 ```
 :::
-<!--  -->
+<!-- 收合2 -->
+```md
+summary上下要空
+<details>
+  <summary>html tag</summary>
 
+| HTML TAG | Eng.            | X
+| -------- | --------------- | -------------------------------- |
+| var      | variable        | Text                             |
+| q        | quotation       | Text                             |
 
+</details>
+```
 
+<details>
+  <summary>html tag</summary>
 
-<!-- 破圖:https://ianwu.tw/press/vuepress/enhance/embed_responsive_video.html#%E5%AE%89%E8%A3%9D-markdown-it-video -->
+| HTML TAG | Eng.            | X
+| -------- | --------------- | -------------------------------- |
+| var      | variable        | Text                             |
+| q        | quotation       | Text                             |
+
+</details>

@@ -8,15 +8,22 @@ export const data = {
   "headers": [
     {
       "level": 2,
-      "title": "套件",
-      "slug": "套件",
+      "title": "快捷鍵&工具",
+      "slug": "快捷鍵-工具",
       "children": []
     },
     {
       "level": 2,
-      "title": "快捷鍵",
-      "slug": "快捷鍵",
-      "children": []
+      "title": "套件",
+      "slug": "套件",
+      "children": [
+        {
+          "level": 3,
+          "title": "Watch Sass",
+          "slug": "watch-sass",
+          "children": []
+        }
+      ]
     }
   ],
   "filePathRelative": "web/vscode.md",

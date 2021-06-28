@@ -49,17 +49,16 @@ export const data = {
         },
         {
           "level": 3,
-          "title": "API",
-          "slug": "api",
+          "title": "API (Application Programming Interface)",
+          "slug": "api-application-programming-interface",
           "children": []
-        }
-      ]
-    },
-    {
-      "level": 2,
-      "title": "ALL",
-      "slug": "all",
-      "children": [
+        },
+        {
+          "level": 3,
+          "title": "ALL 文章",
+          "slug": "all-文章",
+          "children": []
+        },
         {
           "level": 3,
           "title": "DOM vs JS => jQuery",

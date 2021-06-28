@@ -16,8 +16,8 @@ export const themeData = {
       "isGroup": true,
       "text": "Guide",
       "children": [
-        "/guide/1.md",
-        "/guide/plugin.md"
+        "/guide/plugin.md",
+        "/guide/1.md"
       ]
     },
     {
@@ -27,6 +27,13 @@ export const themeData = {
         "/web/common.md",
         "/web/vue.md",
         "/web/vscode.md"
+      ]
+    },
+    {
+      "isGroup": true,
+      "text": "Proper Noun",
+      "children": [
+        "/web/noun.md"
       ]
     }
   ],

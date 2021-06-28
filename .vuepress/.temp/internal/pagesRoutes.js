@@ -5,6 +5,7 @@ const routeItems = [
   ["v-6e0d8f34","/guide/1.html","用Vupress架Blog",["/guide/1.md"]],
   ["v-1d14d5cc","/guide/plugin.html","Plugin",["/guide/plugin.md"]],
   ["v-07f2110c","/web/common.html","小常識",["/web/common.md"]],
+  ["v-7dc11caa","/web/noun.html","Proper Noun",["/web/noun.md"]],
   ["v-ec084aca","/web/vscode.html","VScode",["/web/vscode.md"]],
   ["v-1f585632","/web/vue.html","Vue.js",["/web/vue.md"]],
   ["v-3706649a","/404.html","",[]],

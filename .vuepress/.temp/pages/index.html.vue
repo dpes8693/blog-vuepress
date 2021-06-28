@@ -115,5 +115,39 @@ console.log('Hello, VuePress!')
 </code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br></div></div><details class="custom-container details"><summary>[展開]</summary>
 <div class="language-javascript ext-js line-numbers-mode"><pre v-pre class="language-javascript"><code>console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token string">'Hello, VuePress!'</span><span class="token punctuation">)</span>
 </code></pre><div class="line-numbers"><span class="line-number">1</span><br></div></div></details>
-<!--  -->
-<!-- 破圖:https://ianwu.tw/press/vuepress/enhance/embed_responsive_video.html#%E5%AE%89%E8%A3%9D-markdown-it-video --></template>
+<!-- 收合2 -->
+<div class="language-markdown ext-md line-numbers-mode"><pre v-pre class="language-markdown"><code>summary上下要空
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>details</span><span class="token punctuation">></span></span>
+  <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>summary</span><span class="token punctuation">></span></span>html tag<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>summary</span><span class="token punctuation">></span></span>
+
+<span class="token table"><span class="token table-header-row"><span class="token punctuation">|</span><span class="token table-header important"> HTML TAG </span><span class="token punctuation">|</span><span class="token table-header important"> Eng.            </span><span class="token punctuation">|</span><span class="token table-header important"> X</span>
+</span><span class="token table-line"><span class="token punctuation">|</span> <span class="token punctuation">--------</span> <span class="token punctuation">|</span> <span class="token punctuation">---------------</span> <span class="token punctuation">|</span> <span class="token punctuation">--------------------------------</span> <span class="token punctuation">|</span>
+</span><span class="token table-data-rows"><span class="token punctuation">|</span><span class="token table-data"> var      </span><span class="token punctuation">|</span><span class="token table-data"> variable        </span><span class="token punctuation">|</span><span class="token table-data"> Text                             </span><span class="token punctuation">|</span>
+<span class="token punctuation">|</span><span class="token table-data"> q        </span><span class="token punctuation">|</span><span class="token table-data"> quotation       </span><span class="token punctuation">|</span><span class="token table-data"> Text                             </span><span class="token punctuation">|</span>
+</span></span>
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>details</span><span class="token punctuation">></span></span>
+</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br></div></div><details>
+  <summary>html tag</summary>
+<table>
+<thead>
+<tr>
+<th>HTML TAG</th>
+<th>Eng.</th>
+<th>X</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>var</td>
+<td>variable</td>
+<td>Text</td>
+</tr>
+<tr>
+<td>q</td>
+<td>quotation</td>
+<td>Text</td>
+</tr>
+</tbody>
+</table>
+</details>
+</template>

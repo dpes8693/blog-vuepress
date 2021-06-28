@@ -8,19 +8,19 @@ export const data = {
   "headers": [
     {
       "level": 2,
-      "title": "文",
-      "slug": "文",
+      "title": "督促自己學習-記錄",
+      "slug": "督促自己學習-記錄",
       "children": []
     }
   ],
   "filePathRelative": "web/vue.md",
   "git": {
-    "updatedTime": 1624429629000,
+    "updatedTime": 1624431982000,
     "contributors": [
       {
         "name": "Richard",
         "email": "dpes8693@gmail.com",
-        "commits": 5
+        "commits": 6
       }
     ]
   }
