@@ -8,7 +8,13 @@ export const data = {
   "headers": [],
   "filePathRelative": "web/noun.md",
   "git": {
-    "updatedTime": null,
-    "contributors": []
+    "updatedTime": 1624872647000,
+    "contributors": [
+      {
+        "name": "Richard",
+        "email": "dpes8693@gmail.com",
+        "commits": 1
+      }
+    ]
   }
 }

@@ -8,19 +8,32 @@ export const data = {
   "headers": [
     {
       "level": 2,
+      "title": "目前大略進度",
+      "slug": "目前大略進度",
+      "children": []
+    },
+    {
+      "level": 2,
       "title": "督促自己學習-記錄",
       "slug": "督促自己學習-記錄",
-      "children": []
+      "children": [
+        {
+          "level": 3,
+          "title": "2021.06",
+          "slug": "_2021-06",
+          "children": []
+        }
+      ]
     }
   ],
   "filePathRelative": "web/vue.md",
   "git": {
-    "updatedTime": 1624431982000,
+    "updatedTime": 1624872647000,
     "contributors": [
       {
         "name": "Richard",
         "email": "dpes8693@gmail.com",
-        "commits": 6
+        "commits": 7
       }
     ]
   }

@@ -8,12 +8,12 @@ export const data = {
   "headers": [],
   "filePathRelative": "guide/plugin.md",
   "git": {
-    "updatedTime": 1624429629000,
+    "updatedTime": 1624872647000,
     "contributors": [
       {
         "name": "Richard",
         "email": "dpes8693@gmail.com",
-        "commits": 2
+        "commits": 3
       }
     ]
   }
