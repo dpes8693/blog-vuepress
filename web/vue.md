@@ -46,7 +46,7 @@ $nectTick()
 
 ## 督促自己學習-記錄
 ### 2021.06
-#### 0629
+##### 名詞
 [polyfill 是甚麼?](https://codertw.com/%E5%89%8D%E7%AB%AF%E9%96%8B%E7%99%BC/29473/)用於實現瀏覽器並不支援的原生API的程式碼
 ##### JS
 [事件冒泡-DOM事件傳遞](https://blog.techbridge.cc/2017/07/15/javascript-event-propagation/)
@@ -70,6 +70,33 @@ $nectTick()
 
 :::
 
-#### 0630
+### 2021.07
 ##### Vue
-實作 component拆分
+
+SPA Single Page Application 單頁應用
+App.vue 進入點 因此只有一個html
+<!-- <template> -->
+<!-- script -->
+<!-- style -->
+通過main.js操作
+new Vue
+new Vuex實體出來
+調用store
+裡面的API mapAction mapGetter mapState
+包一包Object
+
+最後透過webpack打包 build dist/index.html+css+js
+component拆分
+
+#### 7月第一週
+JSON 格式和js寫物件不同 {"裡面":"要用雙引號"}
+https://youtu.be/R8GL5y49iJc
+
+JSON.stringify();
+JSON.parse();
+操作資料庫用POSTMAN
+VScode使用
+cdnjs+live-server擴充
+node js->npm json server 實作RESTful API
+
+https://medium.com/@debbyji/%E7%94%A8-json-server-%E6%A8%A1%E6%93%AC-restful-api-f07abda3927c

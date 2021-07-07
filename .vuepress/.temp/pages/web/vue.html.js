@@ -22,18 +22,24 @@ export const data = {
           "title": "2021.06",
           "slug": "_2021-06",
           "children": []
+        },
+        {
+          "level": 3,
+          "title": "2021.07",
+          "slug": "_2021-07",
+          "children": []
         }
       ]
     }
   ],
   "filePathRelative": "web/vue.md",
   "git": {
-    "updatedTime": 1624872647000,
+    "updatedTime": 1625022636000,
     "contributors": [
       {
         "name": "Richard",
         "email": "dpes8693@gmail.com",
-        "commits": 7
+        "commits": 8
       }
     ]
   }
