@@ -83,7 +83,6 @@ DOM 是網頁開發的基礎
 
 ---
 ### JS
-
 重新認識 JavaScript: Day 01 前言
 2018 鐵人賽 javascript
 + [Kuro Hsu](https://ithelp.ithome.com.tw/articles/10190633)
@@ -98,7 +97,54 @@ DOM 是網頁開發的基礎
 https://ithelp.ithome.com.tw/users/20107247/ironman/1312?page=1
 
 ---
+### CSS
+[新手也可以輕鬆玩轉 SASS - @mixin  @include](https://5xruby.tw/posts/play-sass-mixin-and-include)
+::: tip 白話
+@mixin 抽取 <br>
+@include 召喚使用
+:::
 
+::: details [範例]
+```scss
+/* 範例 1*/
+  @mixin rounded-border {
+    border: 2px #333 solid;
+    border-radius: 5px;
+  }
+
+  @mixin shadow {
+    box-shadow: 1px 2px 2px #666;
+  }
+
+  .article {
+    @include rounded-border;
+  }
+
+  .button {
+    @include rounded-border;
+    @include shadow;
+  }
+/* 範例 2*/
+  @mixin cover($opacity_value) {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    opacity: $opacity_value; // opacity 的值由傳進來的參數決定
+  }
+
+  .avatar {
+    @include cover(0.9); // 呼叫的時候帶入數值
+  }
+
+  .product-image {
+    @include cover(0.8); // 呼叫的時候帶入數值
+  }
+```
+:::
+
+---
 ### ALL 文章
 
 ![](https://i.imgur.com/QPYZIfa.png)
@@ -160,7 +206,7 @@ xhttp.send();
 jQuery 的 AJAX API
 
 ---
-### http method
+##### http method
 
 + POST 的請求用於提交資料至後端
 + DELETE 的請求用於刪除後端指定資料

@@ -31,14 +31,14 @@ export const data = {
         },
         {
           "level": 3,
-          "title": "ALL 文章",
-          "slug": "all-文章",
+          "title": "CSS",
+          "slug": "css",
           "children": []
         },
         {
           "level": 3,
-          "title": "http method",
-          "slug": "http-method",
+          "title": "ALL 文章",
+          "slug": "all-文章",
           "children": []
         }
       ]
@@ -46,12 +46,12 @@ export const data = {
   ],
   "filePathRelative": "web/common.md",
   "git": {
-    "updatedTime": 1624872647000,
+    "updatedTime": 1626141417000,
     "contributors": [
       {
         "name": "Richard",
         "email": "dpes8693@gmail.com",
-        "commits": 7
+        "commits": 8
       }
     ]
   }

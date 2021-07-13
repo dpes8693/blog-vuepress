@@ -109,10 +109,13 @@ clipboard-write; encrypted-media; gyroscope; picture-in-picture<span class="toke
 </table>
 <!-- 展開 -->
 <hr>
-<div class="language-markdown ext-md line-numbers-mode"><pre v-pre class="language-markdown"><code>::: details [展開]
+<div class="language-markdown ext-md line-numbers-mode"><pre v-pre class="language-markdown"><code>
+::: details [展開]
 ```js
 console.log('Hello, VuePress!')
-</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br></div></div><details class="custom-container details"><summary>[展開]</summary>
+:::
+
+</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br></div></div><details class="custom-container details"><summary>[展開]</summary>
 <div class="language-javascript ext-js line-numbers-mode"><pre v-pre class="language-javascript"><code>console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token string">'Hello, VuePress!'</span><span class="token punctuation">)</span>
 </code></pre><div class="line-numbers"><span class="line-number">1</span><br></div></div></details>
 <!-- 收合2 -->

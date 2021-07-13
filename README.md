@@ -104,9 +104,12 @@ clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
 <!-- 展開 -->
 ---
 ```md
+
 ::: details [展開]
 ```js
 console.log('Hello, VuePress!')
+:::
+
 ```
 
 ::: details [展開]

@@ -77,12 +77,12 @@ export const data = {
   ],
   "filePathRelative": "guide/1.md",
   "git": {
-    "updatedTime": 1624431982000,
+    "updatedTime": 1626141417000,
     "contributors": [
       {
         "name": "Richard",
         "email": "dpes8693@gmail.com",
-        "commits": 10
+        "commits": 11
       }
     ]
   }

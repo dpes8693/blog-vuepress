@@ -103,3 +103,52 @@ https://medium.com/@debbyji/%E7%94%A8-json-server-%E6%A8%A1%E6%93%AC-restful-api
 
 學了 vue slot功能 (元件內容可以重複使用)
 table vuetify很新 學習了
+
+
+::: details [舉個例子]
+```js
+    let number = 1
+    var elements = [
+    'Hydrogen',
+    'Helium',
+    'Lithium',
+    'Beryllium'
+    ];
+
+    // 這段函式會輸出[8, 6, 7, 9]這個陣列
+    elements.map(function(element) {
+    return element.length;
+    });
+
+    function 變成箭頭 塞到中間
+
+    //1 上方這種一般的函式，可以被改寫成下方的箭頭函式
+    elements.map((element) => {
+    return element.length;
+    }); // [8, 6, 7, 9]
+
+    //2 如果輸入的參數只有一個，我們可以移除掉外面的括號
+    elements.map(element => {
+    return element.length;
+    }); // [8, 6, 7, 9]
+
+    //3 當箭頭函式裡的內容只有'return'的時候，我們可以拿掉return+外面的大括號
+    elements.map((element) =>  element.length); // [8, 6, 7, 9]
+    elements.map(element) =>  element.length); // [8, 6, 7, 9]
+
+    ---
+
+    //範例2--
+    const func = (x) => { return x + 1 } //多行 自己加return
+    const func = (x) => x + 1
+    const func = x => x + 1
+
+
+    const func = function (x) { return x + 1 } //匿名的函式
+
+    ---
+    //容易搞-混範例3
+    const funcA = x => x + 1 //2
+    const funcB = x => { x + 1 } //undefined
+```
+:::

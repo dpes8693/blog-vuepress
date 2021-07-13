@@ -137,6 +137,50 @@ Document Object Model
 https://ithelp.ithome.com.tw/users/20107247/ironman/1312?page=1</li>
 </ul>
 <hr>
+<h3 id="css"><a class="header-anchor" href="#css">#</a> CSS</h3>
+<p><a href="https://5xruby.tw/posts/play-sass-mixin-and-include" target="_blank" rel="noopener noreferrer">新手也可以輕鬆玩轉 SASS - @mixin  @include<OutboundLink/></a></p>
+<div class="custom-container tip"><p class="custom-container-title">白話</p>
+<p>@mixin 抽取 <br>
+@include 召喚使用</p>
+</div>
+<details class="custom-container details"><summary>[範例]</summary>
+<div class="language-scss ext-scss line-numbers-mode"><pre v-pre class="language-scss"><code><span class="token comment">/* 範例 1*/</span>
+  <span class="token keyword">@mixin</span> <span class="token selector">rounded-border </span><span class="token punctuation">{</span>
+    <span class="token property">border</span><span class="token punctuation">:</span> 2px #333 solid<span class="token punctuation">;</span>
+    <span class="token property">border-radius</span><span class="token punctuation">:</span> 5px<span class="token punctuation">;</span>
+  <span class="token punctuation">}</span>
+
+  <span class="token keyword">@mixin</span> <span class="token selector">shadow </span><span class="token punctuation">{</span>
+    <span class="token property">box-shadow</span><span class="token punctuation">:</span> 1px 2px 2px #666<span class="token punctuation">;</span>
+  <span class="token punctuation">}</span>
+
+  <span class="token selector">.article </span><span class="token punctuation">{</span>
+    <span class="token keyword">@include</span> rounded-border<span class="token punctuation">;</span>
+  <span class="token punctuation">}</span>
+
+  <span class="token selector">.button </span><span class="token punctuation">{</span>
+    <span class="token keyword">@include</span> rounded-border<span class="token punctuation">;</span>
+    <span class="token keyword">@include</span> shadow<span class="token punctuation">;</span>
+  <span class="token punctuation">}</span>
+<span class="token comment">/* 範例 2*/</span>
+  <span class="token keyword">@mixin</span> <span class="token function">cover</span><span class="token punctuation">(</span><span class="token variable">$opacity_value</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+    <span class="token property">position</span><span class="token punctuation">:</span> absolute<span class="token punctuation">;</span>
+    <span class="token property">top</span><span class="token punctuation">:</span> 0<span class="token punctuation">;</span>
+    <span class="token property">right</span><span class="token punctuation">:</span> 0<span class="token punctuation">;</span>
+    <span class="token property">bottom</span><span class="token punctuation">:</span> 0<span class="token punctuation">;</span>
+    <span class="token property">left</span><span class="token punctuation">:</span> 0<span class="token punctuation">;</span>
+    <span class="token property">opacity</span><span class="token punctuation">:</span> <span class="token variable">$opacity_value</span><span class="token punctuation">;</span> <span class="token comment">// opacity 的值由傳進來的參數決定</span>
+  <span class="token punctuation">}</span>
+
+  <span class="token selector">.avatar </span><span class="token punctuation">{</span>
+    <span class="token keyword">@include</span> <span class="token function">cover</span><span class="token punctuation">(</span>0.9<span class="token punctuation">)</span><span class="token punctuation">;</span> <span class="token comment">// 呼叫的時候帶入數值</span>
+  <span class="token punctuation">}</span>
+
+  <span class="token selector">.product-image </span><span class="token punctuation">{</span>
+    <span class="token keyword">@include</span> <span class="token function">cover</span><span class="token punctuation">(</span>0.8<span class="token punctuation">)</span><span class="token punctuation">;</span> <span class="token comment">// 呼叫的時候帶入數值</span>
+  <span class="token punctuation">}</span>
+</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br><span class="line-number">11</span><br><span class="line-number">12</span><br><span class="line-number">13</span><br><span class="line-number">14</span><br><span class="line-number">15</span><br><span class="line-number">16</span><br><span class="line-number">17</span><br><span class="line-number">18</span><br><span class="line-number">19</span><br><span class="line-number">20</span><br><span class="line-number">21</span><br><span class="line-number">22</span><br><span class="line-number">23</span><br><span class="line-number">24</span><br><span class="line-number">25</span><br><span class="line-number">26</span><br><span class="line-number">27</span><br><span class="line-number">28</span><br><span class="line-number">29</span><br><span class="line-number">30</span><br><span class="line-number">31</span><br><span class="line-number">32</span><br><span class="line-number">33</span><br><span class="line-number">34</span><br><span class="line-number">35</span><br></div></div></details>
+<hr>
 <h3 id="all-文章"><a class="header-anchor" href="#all-文章">#</a> ALL 文章</h3>
 <p><img src="https://i.imgur.com/QPYZIfa.png" alt=""></p>
 <ol>
@@ -182,7 +226,7 @@ xhttp<span class="token punctuation">.</span><span class="token function">open</
 xhttp<span class="token punctuation">.</span><span class="token function">send</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
 </code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br></div></div><p>jQuery 的 AJAX API</p>
 <hr>
-<h3 id="http-method"><a class="header-anchor" href="#http-method">#</a> http method</h3>
+<h5 id="http-method"><a class="header-anchor" href="#http-method">#</a> http method</h5>
 <ul>
 <li>POST 的請求用於提交資料至後端</li>
 <li>DELETE 的請求用於刪除後端指定資料</li>
