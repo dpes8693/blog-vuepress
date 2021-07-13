@@ -26,7 +26,8 @@ export const themeData = {
       "children": [
         "/web/common.md",
         "/web/vue.md",
-        "/web/vscode.md"
+        "/web/vscode.md",
+        "/web/resource.md"
       ]
     },
     {

@@ -100,3 +100,6 @@ cdnjs+live-server擴充
 node js->npm json server 實作RESTful API
 
 https://medium.com/@debbyji/%E7%94%A8-json-server-%E6%A8%A1%E6%93%AC-restful-api-f07abda3927c
+
+學了 vue slot功能 (元件內容可以重複使用)
+table vuetify很新 學習了

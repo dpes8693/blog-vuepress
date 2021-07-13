@@ -71,6 +71,8 @@ VScode使用
 cdnjs+live-server擴充
 node js-&gt;npm json server 實作RESTful API</p>
 <p>https://medium.com/@debbyji/%E7%94%A8-json-server-%E6%A8%A1%E6%93%AC-restful-api-f07abda3927c</p>
+<p>學了 vue slot功能 (元件內容可以重複使用)
+table vuetify很新 學習了</p>
 </template>
 
 <style>

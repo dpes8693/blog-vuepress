@@ -13,17 +13,17 @@ Document Object Model
 <p><a href="https://ithelp.ithome.com.tw/articles/10191765" target="_blank" rel="noopener noreferrer">S<OutboundLink/></a></p>
 </div>
 <h2 id="web-三本柱"><a class="header-anchor" href="#web-三本柱">#</a> Web 三本柱</h2>
-<h3 id="git"><a class="header-anchor" href="#git">#</a> Git</h3>
+<h5 id="git"><a class="header-anchor" href="#git">#</a> Git</h5>
 <ul>
 <li><a href="https://progressbar.tw/posts/49" target="_blank" rel="noopener noreferrer">雖然 Git 用下指令才能發揮威力，但降低門檻從圖形化介面入門也沒不好<OutboundLink/></a></li>
 <li><a href="https://noob.tw/open-source-licenses/" target="_blank" rel="noopener noreferrer">常見的五個開源專案授權條款，使用軟體更自由<OutboundLink/></a></li>
 <li><a href="https://gitbook.tw/chapters/using-git/ignore.html" target="_blank" rel="noopener noreferrer">Git ignore<OutboundLink/></a></li>
 </ul>
 <hr>
-<h3 id="語言-language"><a class="header-anchor" href="#語言-language">#</a> 語言 Language</h3>
+<h5 id="語言-language"><a class="header-anchor" href="#語言-language">#</a> 語言 Language</h5>
 <p><img src="https://i.imgur.com/9DX9OuA.png" alt="靜態型別-必須宣告資料"></p>
 <hr>
-<h3 id="多國語系-localization"><a class="header-anchor" href="#多國語系-localization">#</a> 多國語系 Localization</h3>
+<h5 id="多國語系-localization"><a class="header-anchor" href="#多國語系-localization">#</a> 多國語系 Localization</h5>
 <p><a href="https://english.bruceli.net/2011/11/zhzh-tw-zh-cn.html" target="_blank" rel="noopener noreferrer">zh 或 zh-tw, zh-cn 是什麼的縮寫？<OutboundLink/></a></p>
 <hr>
 <h3 id="html"><a class="header-anchor" href="#html">#</a> html</h3>
@@ -131,7 +131,7 @@ Document Object Model
 <li><a href="https://ithelp.ithome.com.tw/users/20129506/ironman/3700?page=1" target="_blank" rel="noopener noreferrer">JavaScript 初心者ノ研究日記<OutboundLink/></a></li>
 <li><a href="https://ithelp.ithome.com.tw/articles/10223406" target="_blank" rel="noopener noreferrer">ES6<OutboundLink/></a></li>
 </ul>
-<h3 id="api-application-programming-interface"><a class="header-anchor" href="#api-application-programming-interface">#</a> API (Application Programming Interface)</h3>
+<h5 id="api-application-programming-interface"><a class="header-anchor" href="#api-application-programming-interface">#</a> API (Application Programming Interface)</h5>
 <ul>
 <li>RESTful API<br>
 https://ithelp.ithome.com.tw/users/20107247/ironman/1312?page=1</li>
@@ -154,7 +154,7 @@ https://ithelp.ithome.com.tw/users/20107247/ironman/1312?page=1</li>
 </li>
 </ol>
 <hr>
-<h3 id="dom-vs-js-jquery"><a class="header-anchor" href="#dom-vs-js-jquery">#</a> DOM vs JS =&gt; jQuery</h3>
+<h5 id="dom-vs-js-jquery"><a class="header-anchor" href="#dom-vs-js-jquery">#</a> DOM vs JS =&gt; jQuery</h5>
 <div class="language-javascript ext-js line-numbers-mode"><pre v-pre class="language-javascript"><code><span class="token keyword">const</span> element <span class="token operator">=</span> document<span class="token punctuation">.</span><span class="token function">getElementById</span><span class="token punctuation">(</span><span class="token string">'test'</span><span class="token punctuation">)</span>
 test<span class="token punctuation">.</span><span class="token function">addEventListener</span><span class="token punctuation">(</span><span class="token string">'click'</span><span class="token punctuation">,</span> <span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">=></span> <span class="token function">alert</span><span class="token punctuation">(</span><span class="token string">'Hello World'</span><span class="token punctuation">)</span><span class="token punctuation">,</span> <span class="token boolean">false</span><span class="token punctuation">)</span>
 </code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br></div></div><div class="language-javascript ext-js line-numbers-mode"><pre v-pre class="language-javascript"><code><span class="token function">$</span><span class="token punctuation">(</span><span class="token string">'#test'</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">click</span><span class="token punctuation">(</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">=></span> <span class="token function">alert</span><span class="token punctuation">(</span>'Hello World
@@ -165,7 +165,7 @@ test<span class="token punctuation">.</span><span class="token function">addEven
 當頁面內的 DOM 已經開始讀取才會執行 callback 內的 function 。</p>
 <p>CSS 選擇器</p>
 <hr>
-<h3 id="ajax-axios-jquery-fetch"><a class="header-anchor" href="#ajax-axios-jquery-fetch">#</a> AJAX: axios | jQuery | fetch</h3>
+<h5 id="ajax-axios-jquery-fetch"><a class="header-anchor" href="#ajax-axios-jquery-fetch">#</a> AJAX: axios | jQuery | fetch</h5>
 <p>前端與後端溝通的橋樑
 非同步</p>
 <p>早期:

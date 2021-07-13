@@ -9,6 +9,8 @@ export const pagesData = {
   "v-07f2110c": () => import(/* webpackChunkName: "v-07f2110c" */"C:/Users/dpes/Documents/GitHub/blog-vuepress/.vuepress/.temp/pages/web/common.html.js").then(({ data }) => data),
   // path: /web/noun.html
   "v-7dc11caa": () => import(/* webpackChunkName: "v-7dc11caa" */"C:/Users/dpes/Documents/GitHub/blog-vuepress/.vuepress/.temp/pages/web/noun.html.js").then(({ data }) => data),
+  // path: /web/resource.html
+  "v-2ca18037": () => import(/* webpackChunkName: "v-2ca18037" */"C:/Users/dpes/Documents/GitHub/blog-vuepress/.vuepress/.temp/pages/web/resource.html.js").then(({ data }) => data),
   // path: /web/vscode.html
   "v-ec084aca": () => import(/* webpackChunkName: "v-ec084aca" */"C:/Users/dpes/Documents/GitHub/blog-vuepress/.vuepress/.temp/pages/web/vscode.html.js").then(({ data }) => data),
   // path: /web/vue.html

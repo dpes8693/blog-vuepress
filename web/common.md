@@ -38,19 +38,19 @@ DOM 是網頁開發的基礎
 
 ## Web 三本柱
 
-### Git
+##### Git
 
 + [雖然 Git 用下指令才能發揮威力，但降低門檻從圖形化介面入門也沒不好](https://progressbar.tw/posts/49)
 + [常見的五個開源專案授權條款，使用軟體更自由](https://noob.tw/open-source-licenses/)
 + [Git ignore](https://gitbook.tw/chapters/using-git/ignore.html)
 
 ---
-### 語言 Language
+##### 語言 Language
 
 ![靜態型別-必須宣告資料](https://i.imgur.com/9DX9OuA.png)
 
 ---
-### 多國語系 Localization
+##### 多國語系 Localization
 
 [zh 或 zh-tw, zh-cn 是什麼的縮寫？](https://english.bruceli.net/2011/11/zhzh-tw-zh-cn.html)
 
@@ -92,7 +92,7 @@ DOM 是網頁開發的基礎
 + [ES6](https://ithelp.ithome.com.tw/articles/10223406)
 
 
-### API (Application Programming Interface)
+##### API (Application Programming Interface)
 
 + RESTful API<br>
 https://ithelp.ithome.com.tw/users/20107247/ironman/1312?page=1
@@ -113,7 +113,7 @@ https://ithelp.ithome.com.tw/users/20107247/ironman/1312?page=1
 
 ---
 
-### DOM vs JS => jQuery
+##### DOM vs JS => jQuery
 
 ```javascript=
 const element = document.getElementById('test')
@@ -136,7 +136,7 @@ CSS 選擇器
 
 ---
 
-### AJAX: axios | jQuery | fetch
+##### AJAX: axios | jQuery | fetch
 
 前端與後端溝通的橋樑
 非同步

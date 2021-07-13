@@ -56,7 +56,7 @@ module.exports = {
       {
         isGroup: true,
         text: "Web",
-        children: ["/web/common.md", "/web/vue.md", "/web/vscode.md"], //會去抓#的名稱
+        children: ["/web/common.md", "/web/vue.md", "/web/vscode.md" , "/web/resource.md"], //會去抓#的名稱
       },
       {
         isGroup: true,

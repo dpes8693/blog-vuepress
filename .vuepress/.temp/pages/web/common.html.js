@@ -19,24 +19,6 @@ export const data = {
       "children": [
         {
           "level": 3,
-          "title": "Git",
-          "slug": "git",
-          "children": []
-        },
-        {
-          "level": 3,
-          "title": "語言 Language",
-          "slug": "語言-language",
-          "children": []
-        },
-        {
-          "level": 3,
-          "title": "多國語系 Localization",
-          "slug": "多國語系-localization",
-          "children": []
-        },
-        {
-          "level": 3,
           "title": "html",
           "slug": "html",
           "children": []
@@ -49,26 +31,8 @@ export const data = {
         },
         {
           "level": 3,
-          "title": "API (Application Programming Interface)",
-          "slug": "api-application-programming-interface",
-          "children": []
-        },
-        {
-          "level": 3,
           "title": "ALL 文章",
           "slug": "all-文章",
-          "children": []
-        },
-        {
-          "level": 3,
-          "title": "DOM vs JS => jQuery",
-          "slug": "dom-vs-js-jquery",
-          "children": []
-        },
-        {
-          "level": 3,
-          "title": "AJAX: axios | jQuery | fetch",
-          "slug": "ajax-axios-jquery-fetch",
           "children": []
         },
         {

@@ -34,12 +34,12 @@ export const data = {
   ],
   "filePathRelative": "web/vue.md",
   "git": {
-    "updatedTime": 1625022636000,
+    "updatedTime": 1625651858000,
     "contributors": [
       {
         "name": "Richard",
         "email": "dpes8693@gmail.com",
-        "commits": 8
+        "commits": 9
       }
     ]
   }

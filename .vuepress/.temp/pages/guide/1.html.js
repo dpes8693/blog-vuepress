@@ -40,24 +40,6 @@ export const data = {
           "title": "新建一个 markdown 文件",
           "slug": "新建一个-markdown-文件",
           "children": []
-        },
-        {
-          "level": 3,
-          "title": "執行",
-          "slug": "執行",
-          "children": []
-        },
-        {
-          "level": 3,
-          "title": "到瀏覽器",
-          "slug": "到瀏覽器",
-          "children": []
-        },
-        {
-          "level": 3,
-          "title": "休息一下~",
-          "slug": "休息一下",
-          "children": []
         }
       ]
     },
@@ -65,26 +47,7 @@ export const data = {
       "level": 2,
       "title": "4.調整參數",
       "slug": "_4-調整參數",
-      "children": [
-        {
-          "level": 3,
-          "title": "package.json",
-          "slug": "package-json",
-          "children": []
-        },
-        {
-          "level": 3,
-          "title": ".vupress/config.js 要自己新增&更改",
-          "slug": "vupress-config-js-要自己新增-更改",
-          "children": []
-        },
-        {
-          "level": 3,
-          "title": "小結論",
-          "slug": "小結論",
-          "children": []
-        }
-      ]
+      "children": []
     },
     {
       "level": 2,
@@ -94,26 +57,21 @@ export const data = {
     },
     {
       "level": 2,
-      "title": "執行",
-      "slug": "執行-1",
-      "children": []
-    },
-    {
-      "level": 2,
       "title": "6.部屬到 Github",
       "slug": "_6-部屬到-github",
-      "children": []
+      "children": [
+        {
+          "level": 3,
+          "title": "Github Desktop 上傳程式碼",
+          "slug": "github-desktop-上傳程式碼",
+          "children": []
+        }
+      ]
     },
     {
       "level": 2,
-      "title": "打包",
-      "slug": "打包",
-      "children": []
-    },
-    {
-      "level": 2,
-      "title": "Github Desktop 上傳程式碼",
-      "slug": "github-desktop-上傳程式碼",
+      "title": "7.總結",
+      "slug": "_7-總結",
       "children": []
     }
   ],
