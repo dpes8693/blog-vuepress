@@ -90,6 +90,23 @@ DOM 是網頁開發的基礎
 + [JavaScript 初心者ノ研究日記](https://ithelp.ithome.com.tw/users/20129506/ironman/3700?page=1)
 + [ES6](https://ithelp.ithome.com.tw/articles/10223406)
 
+來認識for...in for...of
+in  ES6 key 
+
+for ES5 value 
+
+```js
+// 試著讓 Array 繼承一些屬性或方法
+Array.prototype.test="test12";
+var items=["a", "b"];
+for(let prop in items)
+{
+    if(items.hasOwnProperty(prop))//檢查這是否為非繼承的屬性
+        console.log("index:"+prop+"__"+items[prop]);
+}
+// index:0__a
+// index:1__b
+```
 
 ##### API (Application Programming Interface)
 
@@ -98,7 +115,9 @@ https://ithelp.ithome.com.tw/users/20107247/ironman/1312?page=1
 
 ---
 ### CSS
-[新手也可以輕鬆玩轉 SASS - @mixin  @include](https://5xruby.tw/posts/play-sass-mixin-and-include)
+0. 權重
+!important > inline style > ID > Class > Element > *
+1. [新手也可以輕鬆玩轉 SASS - @mixin  @include](https://5xruby.tw/posts/play-sass-mixin-and-include)
 ::: tip 白話
 @mixin 抽取 <br>
 @include 召喚使用

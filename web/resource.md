@@ -108,3 +108,9 @@ precedence 優先級
         ```js
         Vue.nextTick()
         ```
+
+
+ ## CSS
+ 權重 
+ [權重](https://ithelp.ithome.com.tw/articles/10196454)
+ [Specificity](https://ithelp.ithome.com.tw/articles/10240444)
