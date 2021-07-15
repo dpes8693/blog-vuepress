@@ -94,6 +94,10 @@ precedence 優先級
     Vue.nextTick()
     ```
 </code></pre>
+<h2 id="css"><a class="header-anchor" href="#css">#</a> CSS</h2>
+<p>權重
+<a href="https://ithelp.ithome.com.tw/articles/10196454" target="_blank" rel="noopener noreferrer">權重<OutboundLink/></a>
+<a href="https://ithelp.ithome.com.tw/articles/10240444" target="_blank" rel="noopener noreferrer">Specificity<OutboundLink/></a></p>
 </template>
 
 <style>

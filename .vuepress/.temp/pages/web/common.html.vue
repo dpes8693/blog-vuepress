@@ -131,14 +131,31 @@ Document Object Model
 <li><a href="https://ithelp.ithome.com.tw/users/20129506/ironman/3700?page=1" target="_blank" rel="noopener noreferrer">JavaScript 初心者ノ研究日記<OutboundLink/></a></li>
 <li><a href="https://ithelp.ithome.com.tw/articles/10223406" target="_blank" rel="noopener noreferrer">ES6<OutboundLink/></a></li>
 </ul>
-<h5 id="api-application-programming-interface"><a class="header-anchor" href="#api-application-programming-interface">#</a> API (Application Programming Interface)</h5>
+<p>來認識for...in for...of
+in  ES6 key</p>
+<p>for ES5 value</p>
+<div class="language-javascript ext-js line-numbers-mode"><pre v-pre class="language-javascript"><code><span class="token comment">// 試著讓 Array 繼承一些屬性或方法</span>
+<span class="token class-name">Array</span><span class="token punctuation">.</span>prototype<span class="token punctuation">.</span>test<span class="token operator">=</span><span class="token string">"test12"</span><span class="token punctuation">;</span>
+<span class="token keyword">var</span> items<span class="token operator">=</span><span class="token punctuation">[</span><span class="token string">"a"</span><span class="token punctuation">,</span> <span class="token string">"b"</span><span class="token punctuation">]</span><span class="token punctuation">;</span>
+<span class="token keyword">for</span><span class="token punctuation">(</span><span class="token keyword">let</span> prop <span class="token keyword">in</span> items<span class="token punctuation">)</span>
+<span class="token punctuation">{</span>
+    <span class="token keyword">if</span><span class="token punctuation">(</span>items<span class="token punctuation">.</span><span class="token function">hasOwnProperty</span><span class="token punctuation">(</span>prop<span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token comment">//檢查這是否為非繼承的屬性</span>
+        console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token string">"index:"</span><span class="token operator">+</span>prop<span class="token operator">+</span><span class="token string">"__"</span><span class="token operator">+</span>items<span class="token punctuation">[</span>prop<span class="token punctuation">]</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+<span class="token punctuation">}</span>
+<span class="token comment">// index:0__a</span>
+<span class="token comment">// index:1__b</span>
+</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br></div></div><h5 id="api-application-programming-interface"><a class="header-anchor" href="#api-application-programming-interface">#</a> API (Application Programming Interface)</h5>
 <ul>
 <li>RESTful API<br>
 https://ithelp.ithome.com.tw/users/20107247/ironman/1312?page=1</li>
 </ul>
 <hr>
 <h3 id="css"><a class="header-anchor" href="#css">#</a> CSS</h3>
-<p><a href="https://5xruby.tw/posts/play-sass-mixin-and-include" target="_blank" rel="noopener noreferrer">新手也可以輕鬆玩轉 SASS - @mixin  @include<OutboundLink/></a></p>
+<ol start="0">
+<li>權重
+!important &gt; inline style &gt; ID &gt; Class &gt; Element &gt; *</li>
+<li><a href="https://5xruby.tw/posts/play-sass-mixin-and-include" target="_blank" rel="noopener noreferrer">新手也可以輕鬆玩轉 SASS - @mixin  @include<OutboundLink/></a></li>
+</ol>
 <div class="custom-container tip"><p class="custom-container-title">白話</p>
 <p>@mixin 抽取 <br>
 @include 召喚使用</p>

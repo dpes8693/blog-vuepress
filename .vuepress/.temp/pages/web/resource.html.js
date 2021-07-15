@@ -36,16 +36,22 @@ export const data = {
       "title": "Vue",
       "slug": "vue",
       "children": []
+    },
+    {
+      "level": 2,
+      "title": "CSS",
+      "slug": "css",
+      "children": []
     }
   ],
   "filePathRelative": "web/resource.md",
   "git": {
-    "updatedTime": 1626141417000,
+    "updatedTime": 1626276289000,
     "contributors": [
       {
         "name": "Richard",
         "email": "dpes8693@gmail.com",
-        "commits": 1
+        "commits": 3
       }
     ]
   }
