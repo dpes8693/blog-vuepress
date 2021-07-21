@@ -78,9 +78,9 @@ App.vue 進入點 因此只有一個html
 <!-- <template> -->
 <!-- script -->
 <!-- style -->
-通過main.js操作
-new Vue
-new Vuex實體出來
++ 通過main.js操作
++ new Vue
++ new Vuex實體出來
 調用store
 裡面的API mapAction mapGetter mapState
 包一包Object
@@ -89,20 +89,18 @@ new Vuex實體出來
 component拆分
 
 #### 7月
-JSON 格式和js寫物件不同 {"裡面":"要用雙引號"}
++ JSON 格式和js寫物件不同 {"裡面":"要用雙引號"}
 https://youtu.be/R8GL5y49iJc
 
-JSON.stringify();
-JSON.parse();
-操作資料庫用POSTMAN
++ JSON.stringify();
++ JSON.parse();
++ 操作資料庫用POSTMAN
 VScode使用
-cdnjs+live-server擴充
-node js->npm json server 實作RESTful API
++ cdnjs+live-server擴充
++ node js->npm json server 實作RESTful API
+[link](https://medium.com/@debbyji/%E7%94%A8-json-server-%E6%A8%A1%E6%93%AC-restful-api-f07abda3927c)
 
-https://medium.com/@debbyji/%E7%94%A8-json-server-%E6%A8%A1%E6%93%AC-restful-api-f07abda3927c
-
-學了 vue slot功能 (元件內容可以重複使用)
-table vuetify很新 學習了
++ 學了 vue slot功能 (元件內容可以重複使用)
 
 
 ::: details [舉個例子]
@@ -154,7 +152,8 @@ table vuetify很新 學習了
 :::
 
 ###### 新名詞: Debounce Throttling 限制連續請求的機制
-Lodash 做事件延遲
-macrotask microtask -> single thread callback time
-raster 光柵 小格子
-http header分成4種: request general entity  
++ Lodash 做事件延遲
++ macrotask microtask -> single thread callback time
++ raster 光柵 小格子
++ http header分成4種: request general entity  
++ Axios Instance 

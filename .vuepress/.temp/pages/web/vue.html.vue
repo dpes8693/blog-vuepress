@@ -53,26 +53,43 @@ App.vue 進入點 因此只有一個html</p>
 <!-- <template> -->
 <!-- script -->
 <!-- style -->
-<p>通過main.js操作
-new Vue
-new Vuex實體出來
+<ul>
+<li>通過main.js操作</li>
+<li>new Vue</li>
+<li>new Vuex實體出來
 調用store
 裡面的API mapAction mapGetter mapState
-包一包Object</p>
+包一包Object</li>
+</ul>
 <p>最後透過webpack打包 build dist/index.html+css+js
 component拆分</p>
-<h4 id="_7月第一週"><a class="header-anchor" href="#_7月第一週">#</a> 7月第一週</h4>
+<h4 id="_7月"><a class="header-anchor" href="#_7月">#</a> 7月</h4>
+<ul>
+<li>
 <p>JSON 格式和js寫物件不同 {&quot;裡面&quot;:&quot;要用雙引號&quot;}
 https://youtu.be/R8GL5y49iJc</p>
-<p>JSON.stringify();
-JSON.parse();
-操作資料庫用POSTMAN
-VScode使用
-cdnjs+live-server擴充
-node js-&gt;npm json server 實作RESTful API</p>
-<p>https://medium.com/@debbyji/%E7%94%A8-json-server-%E6%A8%A1%E6%93%AC-restful-api-f07abda3927c</p>
-<p>學了 vue slot功能 (元件內容可以重複使用)
-table vuetify很新 學習了</p>
+</li>
+<li>
+<p>JSON.stringify();</p>
+</li>
+<li>
+<p>JSON.parse();</p>
+</li>
+<li>
+<p>操作資料庫用POSTMAN
+VScode使用</p>
+</li>
+<li>
+<p>cdnjs+live-server擴充</p>
+</li>
+<li>
+<p>node js-&gt;npm json server 實作RESTful API
+<a href="https://medium.com/@debbyji/%E7%94%A8-json-server-%E6%A8%A1%E6%93%AC-restful-api-f07abda3927c" target="_blank" rel="noopener noreferrer">link<OutboundLink/></a></p>
+</li>
+<li>
+<p>學了 vue slot功能 (元件內容可以重複使用)</p>
+</li>
+</ul>
 <details class="custom-container details"><summary>[舉個例子]</summary>
 <div class="language-javascript ext-js line-numbers-mode"><pre v-pre class="language-javascript"><code>    <span class="token keyword">let</span> number <span class="token operator">=</span> <span class="token number">1</span>
     <span class="token keyword">var</span> elements <span class="token operator">=</span> <span class="token punctuation">[</span>
@@ -118,6 +135,14 @@ table vuetify很新 學習了</p>
     <span class="token keyword">const</span> <span class="token function-variable function">funcA</span> <span class="token operator">=</span> <span class="token parameter">x</span> <span class="token operator">=></span> x <span class="token operator">+</span> <span class="token number">1</span> <span class="token comment">//2</span>
     <span class="token keyword">const</span> <span class="token function-variable function">funcB</span> <span class="token operator">=</span> <span class="token parameter">x</span> <span class="token operator">=></span> <span class="token punctuation">{</span> x <span class="token operator">+</span> <span class="token number">1</span> <span class="token punctuation">}</span> <span class="token comment">//undefined</span>
 </code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br><span class="line-number">11</span><br><span class="line-number">12</span><br><span class="line-number">13</span><br><span class="line-number">14</span><br><span class="line-number">15</span><br><span class="line-number">16</span><br><span class="line-number">17</span><br><span class="line-number">18</span><br><span class="line-number">19</span><br><span class="line-number">20</span><br><span class="line-number">21</span><br><span class="line-number">22</span><br><span class="line-number">23</span><br><span class="line-number">24</span><br><span class="line-number">25</span><br><span class="line-number">26</span><br><span class="line-number">27</span><br><span class="line-number">28</span><br><span class="line-number">29</span><br><span class="line-number">30</span><br><span class="line-number">31</span><br><span class="line-number">32</span><br><span class="line-number">33</span><br><span class="line-number">34</span><br><span class="line-number">35</span><br><span class="line-number">36</span><br><span class="line-number">37</span><br><span class="line-number">38</span><br><span class="line-number">39</span><br><span class="line-number">40</span><br><span class="line-number">41</span><br><span class="line-number">42</span><br><span class="line-number">43</span><br></div></div></details>
+<h6 id="新名詞-debounce-throttling-限制連續請求的機制"><a class="header-anchor" href="#新名詞-debounce-throttling-限制連續請求的機制">#</a> 新名詞: Debounce Throttling 限制連續請求的機制</h6>
+<ul>
+<li>Lodash 做事件延遲</li>
+<li>macrotask microtask -&gt; single thread callback time</li>
+<li>raster 光柵 小格子</li>
+<li>http header分成4種: request general entity</li>
+<li>Axios Instance</li>
+</ul>
 </template>
 
 <style>
