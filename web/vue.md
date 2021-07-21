@@ -88,7 +88,7 @@ new Vuex實體出來
 最後透過webpack打包 build dist/index.html+css+js
 component拆分
 
-#### 7月第一週
+#### 7月
 JSON 格式和js寫物件不同 {"裡面":"要用雙引號"}
 https://youtu.be/R8GL5y49iJc
 
@@ -152,3 +152,9 @@ table vuetify很新 學習了
     const funcB = x => { x + 1 } //undefined
 ```
 :::
+
+###### 新名詞: Debounce Throttling 限制連續請求的機制
+Lodash 做事件延遲
+macrotask microtask -> single thread callback time
+raster 光柵 小格子
+http header分成4種: request general entity  

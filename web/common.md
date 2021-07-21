@@ -255,3 +255,21 @@ jQuery 的 AJAX API
 >5XX 系列
 >>5XX 系列代表 server 端在處理請求的過程中有錯誤，看到這類代表不用檢查自己程式碼是否有寫錯
 
+---常用 https://ithelp.ithome.com.tw/articles/10240440
+有的套件，會要求npm的最低版本，可以用npm -v 查看目前的版本是多少
+npm -v
+
+安裝package.json紀錄的所有套件
+npm install 
+
+在整台電腦上，安裝或移除特定的第三方套件，並記錄至Package.json (通常用在，所有專案都會用到的CLI工具)
+npm install -g　套件名稱  #npm install --global
+npm uninstall -g　套件名稱 
+
+在某個專案資料夾底下，安裝特定的第三方套件，並記錄至Package.json (通常用在，某個專案的函式庫或框架)
+npm install -s　套件名稱 #npm install --save
+npm uninstall s　套件名稱
+
+在某個專案資料夾底下，安裝特定的第三方套件，用於開發環境
+npm install -D 套件名稱 #npm install --save-dev
+npm uninstall -D 套件名稱
