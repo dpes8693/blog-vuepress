@@ -157,3 +157,6 @@ VScode使用
 + raster 光柵 小格子
 + http header分成4種: request general entity  
 + Axios Instance 
+
+vue-router3有更改promise 需要回調catch
+axios.js已經內建 request和response 攔截器了
