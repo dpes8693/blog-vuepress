@@ -36,6 +36,13 @@ export const themeData = {
       "children": [
         "/web/noun.md"
       ]
+    },
+    {
+      "isGroup": true,
+      "text": "Portfolio",
+      "children": [
+        "/portfolio/google.md"
+      ]
     }
   ],
   "locales": {

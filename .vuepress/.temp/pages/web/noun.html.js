@@ -15,16 +15,16 @@ export const data = {
   ],
   "filePathRelative": "web/noun.md",
   "git": {
-    "updatedTime": 1631152073000,
+    "updatedTime": 1631156158000,
     "contributors": [
-      {
-        "name": "Richard",
-        "email": "dpes8693@gmail.com",
-        "commits": 1
-      },
       {
         "name": "林原醇",
         "email": "richard_lin@tangram.tw",
+        "commits": 3
+      },
+      {
+        "name": "Richard",
+        "email": "dpes8693@gmail.com",
         "commits": 1
       }
     ]

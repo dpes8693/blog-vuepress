@@ -63,6 +63,11 @@ module.exports = {
         text: "Proper Noun",
         children: ["/web/noun.md",], //會去抓#的名稱
       },
+      {
+        isGroup: true,
+        text: "Portfolio",
+        children: ["/portfolio/google.md",], //會去抓#的名稱        
+      }
     ],
   },
 };
