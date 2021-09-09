@@ -10,6 +10,7 @@ const routeItems = [
   ["v-2ca18037","/web/resource.html","深入的學習link",["/web/resource.md"]],
   ["v-ec084aca","/web/vscode.html","VScode",["/web/vscode.md"]],
   ["v-1f585632","/web/vue.html","Vue.js",["/web/vue.md"]],
+  ["v-6d829d16","/docs/demo/test.html","",["/docs/demo/test.md"]],
   ["v-3706649a","/404.html","",[]],
 ]
 
