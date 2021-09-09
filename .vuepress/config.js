@@ -19,7 +19,6 @@ module.exports = {
   base: "/blog-vuepress/",
   description: "用Vupress架Blog",
 //
-contributors: false,
 
   themeConfig: {
     //logo: 'https://vuejs.org/images/logo.png',
