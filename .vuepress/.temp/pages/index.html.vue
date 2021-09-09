@@ -119,8 +119,7 @@ console.log('Hello, VuePress!')
 <div class="language-javascript ext-js line-numbers-mode"><pre v-pre class="language-javascript"><code>console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token string">'Hello, VuePress!'</span><span class="token punctuation">)</span>
 </code></pre><div class="line-numbers"><span class="line-number">1</span><br></div></div></details>
 <!-- 收合2 -->
-<div class="language-markdown ext-md line-numbers-mode"><pre v-pre class="language-markdown"><code>summary上下要空
-<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>details</span><span class="token punctuation">></span></span>
+<div class="language-markdown ext-md line-numbers-mode"><pre v-pre class="language-markdown"><code><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>details</span> <span class="token attr-name">open</span><span class="token punctuation">></span></span>
   <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>summary</span><span class="token punctuation">></span></span>html tag<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>summary</span><span class="token punctuation">></span></span>
 
 <span class="token table"><span class="token table-header-row"><span class="token punctuation">|</span><span class="token table-header important"> HTML TAG </span><span class="token punctuation">|</span><span class="token table-header important"> Eng.            </span><span class="token punctuation">|</span><span class="token table-header important"> X</span>
@@ -129,8 +128,10 @@ console.log('Hello, VuePress!')
 <span class="token punctuation">|</span><span class="token table-data"> q        </span><span class="token punctuation">|</span><span class="token table-data"> quotation       </span><span class="token punctuation">|</span><span class="token table-data"> Text                             </span><span class="token punctuation">|</span>
 </span></span>
 <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>details</span><span class="token punctuation">></span></span>
-</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br></div></div><details>
+</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br></div></div><details open>
   <summary>html tag</summary>
+<p>記得空一行
+open預設展開 若要收合刪掉即可</p>
 <table>
 <thead>
 <tr>

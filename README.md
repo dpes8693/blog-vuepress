@@ -120,8 +120,7 @@ console.log('Hello, VuePress!')
 
 <!-- 收合2 -->
 ```md
-summary上下要空
-<details>
+<details open>
   <summary>html tag</summary>
 
 | HTML TAG | Eng.            | X
@@ -132,9 +131,11 @@ summary上下要空
 </details>
 ```
 
-<details>
+<details open>
   <summary>html tag</summary>
 
+記得空一行 
+open預設展開 若要收合刪掉即可
 | HTML TAG | Eng.            | X
 | -------- | --------------- | -------------------------------- |
 | var      | variable        | Text                             |
