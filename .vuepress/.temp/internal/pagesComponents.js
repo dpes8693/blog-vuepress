@@ -7,8 +7,8 @@ export const pagesComponents = {
   "v-6e0d8f34": defineAsyncComponent(() => import(/* webpackChunkName: "v-6e0d8f34" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/guide/1.html.vue")),
   // path: /guide/plugin.html
   "v-1d14d5cc": defineAsyncComponent(() => import(/* webpackChunkName: "v-1d14d5cc" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/guide/plugin.html.vue")),
-  // path: /portfolio/google.html
-  "v-c44732c0": defineAsyncComponent(() => import(/* webpackChunkName: "v-c44732c0" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/portfolio/google.html.vue")),
+  // path: /portfolio/driveUrl.html
+  "v-3b074cd4": defineAsyncComponent(() => import(/* webpackChunkName: "v-3b074cd4" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/portfolio/driveUrl.html.vue")),
   // path: /web/common.html
   "v-07f2110c": defineAsyncComponent(() => import(/* webpackChunkName: "v-07f2110c" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/web/common.html.vue")),
   // path: /web/noun.html

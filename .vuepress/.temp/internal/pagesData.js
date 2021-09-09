@@ -5,8 +5,8 @@ export const pagesData = {
   "v-6e0d8f34": () => import(/* webpackChunkName: "v-6e0d8f34" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/guide/1.html.js").then(({ data }) => data),
   // path: /guide/plugin.html
   "v-1d14d5cc": () => import(/* webpackChunkName: "v-1d14d5cc" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/guide/plugin.html.js").then(({ data }) => data),
-  // path: /portfolio/google.html
-  "v-c44732c0": () => import(/* webpackChunkName: "v-c44732c0" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/portfolio/google.html.js").then(({ data }) => data),
+  // path: /portfolio/driveUrl.html
+  "v-3b074cd4": () => import(/* webpackChunkName: "v-3b074cd4" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/portfolio/driveUrl.html.js").then(({ data }) => data),
   // path: /web/common.html
   "v-07f2110c": () => import(/* webpackChunkName: "v-07f2110c" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/web/common.html.js").then(({ data }) => data),
   // path: /web/noun.html
