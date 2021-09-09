@@ -5,14 +5,7 @@ export const data = {
   "lang": "zh-tw",
   "frontmatter": {},
   "excerpt": "",
-  "headers": [
-    {
-      "level": 3,
-      "title": "(縮寫) //補充 {階層關係}",
-      "slug": "縮寫-補充-階層關係",
-      "children": []
-    }
-  ],
+  "headers": [],
   "filePathRelative": "web/noun.md",
   "git": {
     "updatedTime": 1631156158000,

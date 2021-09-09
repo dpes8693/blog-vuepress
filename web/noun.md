@@ -18,24 +18,45 @@ body {
 }
 </style>
 
-### (縮寫) //補充 {階層關係}
+- (縮寫) //補充 {階層關係}
 
 <br>
-<!-- <details open>
-  <summary>API相關名詞</summary>
-
-```js
-
-```
-
-</details> -->
 
 <details open>
   <summary>Web基本名詞</summary>
 
 ```js
+
 大分類{
     frontend()//前端 畫面和邏輯
+    {
+        框架{
+            Vue(){
+                vue-axios
+                vue-router
+                vuex
+            }
+            React()
+            Angular()
+        }
+        套件{
+            打包(){
+                webpack
+                babel
+            }
+            動畫(){
+                velocity.js
+                GSAP
+            }
+            彈窗提示(){
+                popper js //alert 輕量級的套件
+                sweetalert2 //漂亮的 alert 自訂
+            }
+            時間(){
+                moment.js //https://ithelp.ithome.com.tw/articles/10208995
+            }
+        }
+    }
     backend()//後端 操作資料庫
 }
 
@@ -63,7 +84,6 @@ body {
 }
 
 ```
-
 
 ![api](https://drive.google.com/uc?export=download&id=1Q9TW06Xf7AzS_d0MmdMbRcRyRelK_vfk)
 
@@ -93,25 +113,19 @@ AJAX(Asynchronous JavaScript and XML){
 ```
 </details>
 
+其他慢慢整理
+
 + Core-js
-+ react/vue/angular，webpack、babel、core-js
 + crypto-js 加密
 + nodejs dotenv 套件 環境變數
 + [env](https://dwatow.github.io/2019/01-26-node-with-env-first/)
-+ popper js 提示 alert 輕量級的套件
-+ sweetalert2 漂亮的 alert 自訂
 + uuid 不重複
-+ velocity.js 動畫 vs GSAP
-+ vue-axios
-+ vue-router
-+ vuex
-+ [moment.js 時間](https://ithelp.ithome.com.tw/articles/10208995)
 + [Lo-Dash 函式庫](https://medium.com/itsems-frontend/javascript-lodash-9e6833cb1158)
-
----
-
 + [Polyfill 實現瀏覽器並不支援的原生API的程式碼](https://codertw.com/%E5%89%8D%E7%AB%AF%E9%96%8B%E7%99%BC/29473/)
-
++ Regex //正則表達
++ SKU //單品 最小單位
++ ORM // 物件關聯映射
++ ngrok //轉址 後端開發
 <!-- JavaScript
 jQuery(JavaScript 函式庫)
 初衷是用來簡化 HTML 與 JavaScript 之間的溝通與操作 -->
