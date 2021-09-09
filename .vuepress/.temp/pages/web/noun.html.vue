@@ -6,7 +6,7 @@
 <li>react/vue/angular，webpack、babel、core-js</li>
 <li>crypto-js 加密</li>
 <li>nodejs dotenv 套件 環境變數</li>
-<li>https://dwatow.github.io/2019/01-26-node-with-env-first/</li>
+<li><a href="https://dwatow.github.io/2019/01-26-node-with-env-first/" target="_blank" rel="noopener noreferrer">env<OutboundLink/></a></li>
 <li>popper js 提示 alert 輕量級的套件</li>
 <li>sweetalert2 漂亮的 alert 自訂</li>
 <li>uuid 不重複</li>
