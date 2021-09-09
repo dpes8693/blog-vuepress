@@ -8,7 +8,13 @@ export const data = {
   "headers": [],
   "filePathRelative": "portfolio/driveUrl.md",
   "git": {
-    "updatedTime": null,
-    "contributors": []
+    "updatedTime": 1631169104000,
+    "contributors": [
+      {
+        "name": "林原醇",
+        "email": "richard_lin@tangram.tw",
+        "commits": 1
+      }
+    ]
   }
 }

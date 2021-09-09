@@ -17,11 +17,15 @@
 
 3.ctrl+A選取, ctrl+C複製連結
 
-4.點右邊"小按鈕" 顯示/隱藏
-</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br></div></div><hr>
+4."小按鈕" 顯示/隱藏
+
+
+</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br></div></div><h3>小按鈕</h3>
+<p><img src="https://drive.google.com/uc?export=download&amp;id=1MdMm41gsiYi4vwzAb88MBqRVIBBJ1F6a" alt="小按鈕"></p>
+<hr>
 <h3>圖片使用教學</h3>
 <div class="language-markdown ext-md line-numbers-mode"><pre v-pre class="language-markdown"><code>
-![](https://drive.google.com/uc?export=download&amp;id=1FgTcxp2FPxXZD9FxlYgMABWGEYPIT3k4)
+<span class="token url"><span class="token operator">!</span>[<span class="token content">小米</span>](<span class="token url">https://drive.google.com/uc?export=download&amp;id=1FgTcxp2FPxXZD9FxlYgMABWGEYPIT3k4</span>)</span>
 
 </code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br></div></div><div class="language-html ext-html line-numbers-mode"><pre v-pre class="language-html"><code>
 <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>img</span> <span class="token attr-name">width</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>50px<span class="token punctuation">"</span></span> <span class="token attr-name">src</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>https://drive.google.com/uc?export=download&amp;id=1FgTcxp2FPxXZD9FxlYgMABWGEYPIT3k4<span class="token punctuation">"</span></span> <span class="token punctuation">/></span></span>

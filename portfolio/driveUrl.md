@@ -24,8 +24,14 @@ https://drive.google.com/uc?export=download&id=1FgTcxp2FPxXZD9FxlYgMABWGEYPIT3k4
 
 3.ctrl+A選取, ctrl+C複製連結
 
-4.點右邊"小按鈕" 顯示/隱藏
+4."小按鈕" 顯示/隱藏
+
+
 ```
+
+<h3>小按鈕</h3>
+
+![小按鈕](https://drive.google.com/uc?export=download&id=1MdMm41gsiYi4vwzAb88MBqRVIBBJ1F6a)
 
 ---
 
@@ -33,7 +39,7 @@ https://drive.google.com/uc?export=download&id=1FgTcxp2FPxXZD9FxlYgMABWGEYPIT3k4
 
 ```md
 
-![](https://drive.google.com/uc?export=download&id=1FgTcxp2FPxXZD9FxlYgMABWGEYPIT3k4)
+![小米](https://drive.google.com/uc?export=download&id=1FgTcxp2FPxXZD9FxlYgMABWGEYPIT3k4)
 
 ```
 
