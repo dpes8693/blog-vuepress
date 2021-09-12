@@ -74,6 +74,7 @@ body {
 }
 
 網頁{
+    DOM(Document Object Model)//文件物件模型 html樹狀節點-結構
     SEO(Search Engine Optimization)//搜尋引擎最佳化 搜尋排名高在第一頁
     RWD(Responsive Web Design)//響應式網頁 自動排版手機體驗好
 
@@ -126,6 +127,9 @@ AJAX(Asynchronous JavaScript and XML){
 + SKU //單品 最小單位
 + ORM // 物件關聯映射
 + ngrok //轉址 後端開發
++ jQuery
++ 
+
 <!-- JavaScript
 jQuery(JavaScript 函式庫)
 初衷是用來簡化 HTML 與 JavaScript 之間的溝通與操作 -->

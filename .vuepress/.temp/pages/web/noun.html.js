@@ -8,12 +8,12 @@ export const data = {
   "headers": [],
   "filePathRelative": "web/noun.md",
   "git": {
-    "updatedTime": 1631156158000,
+    "updatedTime": 1631180065000,
     "contributors": [
       {
         "name": "林原醇",
         "email": "richard_lin@tangram.tw",
-        "commits": 3
+        "commits": 4
       },
       {
         "name": "Richard",
