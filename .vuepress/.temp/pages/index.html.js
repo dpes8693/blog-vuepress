@@ -15,12 +15,17 @@ export const data = {
   ],
   "filePathRelative": "README.md",
   "git": {
-    "updatedTime": 1626160996000,
+    "updatedTime": 1631167195000,
     "contributors": [
       {
         "name": "Richard",
         "email": "dpes8693@gmail.com",
         "commits": 15
+      },
+      {
+        "name": "林原醇",
+        "email": "richard_lin@tangram.tw",
+        "commits": 2
       }
     ]
   }

@@ -18,6 +18,7 @@ module.exports = {
   dest: "docs",
   base: "/blog-vuepress/",
   description: "用Vupress架Blog",
+//
 
   themeConfig: {
     //logo: 'https://vuejs.org/images/logo.png',
@@ -63,6 +64,11 @@ module.exports = {
         text: "Proper Noun",
         children: ["/web/noun.md",], //會去抓#的名稱
       },
+      {
+        isGroup: true,
+        text: "Portfolio",
+        children: ["/portfolio/driveUrl.md",], //會去抓#的名稱        
+      }
     ],
   },
 };
