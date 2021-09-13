@@ -17,10 +17,10 @@ body {
 	overflow: auto;
 }
 </style>
-
 - (縮寫) //補充 {階層關係}
-
 <br>
+
+
 
 <details open>
   <summary>Web基本名詞</summary>
@@ -61,6 +61,7 @@ body {
 }
 
 網路{
+    http()//獨立拉出來講
     request()//向後端請求
     query(ex:'https://home.gamer.com.tw/creation.php'+ ?owner=dpes5407)//請求攜帶參數
 
@@ -71,6 +72,7 @@ body {
         廣義//使用別人開發的產品方式
         狹義//對某個address請求資料  下圖
     }
+
 }
 
 網頁{
@@ -88,6 +90,9 @@ body {
 ![api](https://drive.google.com/uc?export=download&id=1Q9TW06Xf7AzS_d0MmdMbRcRyRelK_vfk)
 
 </details>
+
+
+
 
 <details open>
   <summary>API相關名詞</summary>
@@ -113,6 +118,83 @@ AJAX(Asynchronous JavaScript and XML){
 ```
 </details>
 
+
+
+
+<details>
+  <summary>https CA證書</summary>
+  
+```js
+HTTP(HyperText Transfer Protocol){//超文本傳輸協定 往返“瀏覽器”與“伺服器”的通訊協議
+    //定義了不同Request方法 
+    //因為沒加密(=明文) 很容易被串改&攻擊
+    HTTPS(){//S是Secure的意思 需要SSL/TLS加密
+        TLS(Transport Layer Security){//傳輸層安全性協定
+            //前身為SSL
+            SSL(Secure Sockets Layer){//安全通訊協定
+                X.509 認證
+            }
+            //都是透過交握溝通(Handshake )以及公私鑰加密的動作，來達到資料保密的溝通。
+            Key{
+                公鑰
+                私鑰
+                PKI系統
+            }
+        }
+        `Let's Encrypt` //免費服務
+        SSL購買種類{
+            Personal 個人 = 一般使用者或是小型公司
+
+            Business 商業 = 大型公司
+
+            ECOMMERCE 電子商務 = 購物平台
+
+            One Domain = 一個網域網址, 包含 domain 自己與 www.domain
+
+            Muti-Domain = 同一個憑證可以給不同的domain一起使用，提升彼此之間的關係信賴度(下面例子有會有提到)
+
+            Sub Domain = 子網域使用一樣的憑證，例如常見的api.domain 或是 demo.domain 測試用站台的HTTPS            
+        }
+    }
+}
+
+PKI(ublic Key Infrastructure){//公開金鑰基礎建設
+    數位憑證
+    公私鑰加密解密
+    CA(Certificate Authority){//數位憑證認證機構
+        根憑證(root certificate)
+        根憑證權威單位(Root Certificate Authority)
+        自簽數位簽章(Self-Signed CA)
+
+        中介證書()
+
+        CRL()// 伺服器清單
+    }    
+}
+
+
+```
+
+[ssl wiki](https://zh.wikipedia.org/wiki/%E5%82%B3%E8%BC%B8%E5%B1%A4%E5%AE%89%E5%85%A8%E6%80%A7%E5%8D%94%E5%AE%9A)
+[https progressbar](https://progressbar.tw/posts/98)
+</details>
+
+
+
+
+<details>
+  <summary>網頁攻擊</summary>
+  
+```js
+AJAX(Asynchronous JavaScript and XML){
+
+}
+
+```
+</details>
+
+
+
 其他慢慢整理
 
 + Core-js
@@ -126,6 +208,7 @@ AJAX(Asynchronous JavaScript and XML){
 + SKU //單品 最小單位
 + ORM // 物件關聯映射
 + ngrok //轉址 後端開發
+
 <!-- JavaScript
 jQuery(JavaScript 函式庫)
 初衷是用來簡化 HTML 與 JavaScript 之間的溝通與操作 -->
