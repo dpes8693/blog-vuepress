@@ -7,13 +7,27 @@
   <summary>Web基本名詞</summary>
 <div class="language-javascript ext-js line-numbers-mode"><pre v-pre class="language-javascript"><code>
 大分類<span class="token punctuation">{</span>
+    
+    <span class="token function">通用</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+        陳述式 
+        表達式
+
+        <span class="token function">正規表達式</span><span class="token punctuation">(</span>Regular Expression<span class="token punctuation">)</span>
+    <span class="token punctuation">}</span>    
     <span class="token function">frontend</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token comment">//前端 畫面和邏輯</span>
     <span class="token punctuation">{</span>
         框架<span class="token punctuation">{</span>
             <span class="token function">Vue</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">{</span>
-                vue<span class="token operator">-</span>axios
-                vue<span class="token operator">-</span>router
-                vuex
+                mixins
+                好兄弟<span class="token punctuation">{</span>
+                    vue<span class="token operator">-</span>axios
+                    vue<span class="token operator">-</span>router
+                    vuex                    
+                <span class="token punctuation">}</span>
+                大家族<span class="token punctuation">{</span>
+                    Vite
+                    Nuxt
+                <span class="token punctuation">}</span>
             <span class="token punctuation">}</span>
             <span class="token function">React</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
             <span class="token function">Angular</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
@@ -36,7 +50,11 @@
             <span class="token punctuation">}</span>
         <span class="token punctuation">}</span>
     <span class="token punctuation">}</span>
-    <span class="token function">backend</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token comment">//後端 操作資料庫</span>
+    <span class="token function">backend</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">{</span><span class="token comment">//後端 操作資料庫</span>
+         GraphQL<span class="token comment">//是一種為 API 設計的資料query(修改)的語言 FB開始使用</span>
+    <span class="token punctuation">}</span>
+
+    <span class="token punctuation">[</span>Regex<span class="token punctuation">]</span><span class="token punctuation">(</span><span class="token template-string"><span class="token template-punctuation string">`</span><span class="token string">https://www.fooish.com/regex-regular-expression/</span><span class="token template-punctuation string">`</span></span><span class="token punctuation">)</span>
 <span class="token punctuation">}</span>
 
 網路<span class="token punctuation">{</span>
@@ -64,7 +82,7 @@
     <span class="token punctuation">}</span>
 <span class="token punctuation">}</span>
 
-</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br><span class="line-number">11</span><br><span class="line-number">12</span><br><span class="line-number">13</span><br><span class="line-number">14</span><br><span class="line-number">15</span><br><span class="line-number">16</span><br><span class="line-number">17</span><br><span class="line-number">18</span><br><span class="line-number">19</span><br><span class="line-number">20</span><br><span class="line-number">21</span><br><span class="line-number">22</span><br><span class="line-number">23</span><br><span class="line-number">24</span><br><span class="line-number">25</span><br><span class="line-number">26</span><br><span class="line-number">27</span><br><span class="line-number">28</span><br><span class="line-number">29</span><br><span class="line-number">30</span><br><span class="line-number">31</span><br><span class="line-number">32</span><br><span class="line-number">33</span><br><span class="line-number">34</span><br><span class="line-number">35</span><br><span class="line-number">36</span><br><span class="line-number">37</span><br><span class="line-number">38</span><br><span class="line-number">39</span><br><span class="line-number">40</span><br><span class="line-number">41</span><br><span class="line-number">42</span><br><span class="line-number">43</span><br><span class="line-number">44</span><br><span class="line-number">45</span><br><span class="line-number">46</span><br><span class="line-number">47</span><br><span class="line-number">48</span><br><span class="line-number">49</span><br><span class="line-number">50</span><br><span class="line-number">51</span><br><span class="line-number">52</span><br><span class="line-number">53</span><br><span class="line-number">54</span><br><span class="line-number">55</span><br><span class="line-number">56</span><br><span class="line-number">57</span><br><span class="line-number">58</span><br><span class="line-number">59</span><br></div></div><p><img src="https://drive.google.com/uc?export=download&amp;id=1Q9TW06Xf7AzS_d0MmdMbRcRyRelK_vfk" alt="api"></p>
+</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br><span class="line-number">11</span><br><span class="line-number">12</span><br><span class="line-number">13</span><br><span class="line-number">14</span><br><span class="line-number">15</span><br><span class="line-number">16</span><br><span class="line-number">17</span><br><span class="line-number">18</span><br><span class="line-number">19</span><br><span class="line-number">20</span><br><span class="line-number">21</span><br><span class="line-number">22</span><br><span class="line-number">23</span><br><span class="line-number">24</span><br><span class="line-number">25</span><br><span class="line-number">26</span><br><span class="line-number">27</span><br><span class="line-number">28</span><br><span class="line-number">29</span><br><span class="line-number">30</span><br><span class="line-number">31</span><br><span class="line-number">32</span><br><span class="line-number">33</span><br><span class="line-number">34</span><br><span class="line-number">35</span><br><span class="line-number">36</span><br><span class="line-number">37</span><br><span class="line-number">38</span><br><span class="line-number">39</span><br><span class="line-number">40</span><br><span class="line-number">41</span><br><span class="line-number">42</span><br><span class="line-number">43</span><br><span class="line-number">44</span><br><span class="line-number">45</span><br><span class="line-number">46</span><br><span class="line-number">47</span><br><span class="line-number">48</span><br><span class="line-number">49</span><br><span class="line-number">50</span><br><span class="line-number">51</span><br><span class="line-number">52</span><br><span class="line-number">53</span><br><span class="line-number">54</span><br><span class="line-number">55</span><br><span class="line-number">56</span><br><span class="line-number">57</span><br><span class="line-number">58</span><br><span class="line-number">59</span><br><span class="line-number">60</span><br><span class="line-number">61</span><br><span class="line-number">62</span><br><span class="line-number">63</span><br><span class="line-number">64</span><br><span class="line-number">65</span><br><span class="line-number">66</span><br><span class="line-number">67</span><br><span class="line-number">68</span><br><span class="line-number">69</span><br><span class="line-number">70</span><br><span class="line-number">71</span><br><span class="line-number">72</span><br><span class="line-number">73</span><br><span class="line-number">74</span><br><span class="line-number">75</span><br><span class="line-number">76</span><br><span class="line-number">77</span><br></div></div><p><img src="https://drive.google.com/uc?export=download&amp;id=1Q9TW06Xf7AzS_d0MmdMbRcRyRelK_vfk" alt="api"></p>
 </details>
 <details open>
   <summary>API相關名詞</summary>
@@ -99,9 +117,9 @@
             <span class="token punctuation">}</span>
             <span class="token comment">//都是透過交握溝通(Handshake )以及公私鑰加密的動作，來達到資料保密的溝通。</span>
             Key<span class="token punctuation">{</span>
-                公鑰
-                私鑰
-                <span class="token constant">PKI</span>系統
+                <span class="token function">公鑰</span><span class="token punctuation">(</span><span class="token keyword">public</span> key<span class="token punctuation">)</span>
+                <span class="token function">私鑰</span><span class="token punctuation">(</span><span class="token keyword">private</span> key<span class="token punctuation">)</span>
+                <span class="token string">'PKI系統'</span>
             <span class="token punctuation">}</span>
         <span class="token punctuation">}</span>
         <span class="token template-string"><span class="token template-punctuation string">`</span><span class="token string">Let's Encrypt</span><span class="token template-punctuation string">`</span></span> <span class="token comment">//免費服務</span>
@@ -116,7 +134,9 @@
 
             Muti<span class="token operator">-</span>Domain <span class="token operator">=</span> <span class="token function">同一個憑證可以給不同的domain一起使用，提升彼此之間的關係信賴度</span><span class="token punctuation">(</span>下面例子有會有提到<span class="token punctuation">)</span>
 
-            Sub Domain <span class="token operator">=</span> 子網域使用一樣的憑證，例如常見的api<span class="token punctuation">.</span>domain 或是 demo<span class="token punctuation">.</span>domain 測試用站台的<span class="token constant">HTTPS</span>            
+            Sub Domain <span class="token operator">=</span> 子網域使用一樣的憑證，例如常見的api<span class="token punctuation">.</span>domain 或是 demo<span class="token punctuation">.</span>domain 測試用站台的<span class="token constant">HTTPS</span>
+
+            <span class="token function">萬用字元憑證</span><span class="token punctuation">(</span>Wildcard<span class="token punctuation">)</span>   
         <span class="token punctuation">}</span>
     <span class="token punctuation">}</span>
 <span class="token punctuation">}</span>
@@ -136,8 +156,10 @@
 <span class="token punctuation">}</span>
 
 
-</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br><span class="line-number">11</span><br><span class="line-number">12</span><br><span class="line-number">13</span><br><span class="line-number">14</span><br><span class="line-number">15</span><br><span class="line-number">16</span><br><span class="line-number">17</span><br><span class="line-number">18</span><br><span class="line-number">19</span><br><span class="line-number">20</span><br><span class="line-number">21</span><br><span class="line-number">22</span><br><span class="line-number">23</span><br><span class="line-number">24</span><br><span class="line-number">25</span><br><span class="line-number">26</span><br><span class="line-number">27</span><br><span class="line-number">28</span><br><span class="line-number">29</span><br><span class="line-number">30</span><br><span class="line-number">31</span><br><span class="line-number">32</span><br><span class="line-number">33</span><br><span class="line-number">34</span><br><span class="line-number">35</span><br><span class="line-number">36</span><br><span class="line-number">37</span><br><span class="line-number">38</span><br><span class="line-number">39</span><br><span class="line-number">40</span><br><span class="line-number">41</span><br><span class="line-number">42</span><br><span class="line-number">43</span><br><span class="line-number">44</span><br><span class="line-number">45</span><br><span class="line-number">46</span><br><span class="line-number">47</span><br><span class="line-number">48</span><br></div></div><p><a href="https://zh.wikipedia.org/wiki/%E5%82%B3%E8%BC%B8%E5%B1%A4%E5%AE%89%E5%85%A8%E6%80%A7%E5%8D%94%E5%AE%9A" target="_blank" rel="noopener noreferrer">ssl wiki<OutboundLink/></a>
-<a href="https://progressbar.tw/posts/98" target="_blank" rel="noopener noreferrer">https progressbar<OutboundLink/></a></p>
+</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br><span class="line-number">11</span><br><span class="line-number">12</span><br><span class="line-number">13</span><br><span class="line-number">14</span><br><span class="line-number">15</span><br><span class="line-number">16</span><br><span class="line-number">17</span><br><span class="line-number">18</span><br><span class="line-number">19</span><br><span class="line-number">20</span><br><span class="line-number">21</span><br><span class="line-number">22</span><br><span class="line-number">23</span><br><span class="line-number">24</span><br><span class="line-number">25</span><br><span class="line-number">26</span><br><span class="line-number">27</span><br><span class="line-number">28</span><br><span class="line-number">29</span><br><span class="line-number">30</span><br><span class="line-number">31</span><br><span class="line-number">32</span><br><span class="line-number">33</span><br><span class="line-number">34</span><br><span class="line-number">35</span><br><span class="line-number">36</span><br><span class="line-number">37</span><br><span class="line-number">38</span><br><span class="line-number">39</span><br><span class="line-number">40</span><br><span class="line-number">41</span><br><span class="line-number">42</span><br><span class="line-number">43</span><br><span class="line-number">44</span><br><span class="line-number">45</span><br><span class="line-number">46</span><br><span class="line-number">47</span><br><span class="line-number">48</span><br><span class="line-number">49</span><br><span class="line-number">50</span><br></div></div><p><a href="https://zh.wikipedia.org/wiki/%E5%82%B3%E8%BC%B8%E5%B1%A4%E5%AE%89%E5%85%A8%E6%80%A7%E5%8D%94%E5%AE%9A" target="_blank" rel="noopener noreferrer">ssl wiki<OutboundLink/></a>
+<a href="https://progressbar.tw/posts/98" target="_blank" rel="noopener noreferrer">https progressbar<OutboundLink/></a>
+<a href="https://ithelp.ithome.com.tw/questions/10193796" target="_blank" rel="noopener noreferrer">SSL觀念 iT<OutboundLink/></a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Chain_of_trust.svg" alt="CA chain"></p>
 </details>
 <details>
   <summary>網頁攻擊</summary>
@@ -160,6 +182,10 @@
 <li>ORM // 物件關聯映射</li>
 <li>ngrok //轉址 後端開發</li>
 <li>jQuery</li>
+<li>Hexo</li>
+<li>Hugo</li>
+<li>GatsbyJS</li>
+<li>Wyam</li>
 </ul>
 <!-- JavaScript
 jQuery(JavaScript 函式庫)

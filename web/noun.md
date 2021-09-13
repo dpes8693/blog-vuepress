@@ -28,13 +28,27 @@ body {
 ```js
 
 大分類{
+    
+    通用() {
+        陳述式 
+        表達式
+
+        正規表達式(Regular Expression)
+    }    
     frontend()//前端 畫面和邏輯
     {
         框架{
             Vue(){
-                vue-axios
-                vue-router
-                vuex
+                mixins
+                好兄弟{
+                    vue-axios
+                    vue-router
+                    vuex                    
+                }
+                大家族{
+                    Vite
+                    Nuxt
+                }
             }
             React()
             Angular()
@@ -57,7 +71,11 @@ body {
             }
         }
     }
-    backend()//後端 操作資料庫
+    backend(){//後端 操作資料庫
+         GraphQL//是一種為 API 設計的資料query(修改)的語言 FB開始使用
+    }
+
+    [Regex](`https://www.fooish.com/regex-regular-expression/`)
 }
 
 網路{
@@ -136,9 +154,9 @@ HTTP(HyperText Transfer Protocol){//超文本傳輸協定 往返“瀏覽器”�
             }
             //都是透過交握溝通(Handshake )以及公私鑰加密的動作，來達到資料保密的溝通。
             Key{
-                公鑰
-                私鑰
-                PKI系統
+                公鑰(public key)
+                私鑰(private key)
+                'PKI系統'
             }
         }
         `Let's Encrypt` //免費服務
@@ -153,7 +171,9 @@ HTTP(HyperText Transfer Protocol){//超文本傳輸協定 往返“瀏覽器”�
 
             Muti-Domain = 同一個憑證可以給不同的domain一起使用，提升彼此之間的關係信賴度(下面例子有會有提到)
 
-            Sub Domain = 子網域使用一樣的憑證，例如常見的api.domain 或是 demo.domain 測試用站台的HTTPS            
+            Sub Domain = 子網域使用一樣的憑證，例如常見的api.domain 或是 demo.domain 測試用站台的HTTPS
+
+            萬用字元憑證(Wildcard)   
         }
     }
 }
@@ -177,6 +197,8 @@ PKI(ublic Key Infrastructure){//公開金鑰基礎建設
 
 [ssl wiki](https://zh.wikipedia.org/wiki/%E5%82%B3%E8%BC%B8%E5%B1%A4%E5%AE%89%E5%85%A8%E6%80%A7%E5%8D%94%E5%AE%9A)
 [https progressbar](https://progressbar.tw/posts/98)
+[SSL觀念 iT](https://ithelp.ithome.com.tw/questions/10193796)
+![CA chain](https://upload.wikimedia.org/wikipedia/commons/d/d1/Chain_of_trust.svg)
 </details>
 
 
@@ -209,6 +231,10 @@ DDoS(){
 + ORM // 物件關聯映射
 + ngrok //轉址 後端開發
 + jQuery
++ Hexo
++ Hugo
++ GatsbyJS
++ Wyam
 
 <!-- JavaScript
 jQuery(JavaScript 函式庫)
