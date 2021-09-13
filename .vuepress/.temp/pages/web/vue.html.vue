@@ -143,6 +143,8 @@ VScode使用</p>
 <li>http header分成4種: request general entity</li>
 <li>Axios Instance</li>
 </ul>
+<p>vue-router3有更改promise 需要回調catch
+axios.js已經內建 request和response 攔截器了</p>
 </template>
 
 <style>
