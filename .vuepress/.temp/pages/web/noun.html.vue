@@ -1,8 +1,8 @@
 <template><h1 id="名詞學習與整理"><a class="header-anchor" href="#名詞學習與整理">#</a> 名詞學習與整理</h1>
 <ul>
-<li>(縮寫) //補充 {階層關係}</li>
+<li>(縮寫) //補充 {階層關係}
+<br></li>
 </ul>
-<br>
 <details open>
   <summary>Web基本名詞</summary>
 <div class="language-javascript ext-js line-numbers-mode"><pre v-pre class="language-javascript"><code>
@@ -40,6 +40,7 @@
 <span class="token punctuation">}</span>
 
 網路<span class="token punctuation">{</span>
+    <span class="token function">http</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token comment">//獨立拉出來講</span>
     <span class="token function">request</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token comment">//向後端請求</span>
     <span class="token function">query</span><span class="token punctuation">(</span>ex<span class="token operator">:</span><span class="token string">'https://home.gamer.com.tw/creation.php'</span><span class="token operator">+</span> <span class="token operator">?</span>owner<span class="token operator">=</span>dpes5407<span class="token punctuation">)</span><span class="token comment">//請求攜帶參數</span>
 
@@ -50,10 +51,10 @@
         廣義<span class="token comment">//使用別人開發的產品方式</span>
         狹義<span class="token comment">//對某個address請求資料  下圖</span>
     <span class="token punctuation">}</span>
+
 <span class="token punctuation">}</span>
 
 網頁<span class="token punctuation">{</span>
-    <span class="token constant">DOM</span><span class="token punctuation">(</span>Document Object Model<span class="token punctuation">)</span><span class="token comment">//文件物件模型 html樹狀節點-結構</span>
     <span class="token constant">SEO</span><span class="token punctuation">(</span>Search Engine Optimization<span class="token punctuation">)</span><span class="token comment">//搜尋引擎最佳化 搜尋排名高在第一頁</span>
     <span class="token constant">RWD</span><span class="token punctuation">(</span>Responsive Web Design<span class="token punctuation">)</span><span class="token comment">//響應式網頁 自動排版手機體驗好</span>
 
@@ -63,7 +64,7 @@
     <span class="token punctuation">}</span>
 <span class="token punctuation">}</span>
 
-</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br><span class="line-number">11</span><br><span class="line-number">12</span><br><span class="line-number">13</span><br><span class="line-number">14</span><br><span class="line-number">15</span><br><span class="line-number">16</span><br><span class="line-number">17</span><br><span class="line-number">18</span><br><span class="line-number">19</span><br><span class="line-number">20</span><br><span class="line-number">21</span><br><span class="line-number">22</span><br><span class="line-number">23</span><br><span class="line-number">24</span><br><span class="line-number">25</span><br><span class="line-number">26</span><br><span class="line-number">27</span><br><span class="line-number">28</span><br><span class="line-number">29</span><br><span class="line-number">30</span><br><span class="line-number">31</span><br><span class="line-number">32</span><br><span class="line-number">33</span><br><span class="line-number">34</span><br><span class="line-number">35</span><br><span class="line-number">36</span><br><span class="line-number">37</span><br><span class="line-number">38</span><br><span class="line-number">39</span><br><span class="line-number">40</span><br><span class="line-number">41</span><br><span class="line-number">42</span><br><span class="line-number">43</span><br><span class="line-number">44</span><br><span class="line-number">45</span><br><span class="line-number">46</span><br><span class="line-number">47</span><br><span class="line-number">48</span><br><span class="line-number">49</span><br><span class="line-number">50</span><br><span class="line-number">51</span><br><span class="line-number">52</span><br><span class="line-number">53</span><br><span class="line-number">54</span><br><span class="line-number">55</span><br><span class="line-number">56</span><br><span class="line-number">57</span><br><span class="line-number">58</span><br></div></div><p><img src="https://drive.google.com/uc?export=download&amp;id=1Q9TW06Xf7AzS_d0MmdMbRcRyRelK_vfk" alt="api"></p>
+</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br><span class="line-number">11</span><br><span class="line-number">12</span><br><span class="line-number">13</span><br><span class="line-number">14</span><br><span class="line-number">15</span><br><span class="line-number">16</span><br><span class="line-number">17</span><br><span class="line-number">18</span><br><span class="line-number">19</span><br><span class="line-number">20</span><br><span class="line-number">21</span><br><span class="line-number">22</span><br><span class="line-number">23</span><br><span class="line-number">24</span><br><span class="line-number">25</span><br><span class="line-number">26</span><br><span class="line-number">27</span><br><span class="line-number">28</span><br><span class="line-number">29</span><br><span class="line-number">30</span><br><span class="line-number">31</span><br><span class="line-number">32</span><br><span class="line-number">33</span><br><span class="line-number">34</span><br><span class="line-number">35</span><br><span class="line-number">36</span><br><span class="line-number">37</span><br><span class="line-number">38</span><br><span class="line-number">39</span><br><span class="line-number">40</span><br><span class="line-number">41</span><br><span class="line-number">42</span><br><span class="line-number">43</span><br><span class="line-number">44</span><br><span class="line-number">45</span><br><span class="line-number">46</span><br><span class="line-number">47</span><br><span class="line-number">48</span><br><span class="line-number">49</span><br><span class="line-number">50</span><br><span class="line-number">51</span><br><span class="line-number">52</span><br><span class="line-number">53</span><br><span class="line-number">54</span><br><span class="line-number">55</span><br><span class="line-number">56</span><br><span class="line-number">57</span><br><span class="line-number">58</span><br><span class="line-number">59</span><br></div></div><p><img src="https://drive.google.com/uc?export=download&amp;id=1Q9TW06Xf7AzS_d0MmdMbRcRyRelK_vfk" alt="api"></p>
 </details>
 <details open>
   <summary>API相關名詞</summary>
@@ -85,6 +86,66 @@
 <span class="token punctuation">}</span>
 
 </code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br><span class="line-number">11</span><br><span class="line-number">12</span><br><span class="line-number">13</span><br><span class="line-number">14</span><br><span class="line-number">15</span><br><span class="line-number">16</span><br><span class="line-number">17</span><br></div></div></details>
+<details>
+  <summary>https CA證書</summary>
+<div class="language-javascript ext-js line-numbers-mode"><pre v-pre class="language-javascript"><code><span class="token constant">HTTP</span><span class="token punctuation">(</span><span class="token parameter">HyperText Transfer Protocol</span><span class="token punctuation">)</span><span class="token punctuation">{</span><span class="token comment">//超文本傳輸協定 往返“瀏覽器”與“伺服器”的通訊協議</span>
+    <span class="token comment">//定義了不同Request方法 </span>
+    <span class="token comment">//因為沒加密(=明文) 很容易被串改&amp;攻擊</span>
+    <span class="token constant">HTTPS</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">{</span><span class="token comment">//S是Secure的意思 需要SSL/TLS加密</span>
+        <span class="token constant">TLS</span><span class="token punctuation">(</span><span class="token parameter">Transport Layer Security</span><span class="token punctuation">)</span><span class="token punctuation">{</span><span class="token comment">//傳輸層安全性協定</span>
+            <span class="token comment">//前身為SSL</span>
+            <span class="token constant">SSL</span><span class="token punctuation">(</span><span class="token parameter">Secure Sockets Layer</span><span class="token punctuation">)</span><span class="token punctuation">{</span><span class="token comment">//安全通訊協定</span>
+                <span class="token constant">X</span><span class="token number">.509</span> 認證
+            <span class="token punctuation">}</span>
+            <span class="token comment">//都是透過交握溝通(Handshake )以及公私鑰加密的動作，來達到資料保密的溝通。</span>
+            Key<span class="token punctuation">{</span>
+                公鑰
+                私鑰
+                <span class="token constant">PKI</span>系統
+            <span class="token punctuation">}</span>
+        <span class="token punctuation">}</span>
+        <span class="token template-string"><span class="token template-punctuation string">`</span><span class="token string">Let's Encrypt</span><span class="token template-punctuation string">`</span></span> <span class="token comment">//免費服務</span>
+        <span class="token constant">SSL</span>購買種類<span class="token punctuation">{</span>
+            Personal 個人 <span class="token operator">=</span> 一般使用者或是小型公司
+
+            Business 商業 <span class="token operator">=</span> 大型公司
+
+            <span class="token constant">ECOMMERCE</span> 電子商務 <span class="token operator">=</span> 購物平台
+
+            One Domain <span class="token operator">=</span> 一個網域網址<span class="token punctuation">,</span> 包含 domain 自己與 www<span class="token punctuation">.</span>domain
+
+            Muti<span class="token operator">-</span>Domain <span class="token operator">=</span> <span class="token function">同一個憑證可以給不同的domain一起使用，提升彼此之間的關係信賴度</span><span class="token punctuation">(</span>下面例子有會有提到<span class="token punctuation">)</span>
+
+            Sub Domain <span class="token operator">=</span> 子網域使用一樣的憑證，例如常見的api<span class="token punctuation">.</span>domain 或是 demo<span class="token punctuation">.</span>domain 測試用站台的<span class="token constant">HTTPS</span>            
+        <span class="token punctuation">}</span>
+    <span class="token punctuation">}</span>
+<span class="token punctuation">}</span>
+
+<span class="token constant">PKI</span><span class="token punctuation">(</span><span class="token parameter">ublic Key Infrastructure</span><span class="token punctuation">)</span><span class="token punctuation">{</span><span class="token comment">//公開金鑰基礎建設</span>
+    數位憑證
+    公私鑰加密解密
+    <span class="token constant">CA</span><span class="token punctuation">(</span><span class="token parameter">Certificate Authority</span><span class="token punctuation">)</span><span class="token punctuation">{</span><span class="token comment">//數位憑證認證機構</span>
+        <span class="token function">根憑證</span><span class="token punctuation">(</span>root certificate<span class="token punctuation">)</span>
+        <span class="token function">根憑證權威單位</span><span class="token punctuation">(</span>Root Certificate Authority<span class="token punctuation">)</span>
+        <span class="token function">自簽數位簽章</span><span class="token punctuation">(</span>Self<span class="token operator">-</span>Signed <span class="token constant">CA</span><span class="token punctuation">)</span>
+
+        <span class="token function">中介證書</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+
+        <span class="token constant">CRL</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token comment">// 伺服器清單</span>
+    <span class="token punctuation">}</span>    
+<span class="token punctuation">}</span>
+
+
+</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br><span class="line-number">11</span><br><span class="line-number">12</span><br><span class="line-number">13</span><br><span class="line-number">14</span><br><span class="line-number">15</span><br><span class="line-number">16</span><br><span class="line-number">17</span><br><span class="line-number">18</span><br><span class="line-number">19</span><br><span class="line-number">20</span><br><span class="line-number">21</span><br><span class="line-number">22</span><br><span class="line-number">23</span><br><span class="line-number">24</span><br><span class="line-number">25</span><br><span class="line-number">26</span><br><span class="line-number">27</span><br><span class="line-number">28</span><br><span class="line-number">29</span><br><span class="line-number">30</span><br><span class="line-number">31</span><br><span class="line-number">32</span><br><span class="line-number">33</span><br><span class="line-number">34</span><br><span class="line-number">35</span><br><span class="line-number">36</span><br><span class="line-number">37</span><br><span class="line-number">38</span><br><span class="line-number">39</span><br><span class="line-number">40</span><br><span class="line-number">41</span><br><span class="line-number">42</span><br><span class="line-number">43</span><br><span class="line-number">44</span><br><span class="line-number">45</span><br><span class="line-number">46</span><br><span class="line-number">47</span><br><span class="line-number">48</span><br></div></div><p><a href="https://zh.wikipedia.org/wiki/%E5%82%B3%E8%BC%B8%E5%B1%A4%E5%AE%89%E5%85%A8%E6%80%A7%E5%8D%94%E5%AE%9A" target="_blank" rel="noopener noreferrer">ssl wiki<OutboundLink/></a>
+<a href="https://progressbar.tw/posts/98" target="_blank" rel="noopener noreferrer">https progressbar<OutboundLink/></a></p>
+</details>
+<details>
+  <summary>網頁攻擊</summary>
+<div class="language-javascript ext-js line-numbers-mode"><pre v-pre class="language-javascript"><code><span class="token function">DDoS</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">{</span>
+
+<span class="token punctuation">}</span>
+
+</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br></div></div></details>
 <p>其他慢慢整理</p>
 <ul>
 <li>Core-js</li>
@@ -99,7 +160,6 @@
 <li>ORM // 物件關聯映射</li>
 <li>ngrok //轉址 後端開發</li>
 <li>jQuery</li>
-<li></li>
 </ul>
 <!-- JavaScript
 jQuery(JavaScript 函式庫)

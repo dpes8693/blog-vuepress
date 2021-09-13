@@ -186,7 +186,7 @@ PKI(ublic Key Infrastructure){//公開金鑰基礎建設
   <summary>網頁攻擊</summary>
   
 ```js
-AJAX(Asynchronous JavaScript and XML){
+DDoS(){
 
 }
 
@@ -208,6 +208,7 @@ AJAX(Asynchronous JavaScript and XML){
 + SKU //單品 最小單位
 + ORM // 物件關聯映射
 + ngrok //轉址 後端開發
++ jQuery
 
 <!-- JavaScript
 jQuery(JavaScript 函式庫)
