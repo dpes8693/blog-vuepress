@@ -235,6 +235,7 @@ DDoS(){
 + Hugo
 + GatsbyJS
 + Wyam
++ typescript RxJS
 
 <!-- JavaScript
 jQuery(JavaScript 函式庫)
