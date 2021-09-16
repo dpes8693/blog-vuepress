@@ -1,4 +1,4 @@
-# <i class="fas fa-meteor"></i>  Vue.js
+# <i class="fas fa-meteor"></i>  Vue.js練功
 <style>
 html {
     overflow: -moz-hidden-unscrollable;
@@ -44,17 +44,47 @@ $nectTick()
 ``` 
 
 ## 學習-記錄
-### 2021
-##### 名詞
+
+### 名詞
 [polyfill 是甚麼?](https://codertw.com/%E5%89%8D%E7%AB%AF%E9%96%8B%E7%99%BC/29473/)用於實現瀏覽器並不支援的原生API的程式碼
-##### JS
+### JS
 [事件冒泡-DOM事件傳遞](https://blog.techbridge.cc/2017/07/15/javascript-event-propagation/)
 
 ::: details [展開圖]EventFlow
 ![EventFlow](https://i.imgur.com/W25OoWR.png)
 :::
 
-##### 採坑
+[不想再看到undefined的TypeError](https://ithelp.ithome.com.tw/articles/10230756)
+
+::: details [展開圖]
+
+```js
+const response = {
+  rows: [
+    {
+      "name": "John",
+      "age": 28,
+      "vehicles": {
+         "car": "Suzuki",
+         "bike": "Ubike",
+         "airlines":{
+            "UNI AIR" : "Air123",
+            "Mandarin" : "Brt707"
+         }
+      }
+    }
+  ]
+}
+
+if (response.rows?.[0]?.vehicles?.airlines?.Mandarin === 'Brt707') console.log('Get Brt707')
+
+//語法記憶 a.b有嗎?.c有嗎?
+//a.b?.c?
+```
+
+:::
+
+### 採坑
 
 ::: tip vue template 根節點
     Vue template裡面只能有一個根節點
@@ -116,3 +146,12 @@ https://youtu.be/R8GL5y49iJc
 ```
 :::
 
+
+### 練習Vue
+1. vue cli mixin
+2. ES6
+Destructuring
+variables in string
+Arrow Function
+3. import{}及exportimport{}及export
+4. vue 傳值
