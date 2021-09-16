@@ -187,6 +187,14 @@
 <li>GatsbyJS</li>
 <li>Wyam</li>
 <li>typescript RxJS</li>
+<li>Debounce Throttling 限制連續請求的機制</li>
+<li>Lodash 做事件延遲</li>
+<li>macrotask microtask -&gt; single thread callback time</li>
+<li>raster 光柵 小格子</li>
+<li>http header分成4種: request general entity</li>
+<li>Axios Instance</li>
+<li>名詞理解(snow pack/vite/eslint/e2e test/circleCI/alias/swagger
+/vuex/vuerouter/nuxt/axios/i18n/polyfill)</li>
 </ul>
 <!-- JavaScript
 jQuery(JavaScript 函式庫)

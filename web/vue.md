@@ -16,7 +16,7 @@ body {
 	overflow: auto;
 }
 </style>
-## 目前大略進度
+## 入門1個月要認識?
 ``` js
 html DOM節點傳遞
 JavaScript ES5 ES6 jQuery語法
@@ -26,8 +26,7 @@ CSS+Sass(Scss語法) Prepros or Watch Sass
 cdnjs liveserver vetur插件
 fontawesome + bootstrap
 webpack+babel package.json熟悉
-名詞理解(snow pack/vite/eslint/e2e test/circleCI/alias/swagger
-/vuex/vuerouter/nuxt/axios/i18n/polyfill)
+
 模板測試:D2Project,VueElementTemplate,Vuetify
 vue-cli熟悉
 vuepress
@@ -44,8 +43,8 @@ v-for
 $nectTick()
 ``` 
 
-## 督促自己學習-記錄
-### 2021.06
+## 學習-記錄
+### 2021
 ##### 名詞
 [polyfill 是甚麼?](https://codertw.com/%E5%89%8D%E7%AB%AF%E9%96%8B%E7%99%BC/29473/)用於實現瀏覽器並不支援的原生API的程式碼
 ##### JS
@@ -55,53 +54,19 @@ $nectTick()
 ![EventFlow](https://i.imgur.com/W25OoWR.png)
 :::
 
-##### Vue
-看
-    .stop
-    .prevent
-    .capture
-    .self
-    .once
-    .passive
+##### 採坑
 
-::: tip 採坑
+::: tip vue template 根節點
     Vue template裡面只能有一個根節點
     The template root requires exactly one element.
 
 :::
 
-### 2021.07
-##### Vue
-
-SPA Single Page Application 單頁應用
-App.vue 進入點 因此只有一個html
-<!-- <template> -->
-<!-- script -->
-<!-- style -->
-+ 通過main.js操作
-+ new Vue
-+ new Vuex實體出來
-調用store
-裡面的API mapAction mapGetter mapState
-包一包Object
-
-最後透過webpack打包 build dist/index.html+css+js
-component拆分
-
-#### 7月
-+ JSON 格式和js寫物件不同 {"裡面":"要用雙引號"}
+::: tip JSON 格式語法
+JSON 格式和js寫物件不同 {"裡面":"要用雙引號"}
 https://youtu.be/R8GL5y49iJc
 
-+ JSON.stringify();
-+ JSON.parse();
-+ 操作資料庫用POSTMAN
-VScode使用
-+ cdnjs+live-server擴充
-+ node js->npm json server 實作RESTful API
-[link](https://medium.com/@debbyji/%E7%94%A8-json-server-%E6%A8%A1%E6%93%AC-restful-api-f07abda3927c)
-
-+ 學了 vue slot功能 (元件內容可以重複使用)
-
+:::
 
 ::: details [舉個例子]
 ```js
@@ -151,12 +116,3 @@ VScode使用
 ```
 :::
 
-###### 新名詞: Debounce Throttling 限制連續請求的機制
-+ Lodash 做事件延遲
-+ macrotask microtask -> single thread callback time
-+ raster 光柵 小格子
-+ http header分成4種: request general entity  
-+ Axios Instance 
-
-vue-router3有更改promise 需要回調catch
-axios.js已經內建 request和response 攔截器了

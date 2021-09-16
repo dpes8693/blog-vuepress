@@ -8,25 +8,19 @@ export const data = {
   "headers": [
     {
       "level": 2,
-      "title": "目前大略進度",
-      "slug": "目前大略進度",
+      "title": "入門1個月要認識?",
+      "slug": "入門1個月要認識",
       "children": []
     },
     {
       "level": 2,
-      "title": "督促自己學習-記錄",
-      "slug": "督促自己學習-記錄",
+      "title": "學習-記錄",
+      "slug": "學習-記錄",
       "children": [
         {
           "level": 3,
-          "title": "2021.06",
-          "slug": "_2021-06",
-          "children": []
-        },
-        {
-          "level": 3,
-          "title": "2021.07",
-          "slug": "_2021-07",
+          "title": "2021",
+          "slug": "_2021",
           "children": []
         }
       ]

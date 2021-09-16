@@ -165,21 +165,46 @@ https://ithelp.ithome.com.tw/users/20107247/ironman/1312?page=1
 
 2. 常見問題
 + 常見CSS框架的grid system螢幕大小怎麼分?
+```
 A: |xs|sm|md|lg|xl|, 600~960~1264~1904~px
+```
 
 + CSS有哪些單位?
-A: px(pixel 1像素),em(=html字體大小 16px),rem(root em根元素16px),vw(viewport width畫面比例'寬度'百分比),vh(viewport height畫面比例'高度'百分比),%(根元素),calc(計算未知動態大小)
+```
+A: px(pixel 1像素),
+em(=html字體大小 16px),
+rem(root em根元素16px),
+vw(viewport width畫面比例'寬度'百分比),
+vh(viewport height畫面比例'高度'百分比),
+%(根元素),
+calc(計算未知動態大小)
+```
 [source](https://ithelp.ithome.com.tw/articles/10222932)
 
-+ CSS 口決上右下左?
-A:設定padding或margin時 常用的方式:上右下左 {padding: 5 5 5 5} 上下 左右{padding: 5 5}
 
++ CSS 口決上右下左?
+```
+A:設定padding或margin時 常用的方式:
+上右下左 {padding: 5 5 5 5} 
+上下 左右{padding: 5 5}
+```
 
 + margin & padding 差異?
-A: 有一個正方形:{邊線:border,面積:content} 調整內:border和content是padding,調整外:border外
+```
+A: 有一個正方形:{邊線:border,面積:content}
+ 調整內:border和content是padding
+ 調整外:border外
+
+```
 
 + RWD AWD?
-A: RWD(esponsive Web Design)響應式,AWD(Adaptive Web Design)自適應 [來源](https://start-up123.blogspot.com/2019/04/Difference-between-RWD-and-AWD.html)
+```
+A: RWD(esponsive Web Design)響應式,AWD(Adaptive Web Design)自適應 
+[來源](https://start-up123.blogspot.com/2019/04/Difference-between-RWD-and-AWD.html)
+```
+
++ 線上測試工具推薦?
+[六角洧杰開發](https://w3c.hexschool.com/flexbox/2186a786)
 ---
 ### ALL 文章
 
@@ -272,7 +297,10 @@ jQuery 的 AJAX API
 >5XX 系列
 >>5XX 系列代表 server 端在處理請求的過程中有錯誤，看到這類代表不用檢查自己程式碼是否有寫錯
 
----常用 https://ithelp.ithome.com.tw/articles/10240440
+---
+常用 https://ithelp.ithome.com.tw/articles/10240440
+
+```sh
 有的套件，會要求npm的最低版本，可以用npm -v 查看目前的版本是多少
 npm -v
 
@@ -290,3 +318,4 @@ npm uninstall s　套件名稱
 在某個專案資料夾底下，安裝特定的第三方套件，用於開發環境
 npm install -D 套件名稱 #npm install --save-dev
 npm uninstall -D 套件名稱
+```

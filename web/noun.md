@@ -236,7 +236,14 @@ DDoS(){
 + GatsbyJS
 + Wyam
 + typescript RxJS
-
++ Debounce Throttling 限制連續請求的機制
++ Lodash 做事件延遲
++ macrotask microtask -> single thread callback time
++ raster 光柵 小格子
++ http header分成4種: request general entity  
++ Axios Instance 
++ 名詞理解(snow pack/vite/eslint/e2e test/circleCI/alias/swagger
+/vuex/vuerouter/nuxt/axios/i18n/polyfill)
 <!-- JavaScript
 jQuery(JavaScript 函式庫)
 初衷是用來簡化 HTML 與 JavaScript 之間的溝通與操作 -->

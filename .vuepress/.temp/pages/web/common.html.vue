@@ -201,27 +201,41 @@ https://ithelp.ithome.com.tw/users/20107247/ironman/1312?page=1</li>
 <li>常見問題</li>
 </ol>
 <ul>
-<li>
-<p>常見CSS框架的grid system螢幕大小怎麼分?
-A: |xs|sm|md|lg|xl|, 600~960~1264~1904~px</p>
-</li>
-<li>
-<p>CSS有哪些單位?
-A: px(pixel 1像素),em(=html字體大小 16px),rem(root em根元素16px),vw(viewport width畫面比例'寬度'百分比),vh(viewport height畫面比例'高度'百分比),%(根元素),calc(計算未知動態大小)
-<a href="https://ithelp.ithome.com.tw/articles/10222932" target="_blank" rel="noopener noreferrer">source<OutboundLink/></a></p>
-</li>
-<li>
-<p>CSS 口決上右下左?
-A:設定padding或margin時 常用的方式:上右下左 {padding: 5 5 5 5} 上下 左右{padding: 5 5}</p>
-</li>
-<li>
-<p>margin &amp; padding 差異?
-A: 有一個正方形:{邊線:border,面積:content} 調整內:border和content是padding,調整外:border外</p>
-</li>
-<li>
-<p>RWD AWD?
-A: RWD(esponsive Web Design)響應式,AWD(Adaptive Web Design)自適應 <a href="https://start-up123.blogspot.com/2019/04/Difference-between-RWD-and-AWD.html" target="_blank" rel="noopener noreferrer">來源<OutboundLink/></a></p>
-</li>
+<li>常見CSS框架的grid system螢幕大小怎麼分?</li>
+</ul>
+<div class="language-text ext-text line-numbers-mode"><pre v-pre class="language-text"><code>A: |xs|sm|md|lg|xl|, 600~960~1264~1904~px
+</code></pre><div class="line-numbers"><span class="line-number">1</span><br></div></div><ul>
+<li>CSS有哪些單位?</li>
+</ul>
+<div class="language-text ext-text line-numbers-mode"><pre v-pre class="language-text"><code>A: px(pixel 1像素),
+em(=html字體大小 16px),
+rem(root em根元素16px),
+vw(viewport width畫面比例'寬度'百分比),
+vh(viewport height畫面比例'高度'百分比),
+%(根元素),
+calc(計算未知動態大小)
+</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br></div></div><p><a href="https://ithelp.ithome.com.tw/articles/10222932" target="_blank" rel="noopener noreferrer">source<OutboundLink/></a></p>
+<ul>
+<li>CSS 口決上右下左?</li>
+</ul>
+<div class="language-text ext-text line-numbers-mode"><pre v-pre class="language-text"><code>A:設定padding或margin時 常用的方式:
+上右下左 {padding: 5 5 5 5} 
+上下 左右{padding: 5 5}
+</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br></div></div><ul>
+<li>margin &amp; padding 差異?</li>
+</ul>
+<div class="language-text ext-text line-numbers-mode"><pre v-pre class="language-text"><code>A: 有一個正方形:{邊線:border,面積:content}
+ 調整內:border和content是padding
+ 調整外:border外
+
+</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br></div></div><ul>
+<li>RWD AWD?</li>
+</ul>
+<div class="language-text ext-text line-numbers-mode"><pre v-pre class="language-text"><code>A: RWD(esponsive Web Design)響應式,AWD(Adaptive Web Design)自適應 
+[來源](https://start-up123.blogspot.com/2019/04/Difference-between-RWD-and-AWD.html)
+</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br></div></div><ul>
+<li>線上測試工具推薦?
+<a href="https://w3c.hexschool.com/flexbox/2186a786" target="_blank" rel="noopener noreferrer">六角洧杰開發<OutboundLink/></a></li>
 </ul>
 <hr>
 <h3 id="all-文章"><a class="header-anchor" href="#all-文章">#</a> ALL 文章</h3>
@@ -311,21 +325,26 @@ xhttp<span class="token punctuation">.</span><span class="token function">send</
 <p>5XX 系列代表 server 端在處理請求的過程中有錯誤，看到這類代表不用檢查自己程式碼是否有寫錯</p>
 </blockquote>
 </blockquote>
-<p>---常用 https://ithelp.ithome.com.tw/articles/10240440
-有的套件，會要求npm的最低版本，可以用npm -v 查看目前的版本是多少
-npm -v</p>
-<p>安裝package.json紀錄的所有套件
-npm install</p>
-<p>在整台電腦上，安裝或移除特定的第三方套件，並記錄至Package.json (通常用在，所有專案都會用到的CLI工具)
-npm install -g　套件名稱  #npm install --global
-npm uninstall -g　套件名稱</p>
-<p>在某個專案資料夾底下，安裝特定的第三方套件，並記錄至Package.json (通常用在，某個專案的函式庫或框架)
-npm install -s　套件名稱 #npm install --save
-npm uninstall s　套件名稱</p>
-<p>在某個專案資料夾底下，安裝特定的第三方套件，用於開發環境
-npm install -D 套件名稱 #npm install --save-dev
-npm uninstall -D 套件名稱</p>
-</template>
+<hr>
+<p>常用 https://ithelp.ithome.com.tw/articles/10240440</p>
+<div class="language-bash ext-sh line-numbers-mode"><pre v-pre class="language-bash"><code>有的套件，會要求npm的最低版本，可以用npm -v 查看目前的版本是多少
+<span class="token function">npm</span> -v
+
+安裝package.json紀錄的所有套件
+<span class="token function">npm</span> <span class="token function">install</span> 
+
+在整台電腦上，安裝或移除特定的第三方套件，並記錄至Package.json <span class="token punctuation">(</span>通常用在，所有專案都會用到的CLI工具<span class="token punctuation">)</span>
+<span class="token function">npm</span> <span class="token function">install</span> -g　套件名稱  <span class="token comment">#npm install --global</span>
+<span class="token function">npm</span> uninstall -g　套件名稱 
+
+在某個專案資料夾底下，安裝特定的第三方套件，並記錄至Package.json <span class="token punctuation">(</span>通常用在，某個專案的函式庫或框架<span class="token punctuation">)</span>
+<span class="token function">npm</span> <span class="token function">install</span> -s　套件名稱 <span class="token comment">#npm install --save</span>
+<span class="token function">npm</span> uninstall s　套件名稱
+
+在某個專案資料夾底下，安裝特定的第三方套件，用於開發環境
+<span class="token function">npm</span> <span class="token function">install</span> -D 套件名稱 <span class="token comment">#npm install --save-dev</span>
+<span class="token function">npm</span> uninstall -D 套件名稱
+</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br><span class="line-number">11</span><br><span class="line-number">12</span><br><span class="line-number">13</span><br><span class="line-number">14</span><br><span class="line-number">15</span><br><span class="line-number">16</span><br><span class="line-number">17</span><br></div></div></template>
 
 <style>
 html {

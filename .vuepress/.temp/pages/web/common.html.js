@@ -46,12 +46,17 @@ export const data = {
   ],
   "filePathRelative": "web/common.md",
   "git": {
-    "updatedTime": 1626852080000,
+    "updatedTime": 1631782385000,
     "contributors": [
       {
         "name": "Richard",
         "email": "dpes8693@gmail.com",
         "commits": 11
+      },
+      {
+        "name": "Richard Lin",
+        "email": "33016870+dpes8693@users.noreply.github.com",
+        "commits": 1
       }
     ]
   }
