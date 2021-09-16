@@ -197,6 +197,32 @@ https://ithelp.ithome.com.tw/users/20107247/ironman/1312?page=1</li>
     <span class="token keyword">@include</span> <span class="token function">cover</span><span class="token punctuation">(</span>0.8<span class="token punctuation">)</span><span class="token punctuation">;</span> <span class="token comment">// 呼叫的時候帶入數值</span>
   <span class="token punctuation">}</span>
 </code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br><span class="line-number">11</span><br><span class="line-number">12</span><br><span class="line-number">13</span><br><span class="line-number">14</span><br><span class="line-number">15</span><br><span class="line-number">16</span><br><span class="line-number">17</span><br><span class="line-number">18</span><br><span class="line-number">19</span><br><span class="line-number">20</span><br><span class="line-number">21</span><br><span class="line-number">22</span><br><span class="line-number">23</span><br><span class="line-number">24</span><br><span class="line-number">25</span><br><span class="line-number">26</span><br><span class="line-number">27</span><br><span class="line-number">28</span><br><span class="line-number">29</span><br><span class="line-number">30</span><br><span class="line-number">31</span><br><span class="line-number">32</span><br><span class="line-number">33</span><br><span class="line-number">34</span><br><span class="line-number">35</span><br></div></div></details>
+<ol start="2">
+<li>常見問題</li>
+</ol>
+<ul>
+<li>
+<p>常見CSS框架的grid system螢幕大小怎麼分?
+A: |xs|sm|md|lg|xl|, 600~960~1264~1904~px</p>
+</li>
+<li>
+<p>CSS有哪些單位?
+A: px(pixel 1像素),em(=html字體大小 16px),rem(root em根元素16px),vw(viewport width畫面比例'寬度'百分比),vh(viewport height畫面比例'高度'百分比),%(根元素),calc(計算未知動態大小)
+<a href="https://ithelp.ithome.com.tw/articles/10222932" target="_blank" rel="noopener noreferrer">source<OutboundLink/></a></p>
+</li>
+<li>
+<p>CSS 口決上右下左?
+A:設定padding或margin時 常用的方式:上右下左 {padding: 5 5 5 5} 上下 左右{padding: 5 5}</p>
+</li>
+<li>
+<p>margin &amp; padding 差異?
+A: 有一個正方形:{邊線:border,面積:content} 調整內:border和content是padding,調整外:border外</p>
+</li>
+<li>
+<p>RWD AWD?
+A: RWD(esponsive Web Design)響應式,AWD(Adaptive Web Design)自適應 <a href="https://start-up123.blogspot.com/2019/04/Difference-between-RWD-and-AWD.html" target="_blank" rel="noopener noreferrer">來源<OutboundLink/></a></p>
+</li>
+</ul>
 <hr>
 <h3 id="all-文章"><a class="header-anchor" href="#all-文章">#</a> ALL 文章</h3>
 <p><img src="https://i.imgur.com/QPYZIfa.png" alt=""></p>

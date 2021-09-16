@@ -186,6 +186,7 @@
 <li>Hugo</li>
 <li>GatsbyJS</li>
 <li>Wyam</li>
+<li>typescript RxJS</li>
 </ul>
 <!-- JavaScript
 jQuery(JavaScript 函式庫)

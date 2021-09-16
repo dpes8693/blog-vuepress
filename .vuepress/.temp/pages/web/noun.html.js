@@ -8,17 +8,17 @@ export const data = {
   "headers": [],
   "filePathRelative": "web/noun.md",
   "git": {
-    "updatedTime": 1631503896000,
+    "updatedTime": 1631699270000,
     "contributors": [
+      {
+        "name": "Richard Lin",
+        "email": "33016870+dpes8693@users.noreply.github.com",
+        "commits": 4
+      },
       {
         "name": "林原醇",
         "email": "richard_lin@tangram.tw",
         "commits": 4
-      },
-      {
-        "name": "Richard Lin",
-        "email": "33016870+dpes8693@users.noreply.github.com",
-        "commits": 2
       },
       {
         "name": "Richard",
