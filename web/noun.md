@@ -83,6 +83,9 @@ body {
     request()//向後端請求
     query(ex:'https://home.gamer.com.tw/creation.php'+ ?owner=dpes5407)//請求攜帶參數
 
+    URL(Uniform Resource Locator)//統一資源定位符 ex: https://zh.wikipedia.org/
+    IP(Internet Protocol Address)//網際網路協定位址 ex: 203.11.65.4
+
     response()//後端回應
     status_code(ex:404)//回應的狀態碼
 
