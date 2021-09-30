@@ -173,7 +173,12 @@ HTTP(HyperText Transfer Protocol){//超文本傳輸協定 往返“瀏覽器”�
 
             Sub Domain = 子網域使用一樣的憑證，例如常見的api.domain 或是 demo.domain 測試用站台的HTTPS
 
-            萬用字元憑證(Wildcard)   
+            萬用字元憑證(Wildcard)
+
+            頒發憑證{
+                'Lets Encrypt'
+                'DigiCert'
+            }
         }
     }
 }
