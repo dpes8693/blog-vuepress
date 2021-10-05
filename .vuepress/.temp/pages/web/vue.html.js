@@ -1,7 +1,7 @@
 export const data = {
   "key": "v-1f585632",
   "path": "/web/vue.html",
-  "title": "Vue.js",
+  "title": "Vue.js練功",
   "lang": "zh-tw",
   "frontmatter": {},
   "excerpt": "",
@@ -19,8 +19,26 @@ export const data = {
       "children": [
         {
           "level": 3,
-          "title": "2021",
-          "slug": "_2021",
+          "title": "名詞",
+          "slug": "名詞",
+          "children": []
+        },
+        {
+          "level": 3,
+          "title": "JS",
+          "slug": "js",
+          "children": []
+        },
+        {
+          "level": 3,
+          "title": "採坑",
+          "slug": "採坑",
+          "children": []
+        },
+        {
+          "level": 3,
+          "title": "練習Vue",
+          "slug": "練習vue",
           "children": []
         }
       ]
@@ -28,12 +46,17 @@ export const data = {
   ],
   "filePathRelative": "web/vue.md",
   "git": {
-    "updatedTime": 1626945010000,
+    "updatedTime": 1631784162000,
     "contributors": [
       {
         "name": "Richard",
         "email": "dpes8693@gmail.com",
         "commits": 14
+      },
+      {
+        "name": "Richard Lin",
+        "email": "33016870+dpes8693@users.noreply.github.com",
+        "commits": 2
       }
     ]
   }
