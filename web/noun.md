@@ -96,7 +96,8 @@ body {
             NS(Name server)
             TXT(Text) //驗證
             AAAA //IPv6 
-
+            PTR(Pointer)//IP >> FQDN
+            SOA(Start Of Authority)//只能有一個
         }
         FQDN(Fully Qualified Domain Name)
         TTL(Time TO Live)
@@ -125,6 +126,7 @@ body {
 ```
 
 ![api](https://drive.google.com/uc?export=download&id=1Q9TW06Xf7AzS_d0MmdMbRcRyRelK_vfk)
+![DNS](https://drive.google.com/uc?export=download&id=12oFm4dk-3guNnHwOco7xNS9MCaSc-JPK)
 
 </details>
 
