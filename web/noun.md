@@ -85,6 +85,22 @@ body {
 
     URL(Uniform Resource Locator)//統一資源定位符 ex: https://zh.wikipedia.org/
     IP(Internet Protocol Address)//網際網路協定位址 ex: 203.11.65.4
+    IPv4(Internet Protocol version 4)//8*4組 bits 2進位 如192.168.100.1
+    IPv6(Internet Protocol version 6)//16*8組 bits 16進位 如2001:0db8:86a3:08d3:1319:8a2e:0370:7344
+
+    DNS(Domain Name System){ //www.google.com >> 74.125.19.147 一個轉譯Domain名稱的系統
+        Record{
+            MX(Mail Exchange) //
+            CName(Canonical Name)
+            A(Address) //IPv4  ==host record
+            NS(Name server)
+            TXT(Text) //驗證
+            AAAA //IPv6 
+
+        }
+        FQDN(Fully Qualified Domain Name)
+        TTL(Time TO Live)
+    }
 
     response()//後端回應
     status_code(ex:404)//回應的狀態碼
@@ -252,6 +268,8 @@ DDoS(){
 + Axios Instance 
 + 名詞理解(snow pack/vite/eslint/e2e test/circleCI/alias/swagger
 /vuex/vuerouter/nuxt/axios/i18n/polyfill)
++ CIDR
++ BGP border gateway protocol
 <!-- JavaScript
 jQuery(JavaScript 函式庫)
 初衷是用來簡化 HTML 與 JavaScript 之間的溝通與操作 -->
