@@ -7,28 +7,26 @@ docker buildx bake && docker compose up
 
   axios({
   method: 'get',
-  baseURL: 'http://192.168.100.84:8888/v1/vendor/class/major',
+  baseURL: 'http://192.168.100.84',
   url: '/users',
   'Content-Type': 'application/json',
 })
   .then((result) => { console.log(result.data) })
   .catch((err) => { console.error(err) })
-  
-http://192.168.100.84:8888/v1/vendor/class/major
+
 
 ---
 
 
 ----
- https://tangramiot.com/iot/sensor/getSensorNames/1015
+
  
 fetch('http://192.168.100.84:8888/v1/vendor/class/major').then(function(res.json()) {console.log(res)})
   
   http://203.69.36.182:3303/api/device/tangram_info?measurement=tb_479225775258595328_1541_2019012&tangram=40540002000100000E000000020000000223
-  http://192.168.100.84:8888/v1/vendor/class/major
-  https://tangramiot.com/iot/sensor/getSensorNames/1015
+
   
-fetch('http://192.168.100.84:8888/v1/vendor/class/major')
+fetch('http://192.168.100')
 .then(function(response) {
 return response.json();
 }).then(function(data) {
