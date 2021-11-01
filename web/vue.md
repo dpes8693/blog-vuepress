@@ -43,11 +43,22 @@ v-for
 $nectTick()
 ``` 
 
-## 學習-記錄
+## 特殊
+
+### 為什麼畫面沒有刷新(但資料是對的?)
+[Vue 響應式原理](https://pjchender.blogspot.com/2017/05/vue-vue-reactivity.html)
+```js
+$forceUpdate()
+```
+
 
 ### 名詞
 [polyfill 是甚麼?](https://codertw.com/%E5%89%8D%E7%AB%AF%E9%96%8B%E7%99%BC/29473/)用於實現瀏覽器並不支援的原生API的程式碼
 ### JS
+[如果再寫for迴圈，我就錘自己了](https://www.gushiciku.cn/pl/ghps/zh-tw)
+
+[Object.keys() & Object.values() & Object.entries()](https://titangene.github.io/article/javascript-object-keys-values-entries.html)
+
 [事件冒泡-DOM事件傳遞](https://blog.techbridge.cc/2017/07/15/javascript-event-propagation/)
 
 ::: details [展開圖]EventFlow

@@ -14,9 +14,15 @@ export const data = {
     },
     {
       "level": 2,
-      "title": "學習-記錄",
-      "slug": "學習-記錄",
+      "title": "特殊",
+      "slug": "特殊",
       "children": [
+        {
+          "level": 3,
+          "title": "為什麼畫面沒有刷新(但資料是對的?)",
+          "slug": "為什麼畫面沒有刷新-但資料是對的",
+          "children": []
+        },
         {
           "level": 3,
           "title": "名詞",
