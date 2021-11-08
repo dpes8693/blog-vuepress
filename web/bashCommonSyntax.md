@@ -10,16 +10,17 @@ slmgr.vbs -xpr
 dxdiag
 
 ## MS Console(.msc)：
-#事件檢視器
-eventvwr.msc
 #電腦管理
 compmgmt.msc
+	#事件檢視器
+	eventvwr.msc
+	#磁碟管理
+	diskmgmt.msc
+#裝置管理員
+devmgmt.msc	
 #本機 群組原則編輯器
 gpedit.msc
-#裝置管理員
-devmgmt.msc
-#磁碟管理
-diskmgmt.msc
+
 
 #註冊檔案
 regedit
