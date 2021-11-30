@@ -3,21 +3,17 @@
 <p>docker buildx bake &amp;&amp; docker compose up</p>
 <p>axios({
 method: 'get',
-baseURL: 'http://192.168.100.84:8888/v1/vendor/class/major',
+baseURL: 'http://192.168.100.84',
 url: '/users',
 'Content-Type': 'application/json',
 })
 .then((result) =&gt; { console.log(result.data) })
 .catch((err) =&gt; { console.error(err) })</p>
-<p>http://192.168.100.84:8888/v1/vendor/class/major</p>
 <hr>
 <hr>
-<p>https://tangramiot.com/iot/sensor/getSensorNames/1015</p>
 <p>fetch('http://192.168.100.84:8888/v1/vendor/class/major').then(function(res.json()) {console.log(res)})</p>
-<p>http://203.69.36.182:3303/api/device/tangram_info?measurement=tb_479225775258595328_1541_2019012&amp;tangram=40540002000100000E000000020000000223
-http://192.168.100.84:8888/v1/vendor/class/major
-https://tangramiot.com/iot/sensor/getSensorNames/1015</p>
-<p>fetch('http://192.168.100.84:8888/v1/vendor/class/major')
+<p>http://203.69.36.182:3303/api/device/tangram_info?measurement=tb_479225775258595328_1541_2019012&amp;tangram=40540002000100000E000000020000000223</p>
+<p>fetch('http://192.168.100')
 .then(function(response) {
 return response.json();
 }).then(function(data) {

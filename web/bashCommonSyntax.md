@@ -51,3 +51,12 @@ cmd:{
 }
 
 ```
+
+## 其他筆記
+
+```sh
+VHD 虛擬hard disk
+BCD boot configuration data 開機選項easyBCD
+雙系統開機引導
+
+```

@@ -17,16 +17,22 @@ export const data = {
       "title": "cmd 命令",
       "slug": "cmd-命令",
       "children": []
+    },
+    {
+      "level": 2,
+      "title": "其他筆記",
+      "slug": "其他筆記",
+      "children": []
     }
   ],
   "filePathRelative": "web/bashCommonSyntax.md",
   "git": {
-    "updatedTime": 1635745657000,
+    "updatedTime": 1636362953000,
     "contributors": [
       {
         "name": "Richard Lin",
         "email": "33016870+dpes8693@users.noreply.github.com",
-        "commits": 1
+        "commits": 3
       }
     ]
   }

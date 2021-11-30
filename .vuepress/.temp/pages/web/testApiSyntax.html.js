@@ -8,12 +8,12 @@ export const data = {
   "headers": [],
   "filePathRelative": "web/testApiSyntax.md",
   "git": {
-    "updatedTime": 1635745657000,
+    "updatedTime": 1635758715000,
     "contributors": [
       {
         "name": "Richard Lin",
         "email": "33016870+dpes8693@users.noreply.github.com",
-        "commits": 1
+        "commits": 2
       }
     ]
   }
