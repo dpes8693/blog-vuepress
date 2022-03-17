@@ -13,7 +13,9 @@ https://drive.google.com/uc?export=download&id=1FgTcxp2FPxXZD9FxlYgMABWGEYPIT3k4
 
 <h3>作品</h3>
 
-<iframe width="100%" height="300" src="//jsfiddle.net/dpes5407/63rxdc42/155/embedded/result/dark/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
+<!-- <iframe width="100%" height="300" src="//jsfiddle.net/dpes5407/63rxdc42/155/embedded/result/dark/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe> -->
+
+<iframe width="100%" height="300" src="//jsfiddle.net/dpes5407/63rxdc42/179/embedded/result/dark/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
 
 <h3>操作方式</h3>
 
@@ -22,9 +24,9 @@ https://drive.google.com/uc?export=download&id=1FgTcxp2FPxXZD9FxlYgMABWGEYPIT3k4
 
 2.點"產生圖片URL"按鈕
 
-3.ctrl+A選取, ctrl+C複製連結
+3.ctrl+A選取, ctrl+C複製連結 => 拿去貼上做使用
 
-4."小按鈕" 顯示/隱藏
+4."小按鈕" 負責{顯示/隱藏}輸入框&按鈕
 
 
 ```
