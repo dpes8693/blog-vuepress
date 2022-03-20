@@ -8,7 +8,7 @@ export const data = {
   "headers": [],
   "filePathRelative": "portfolio/driveUrl.md",
   "git": {
-    "updatedTime": 1631431186000,
+    "updatedTime": 1647520842000,
     "contributors": [
       {
         "name": "林原醇",
@@ -18,6 +18,11 @@ export const data = {
       {
         "name": "Richard",
         "email": "dpes8693@gmail.com",
+        "commits": 1
+      },
+      {
+        "name": "Richard Lin",
+        "email": "33016870+dpes8693@users.noreply.github.com",
         "commits": 1
       }
     ]
