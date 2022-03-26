@@ -9,6 +9,8 @@ export const pagesComponents = {
   "v-1d14d5cc": defineAsyncComponent(() => import(/* webpackChunkName: "v-1d14d5cc" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/guide/plugin.html.vue")),
   // path: /portfolio/driveUrl.html
   "v-3b074cd4": defineAsyncComponent(() => import(/* webpackChunkName: "v-3b074cd4" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/portfolio/driveUrl.html.vue")),
+  // path: /portfolio/gameListTranslater.html
+  "v-768d2905": defineAsyncComponent(() => import(/* webpackChunkName: "v-768d2905" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/portfolio/gameListTranslater.html.vue")),
   // path: /web/bashCommonSyntax.html
   "v-f3df9bba": defineAsyncComponent(() => import(/* webpackChunkName: "v-f3df9bba" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/web/bashCommonSyntax.html.vue")),
   // path: /web/common.html

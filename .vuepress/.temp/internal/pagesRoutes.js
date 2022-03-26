@@ -5,6 +5,7 @@ const routeItems = [
   ["v-6e0d8f34","/guide/1.html","用Vupress架Blog",["/guide/1.md"]],
   ["v-1d14d5cc","/guide/plugin.html","Plugin",["/guide/plugin.md"]],
   ["v-3b074cd4","/portfolio/driveUrl.html","drive分享連結導出圖片連結",["/portfolio/driveUrl.md"]],
+  ["v-768d2905","/portfolio/gameListTranslater.html","[巴哈]文字 to MD 表格",["/portfolio/gameListTranslater.md"]],
   ["v-f3df9bba","/web/bashCommonSyntax.html","紀錄我常用的windows語法",["/web/bashCommonSyntax.md"]],
   ["v-07f2110c","/web/common.html","小常識",["/web/common.md"]],
   ["v-7dc11caa","/web/noun.html","名詞學習與整理",["/web/noun.md"]],

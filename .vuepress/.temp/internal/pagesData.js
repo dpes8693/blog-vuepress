@@ -7,6 +7,8 @@ export const pagesData = {
   "v-1d14d5cc": () => import(/* webpackChunkName: "v-1d14d5cc" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/guide/plugin.html.js").then(({ data }) => data),
   // path: /portfolio/driveUrl.html
   "v-3b074cd4": () => import(/* webpackChunkName: "v-3b074cd4" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/portfolio/driveUrl.html.js").then(({ data }) => data),
+  // path: /portfolio/gameListTranslater.html
+  "v-768d2905": () => import(/* webpackChunkName: "v-768d2905" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/portfolio/gameListTranslater.html.js").then(({ data }) => data),
   // path: /web/bashCommonSyntax.html
   "v-f3df9bba": () => import(/* webpackChunkName: "v-f3df9bba" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/web/bashCommonSyntax.html.js").then(({ data }) => data),
   // path: /web/common.html

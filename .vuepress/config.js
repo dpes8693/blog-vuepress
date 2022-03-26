@@ -67,7 +67,7 @@ module.exports = {
       {
         isGroup: true,
         text: "Portfolio",
-        children: ["/portfolio/driveUrl.md",], //會去抓#的名稱        
+        children: ["/portfolio/driveUrl.md","/portfolio/gameListTranslater.md"], //會去抓#的名稱        
       }
     ],
   },
