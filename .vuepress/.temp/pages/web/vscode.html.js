@@ -14,8 +14,8 @@ export const data = {
     },
     {
       "level": 2,
-      "title": "套件",
-      "slug": "套件",
+      "title": "好用套件",
+      "slug": "好用套件",
       "children": [
         {
           "level": 3,
@@ -24,6 +24,12 @@ export const data = {
           "children": []
         }
       ]
+    },
+    {
+      "level": 2,
+      "title": "內建 Emmet",
+      "slug": "內建-emmet",
+      "children": []
     }
   ],
   "filePathRelative": "web/vscode.md",
@@ -37,4 +43,17 @@ export const data = {
       }
     ]
   }
+}
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
 }

@@ -57,6 +57,11 @@ module.exports = {
       },
       {
         isGroup: true,
+        text: "工具",
+        children: ["/tools/vscode.md","/tools/url.md"], //會去抓#的名稱
+      },
+      {
+        isGroup: true,
         text: "Web",
         children: ["/web/common.md", "/web/vue.md", "/web/vscode.md" , "/web/resource.md"], //會去抓#的名稱
       },

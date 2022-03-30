@@ -27,7 +27,13 @@ export const data = {
   ],
   "filePathRelative": "others/bashCommonSyntax.md",
   "git": {
-    "updatedTime": null,
-    "contributors": []
+    "updatedTime": 1648657295000,
+    "contributors": [
+      {
+        "name": "Richard Lin",
+        "email": "33016870+dpes8693@users.noreply.github.com",
+        "commits": 1
+      }
+    ]
   }
 }

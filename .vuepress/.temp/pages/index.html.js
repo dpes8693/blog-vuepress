@@ -82,7 +82,7 @@ export const data = {
   ],
   "filePathRelative": "README.md",
   "git": {
-    "updatedTime": 1631167195000,
+    "updatedTime": 1648657295000,
     "contributors": [
       {
         "name": "Richard",
@@ -93,6 +93,11 @@ export const data = {
         "name": "林原醇",
         "email": "richard_lin@tangram.tw",
         "commits": 2
+      },
+      {
+        "name": "Richard Lin",
+        "email": "33016870+dpes8693@users.noreply.github.com",
+        "commits": 1
       }
     ]
   }

@@ -15,6 +15,14 @@ export const themeData = {
     },
     {
       "isGroup": true,
+      "text": "工具",
+      "children": [
+        "/tools/vscode.md",
+        "/tools/url.md"
+      ]
+    },
+    {
+      "isGroup": true,
       "text": "Web",
       "children": [
         "/web/common.md",
