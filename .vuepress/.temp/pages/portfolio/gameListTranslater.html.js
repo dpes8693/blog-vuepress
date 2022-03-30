@@ -21,7 +21,13 @@ export const data = {
   ],
   "filePathRelative": "portfolio/gameListTranslater.md",
   "git": {
-    "updatedTime": null,
-    "contributors": []
+    "updatedTime": 1648283443000,
+    "contributors": [
+      {
+        "name": "Richard Lin",
+        "email": "33016870+dpes8693@users.noreply.github.com",
+        "commits": 1
+      }
+    ]
   }
 }

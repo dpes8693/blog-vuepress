@@ -2,22 +2,15 @@ export const themeData = {
   "navbar": [],
   "sidebar": [
     {
+      "isGroup": true,
       "text": "Home",
-      "link": "/",
-      "children": [
-        {
-          "text": "github原始碼",
-          "link": "https://github.com/dpes8693/blog-vuepress",
-          "children": []
-        }
-      ]
+      "link": "/"
     },
     {
       "isGroup": true,
       "text": "Guide",
       "children": [
-        "/guide/plugin.md",
-        "/guide/1.md"
+        "/guide/buildBlog.md"
       ]
     },
     {
@@ -28,6 +21,13 @@ export const themeData = {
         "/web/vue.md",
         "/web/vscode.md",
         "/web/resource.md"
+      ]
+    },
+    {
+      "isGroup": true,
+      "text": "Windows",
+      "children": [
+        "/others/bashCommonSyntax.md"
       ]
     },
     {

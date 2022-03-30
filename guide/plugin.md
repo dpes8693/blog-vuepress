@@ -1,4 +1,5 @@
 # Plugin
+
 <style>
 html {
     overflow: -moz-hidden-unscrollable;
@@ -19,6 +20,7 @@ body {
 我Vuepress2.0沒用到 Plugin 但有隱藏scroll
 
 ```css
+
 <style>
 html {
     overflow: -moz-hidden-unscrollable;
@@ -35,4 +37,6 @@ body {
 	width: calc(100vw + 18px);
 	overflow: auto;
 }
+</style>
+
 ```

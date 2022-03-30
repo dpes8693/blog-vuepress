@@ -2,15 +2,15 @@ import { Vuepress } from '@vuepress/client/lib/components/Vuepress'
 
 const routeItems = [
   ["v-8daa1a0e","/","About Me",["/index.html","/README.md"]],
-  ["v-6e0d8f34","/guide/1.html","用Vupress架Blog",["/guide/1.md"]],
+  ["v-926930d6","/guide/buildBlog.html","用Vupress架Blog",["/guide/buildBlog.md"]],
   ["v-1d14d5cc","/guide/plugin.html","Plugin",["/guide/plugin.md"]],
+  ["v-3b87d144","/others/bashCommonSyntax.html","紀錄我常用的windows語法",["/others/bashCommonSyntax.md"]],
+  ["v-d367aa3e","/others/testApiSyntax.html","",["/others/testApiSyntax.md"]],
   ["v-3b074cd4","/portfolio/driveUrl.html","drive分享連結導出圖片連結",["/portfolio/driveUrl.md"]],
   ["v-768d2905","/portfolio/gameListTranslater.html","[巴哈]文字 to MD 表格",["/portfolio/gameListTranslater.md"]],
-  ["v-f3df9bba","/web/bashCommonSyntax.html","紀錄我常用的windows語法",["/web/bashCommonSyntax.md"]],
   ["v-07f2110c","/web/common.html","小常識",["/web/common.md"]],
   ["v-7dc11caa","/web/noun.html","名詞學習與整理",["/web/noun.md"]],
   ["v-2ca18037","/web/resource.html","深入的學習link",["/web/resource.md"]],
-  ["v-441f8e62","/web/testApiSyntax.html","",["/web/testApiSyntax.md"]],
   ["v-ec084aca","/web/vscode.html","VScode",["/web/vscode.md"]],
   ["v-1f585632","/web/vue.html","Vue.js練功",["/web/vue.md"]],
   ["v-3706649a","/404.html","",[]],

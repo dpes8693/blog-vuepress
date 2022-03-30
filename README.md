@@ -5,9 +5,16 @@
 [ #Medium](https://dpes5407.medium.com/)<br>
 [# 文件~~~](https://v2.vuepress.vuejs.org/reference/default-theme/config.html#basic-config)
 ## Markdown 語法
-<!--  -->
+### ``
+<!-- code -->
+```md
+`我被框起來了`
+```
+`我被框起來了`
+<!-- end code -->
 
-<!--  -->
+### Code 分隔
+<!-- 分隔 -->
 <iframe height=370 width=100% src="/blog-vuepress/demo/EmbedTest.html"></iframe>
 
 :::: code-group
@@ -25,7 +32,9 @@ const bar = 'bar';
 ::::
 
 ---
-<!--  -->
+<!-- end 分隔 -->
+### YouTube
+<!-- embed -->
 ```html
 Youtube
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/7tdsTRV2b58" 
@@ -34,7 +43,9 @@ clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
 </iframe>
 ```
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/7tdsTRV2b58" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!-- end embed -->
 
+### 項目符號+-
 <!-- +- -->
 ---
 ```md
@@ -50,6 +61,9 @@ clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
   1. OuO
   2. QuQ
   - 123
+<!-- end +- -->  
+
+### 引用>
 <!-- > -->
 ---
 ```md
@@ -58,12 +72,16 @@ clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
 ```
 > The more I learn, the more I realize how much I don't know.  
 > --- Albert Einstein
+<!-- end > -->
+### pic
 <!-- pic -->
 ---
 ```md
 ![CAT](/blog-vuepress/images/cat.jpg)
 ```
 ![CAT](https://i.imgur.com/eRVS5qg.jpg)
+<!-- end pic -->
+### emoji
 <!-- emoji -->
 ---
 ```md
@@ -74,6 +92,8 @@ clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
 :tada: 
 
 :100:
+<!-- end emoji -->
+### tip
 <!-- tip -->
 ---
 ```md
@@ -86,6 +106,8 @@ clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
 456<br>
 + 123<br>
 :::
+<!-- end tip -->
+### table
 <!-- table -->
 ---
 
@@ -102,7 +124,8 @@ clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
-
+<!-- end table -->
+### 展開
 <!-- 展開 -->
 ---
 ```md
@@ -119,12 +142,16 @@ console.log('Hello, VuePress!')
 console.log('Hello, VuePress!')
 ```
 :::
+<!-- end 展開 -->
 
-<!-- 收合2 -->
+### 收合
+<!-- 收合 -->
 ```md
 <details open>
   <summary>html tag</summary>
+記得空一行 
 
+open預設展開 若要收合刪掉即可
 | HTML TAG | Eng.            | X
 | -------- | --------------- | -------------------------------- |
 | var      | variable        | Text                             |
@@ -137,6 +164,7 @@ console.log('Hello, VuePress!')
   <summary>html tag</summary>
 
 記得空一行 
+
 open預設展開 若要收合刪掉即可
 | HTML TAG | Eng.            | X
 | -------- | --------------- | -------------------------------- |
@@ -145,4 +173,4 @@ open預設展開 若要收合刪掉即可
 
 </details>
 
-
+<!-- end 收合 -->

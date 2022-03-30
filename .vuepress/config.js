@@ -39,25 +39,31 @@ module.exports = {
 
     sidebar: [
       {
+        isGroup: true,
         text: 'Home',
         link: '/',
-        children: [
-          {
-            text: "github原始碼",
-            link: "https://github.com/dpes8693/blog-vuepress",
-            children: [],
-          },
-        ],
+        // children: [
+        //   {
+        //     text: "github原始碼",
+        //     link: "https://github.com/dpes8693/blog-vuepress",
+        //     children: [],
+        //   },
+        // ],
       },
       {
         isGroup: true,
         text: "Guide",
-        children: ["/guide/plugin.md","/guide/1.md", ], //會去抓#的名稱
+        children: ["/guide/buildBlog.md"], //會去抓#的名稱
       },
       {
         isGroup: true,
         text: "Web",
         children: ["/web/common.md", "/web/vue.md", "/web/vscode.md" , "/web/resource.md"], //會去抓#的名稱
+      },
+      {
+        isGroup: true,
+        text: "Windows",
+        children: ["/others/bashCommonSyntax.md"], //會去抓#的名稱
       },
       {
         isGroup: true,
