@@ -99,21 +99,3 @@ precedence 優先級
 <a href="https://ithelp.ithome.com.tw/articles/10196454" target="_blank" rel="noopener noreferrer">權重<OutboundLink/></a>
 <a href="https://ithelp.ithome.com.tw/articles/10240444" target="_blank" rel="noopener noreferrer">Specificity<OutboundLink/></a></p>
 </template>
-
-<style>
-html {
-    overflow: -moz-hidden-unscrollable;
-    height: 100%;
-}
-
-body::-webkit-scrollbar {
-    display: none;
-}
-
-body {
-    -ms-overflow-style: none;
-    height: 100%;
-	width: calc(100vw + 18px);
-	overflow: auto;
-}
-</style>

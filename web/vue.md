@@ -1,21 +1,5 @@
 # <i class="fas fa-meteor"></i>  Vue.js練功
-<style>
-html {
-    overflow: -moz-hidden-unscrollable;
-    height: 100%;
-}
 
-body::-webkit-scrollbar {
-    display: none;
-}
-
-body {
-    -ms-overflow-style: none;
-    height: 100%;
-	width: calc(100vw + 18px);
-	overflow: auto;
-}
-</style>
 ## 入門1個月要認識?
 ``` js
 html DOM節點傳遞

@@ -69,21 +69,3 @@ F1&gt;&gt;可以輸入不同插件&gt;&gt;直接插入 html
 <p>其他語法可以參考:</p>
 <p><a href="https://code.z01.com/emmet/" target="_blank" rel="noopener noreferrer">https://code.z01.com/emmet/<OutboundLink/></a></p>
 </template>
-
-<style>
-html {
-    overflow: -moz-hidden-unscrollable;
-    height: 100%;
-}
-
-body::-webkit-scrollbar {
-    display: none;
-}
-
-body {
-    -ms-overflow-style: none;
-    height: 100%;
-	width: calc(100vw + 18px);
-	overflow: auto;
-}
-</style>

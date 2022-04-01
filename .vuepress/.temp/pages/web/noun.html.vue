@@ -228,21 +228,3 @@
 jQuery(JavaScript 函式庫)
 初衷是用來簡化 HTML 與 JavaScript 之間的溝通與操作 -->
 <div class="language-text ext-text line-numbers-mode"><pre v-pre class="language-text"><code></code></pre><div class="line-numbers"></div></div></template>
-
-<style>
-html {
-    overflow: -moz-hidden-unscrollable;
-    height: 100%;
-}
-
-body::-webkit-scrollbar {
-    display: none;
-}
-
-body {
-    -ms-overflow-style: none;
-    height: 100%;
-	width: calc(100vw + 18px);
-	overflow: auto;
-}
-</style>
