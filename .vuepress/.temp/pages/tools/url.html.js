@@ -8,7 +8,13 @@ export const data = {
   "headers": [],
   "filePathRelative": "tools/url.md",
   "git": {
-    "updatedTime": null,
-    "contributors": []
+    "updatedTime": 1648659573000,
+    "contributors": [
+      {
+        "name": "Richard Lin",
+        "email": "33016870+dpes8693@users.noreply.github.com",
+        "commits": 1
+      }
+    ]
   }
 }

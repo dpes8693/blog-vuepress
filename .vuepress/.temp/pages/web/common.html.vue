@@ -1,16 +1,14 @@
 <template><h1 id="小常識"><a class="header-anchor" href="#小常識">#</a> 小常識</h1>
 <h2 id="網頁架構"><a class="header-anchor" href="#網頁架構">#</a> 網頁架構</h2>
 <p>說到網頁不得不提 DOM BOM
-<img src="https://i.imgur.com/n9FjFpv.png" alt="BOM">
-Browser Object Model
-<a href="https://ithelp.ithome.com.tw/upload/images/20171214/20065504EIG4UYcuGE.png" target="_blank" rel="noopener noreferrer"><OutboundLink/></a></p>
-<p><img src="https://i.imgur.com/uJwKmCq.png" alt="DOM">
-Document Object Model
-<a href="https://www.javadrive.jp/javascript/dom/index1.html" target="_blank" rel="noopener noreferrer"><OutboundLink/></a></p>
+<img src="https://i.imgur.com/n9FjFpv.png" alt="BOM"></p>
+<p><a href="https://ithelp.ithome.com.tw/upload/images/20171214/20065504EIG4UYcuGE.png" target="_blank" rel="noopener noreferrer">Browser Object Model<OutboundLink/></a></p>
+<p><img src="https://i.imgur.com/uJwKmCq.png" alt="DOM"></p>
+<p><a href="https://www.javadrive.jp/javascript/dom/index1.html" target="_blank" rel="noopener noreferrer">Document Object Model<OutboundLink/></a></p>
 <p>DOM 是網頁開發的基礎
 <img src="https://i.imgur.com/VDoI7q5.png" alt="Web架構"></p>
 <div class="custom-container tip"><p class="custom-container-title">來源</p>
-<p><a href="https://ithelp.ithome.com.tw/articles/10191765" target="_blank" rel="noopener noreferrer">S<OutboundLink/></a></p>
+<p><a href="https://ithelp.ithome.com.tw/articles/10191765" target="_blank" rel="noopener noreferrer">透過 DOM API 查找節點<OutboundLink/></a></p>
 </div>
 <h2 id="web-三本柱"><a class="header-anchor" href="#web-三本柱">#</a> Web 三本柱</h2>
 <h5 id="git"><a class="header-anchor" href="#git">#</a> Git</h5>
@@ -21,7 +19,24 @@ Document Object Model
 </ul>
 <hr>
 <h5 id="語言-language"><a class="header-anchor" href="#語言-language">#</a> 語言 Language</h5>
+<ul>
+<li>
+<p>強型別vs弱型別</p>
+<ul>
+<li>型別檢查嚴格?相加安全?</li>
+</ul>
+</li>
+<li>
+<p>動態語言vs靜態語言</p>
+<ul>
+<li>需宣告<code>int</code>,<code>string</code>?</li>
+</ul>
+</li>
+</ul>
 <p><img src="https://i.imgur.com/9DX9OuA.png" alt="靜態型別-必須宣告資料"></p>
+<ul>
+<li><a href="https://ithelp.ithome.com.tw/articles/10202260" target="_blank" rel="noopener noreferrer">資料型態的夢魘<OutboundLink/></a></li>
+</ul>
 <hr>
 <h5 id="多國語系-localization"><a class="header-anchor" href="#多國語系-localization">#</a> 多國語系 Localization</h5>
 <p><a href="https://english.bruceli.net/2011/11/zhzh-tw-zh-cn.html" target="_blank" rel="noopener noreferrer">zh 或 zh-tw, zh-cn 是什麼的縮寫？<OutboundLink/></a></p>
@@ -131,23 +146,10 @@ Document Object Model
 <li><a href="https://ithelp.ithome.com.tw/users/20129506/ironman/3700?page=1" target="_blank" rel="noopener noreferrer">JavaScript 初心者ノ研究日記<OutboundLink/></a></li>
 <li><a href="https://ithelp.ithome.com.tw/articles/10223406" target="_blank" rel="noopener noreferrer">ES6<OutboundLink/></a></li>
 </ul>
-<p>來認識for...in for...of
-in  ES6 key</p>
-<p>for ES5 value</p>
-<div class="language-javascript ext-js line-numbers-mode"><pre v-pre class="language-javascript"><code><span class="token comment">// 試著讓 Array 繼承一些屬性或方法</span>
-<span class="token class-name">Array</span><span class="token punctuation">.</span>prototype<span class="token punctuation">.</span>test<span class="token operator">=</span><span class="token string">"test12"</span><span class="token punctuation">;</span>
-<span class="token keyword">var</span> items<span class="token operator">=</span><span class="token punctuation">[</span><span class="token string">"a"</span><span class="token punctuation">,</span> <span class="token string">"b"</span><span class="token punctuation">]</span><span class="token punctuation">;</span>
-<span class="token keyword">for</span><span class="token punctuation">(</span><span class="token keyword">let</span> prop <span class="token keyword">in</span> items<span class="token punctuation">)</span>
-<span class="token punctuation">{</span>
-    <span class="token keyword">if</span><span class="token punctuation">(</span>items<span class="token punctuation">.</span><span class="token function">hasOwnProperty</span><span class="token punctuation">(</span>prop<span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token comment">//檢查這是否為非繼承的屬性</span>
-        console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token string">"index:"</span><span class="token operator">+</span>prop<span class="token operator">+</span><span class="token string">"__"</span><span class="token operator">+</span>items<span class="token punctuation">[</span>prop<span class="token punctuation">]</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
-<span class="token punctuation">}</span>
-<span class="token comment">// index:0__a</span>
-<span class="token comment">// index:1__b</span>
-</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br></div></div><h5 id="api-application-programming-interface"><a class="header-anchor" href="#api-application-programming-interface">#</a> API (Application Programming Interface)</h5>
+<hr>
+<h3 id="api-application-programming-interface"><a class="header-anchor" href="#api-application-programming-interface">#</a> API (Application Programming Interface)</h3>
 <ul>
-<li>RESTful API<br>
-https://ithelp.ithome.com.tw/users/20107247/ironman/1312?page=1</li>
+<li><a href="https://ithelp.ithome.com.tw/users/20107247/ironman/1312?page=1" target="_blank" rel="noopener noreferrer">RESTful API<OutboundLink/></a></li>
 </ul>
 <hr>
 <h3 id="css"><a class="header-anchor" href="#css">#</a> CSS</h3>
@@ -214,7 +216,7 @@ vw(viewport width畫面比例'寬度'百分比),
 vh(viewport height畫面比例'高度'百分比),
 %(根元素),
 calc(計算未知動態大小)
-</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br></div></div><p><a href="https://ithelp.ithome.com.tw/articles/10222932" target="_blank" rel="noopener noreferrer">source<OutboundLink/></a></p>
+</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br></div></div><p><a href="https://ithelp.ithome.com.tw/articles/10222932" target="_blank" rel="noopener noreferrer">CSS基本樣式-單位與數值<OutboundLink/></a></p>
 <ul>
 <li>CSS 口決上右下左?</li>
 </ul>
@@ -231,18 +233,17 @@ calc(計算未知動態大小)
 </code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br></div></div><ul>
 <li>RWD AWD?</li>
 </ul>
-<div class="language-text ext-text line-numbers-mode"><pre v-pre class="language-text"><code>A: RWD(esponsive Web Design)響應式,AWD(Adaptive Web Design)自適應 
-[來源](https://start-up123.blogspot.com/2019/04/Difference-between-RWD-and-AWD.html)
-</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br></div></div><ul>
+<div class="language-text ext-text line-numbers-mode"><pre v-pre class="language-text"><code>A: RWD(esponsive Web Design) 響應式,AWD(Adaptive Web Design)自適應 
+</code></pre><div class="line-numbers"><span class="line-number">1</span><br></div></div><p><a href="https://start-up123.blogspot.com/2019/04/Difference-between-RWD-and-AWD.html" target="_blank" rel="noopener noreferrer">來源<OutboundLink/></a></p>
+<ul>
 <li>線上測試工具推薦?
-<a href="https://w3c.hexschool.com/flexbox/2186a786" target="_blank" rel="noopener noreferrer">六角洧杰開發<OutboundLink/></a></li>
+<a href="https://w3c.hexschool.com/flexbox/2186a786" target="_blank" rel="noopener noreferrer">六角-洧杰-flex<OutboundLink/></a></li>
 </ul>
 <hr>
 <h3 id="all-文章"><a class="header-anchor" href="#all-文章">#</a> ALL 文章</h3>
-<p><img src="https://i.imgur.com/QPYZIfa.png" alt=""></p>
 <ol>
 <li>
-<p><a href="https://ithelp.ithome.com.tw/users/20121212/ironman/3578" target="_blank" rel="noopener noreferrer">正妹教學<OutboundLink/></a></p>
+<p><a href="https://ithelp.ithome.com.tw/users/20121212/ironman/3578" target="_blank" rel="noopener noreferrer">真香!教學<OutboundLink/></a></p>
 </li>
 <li>
 <p><a href="https://medium.com/i-am-mike/%E5%88%9D%E5%BF%83%E8%80%85%E7%9A%84%E5%89%8D%E7%AB%AF%E8%B7%AF%E7%B7%9A%E5%AD%B8%E7%BF%92%E6%8C%87%E5%8D%97-895de088257f" target="_blank" rel="noopener noreferrer">初心者的前端路線學習指南<OutboundLink/></a></p>

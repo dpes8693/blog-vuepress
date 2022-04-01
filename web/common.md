@@ -21,19 +21,19 @@ body {
 
 說到網頁不得不提 DOM BOM
 ![BOM](https://i.imgur.com/n9FjFpv.png)
-Browser Object Model
-[](https://ithelp.ithome.com.tw/upload/images/20171214/20065504EIG4UYcuGE.png)
+
+[Browser Object Model](https://ithelp.ithome.com.tw/upload/images/20171214/20065504EIG4UYcuGE.png)
 
 ![DOM](https://i.imgur.com/uJwKmCq.png)
-Document Object Model
-[](https://www.javadrive.jp/javascript/dom/index1.html)
+
+[Document Object Model](https://www.javadrive.jp/javascript/dom/index1.html)
 
 DOM 是網頁開發的基礎
 ![Web架構](https://i.imgur.com/VDoI7q5.png)
 
 
 ::: tip 來源
-[S](https://ithelp.ithome.com.tw/articles/10191765)
+[透過 DOM API 查找節點](https://ithelp.ithome.com.tw/articles/10191765)
 :::
 
 ## Web 三本柱
@@ -47,7 +47,15 @@ DOM 是網頁開發的基礎
 ---
 ##### 語言 Language
 
+- 強型別vs弱型別
+  - 型別檢查嚴格?相加安全?
+
+- 動態語言vs靜態語言
+  - 需宣告`int`,`string`?
+
 ![靜態型別-必須宣告資料](https://i.imgur.com/9DX9OuA.png)
+
++ [資料型態的夢魘](https://ithelp.ithome.com.tw/articles/10202260)
 
 ---
 ##### 多國語系 Localization
@@ -90,28 +98,10 @@ DOM 是網頁開發的基礎
 + [JavaScript 初心者ノ研究日記](https://ithelp.ithome.com.tw/users/20129506/ironman/3700?page=1)
 + [ES6](https://ithelp.ithome.com.tw/articles/10223406)
 
-來認識for...in for...of
-in  ES6 key 
+---
+### API (Application Programming Interface)
 
-for ES5 value 
-
-```js
-// 試著讓 Array 繼承一些屬性或方法
-Array.prototype.test="test12";
-var items=["a", "b"];
-for(let prop in items)
-{
-    if(items.hasOwnProperty(prop))//檢查這是否為非繼承的屬性
-        console.log("index:"+prop+"__"+items[prop]);
-}
-// index:0__a
-// index:1__b
-```
-
-##### API (Application Programming Interface)
-
-+ RESTful API<br>
-https://ithelp.ithome.com.tw/users/20107247/ironman/1312?page=1
++ [RESTful API](https://ithelp.ithome.com.tw/users/20107247/ironman/1312?page=1)
 
 ---
 ### CSS
@@ -179,7 +169,7 @@ vh(viewport height畫面比例'高度'百分比),
 %(根元素),
 calc(計算未知動態大小)
 ```
-[source](https://ithelp.ithome.com.tw/articles/10222932)
+[CSS基本樣式-單位與數值](https://ithelp.ithome.com.tw/articles/10222932)
 
 
 + CSS 口決上右下左?
@@ -199,18 +189,17 @@ A: 有一個正方形:{邊線:border,面積:content}
 
 + RWD AWD?
 ```
-A: RWD(esponsive Web Design)響應式,AWD(Adaptive Web Design)自適應 
-[來源](https://start-up123.blogspot.com/2019/04/Difference-between-RWD-and-AWD.html)
+A: RWD(esponsive Web Design) 響應式,AWD(Adaptive Web Design)自適應 
 ```
+[來源](https://start-up123.blogspot.com/2019/04/Difference-between-RWD-and-AWD.html)
 
 + 線上測試工具推薦?
-[六角洧杰開發](https://w3c.hexschool.com/flexbox/2186a786)
+[六角-洧杰-flex](https://w3c.hexschool.com/flexbox/2186a786)
+
 ---
 ### ALL 文章
 
-![](https://i.imgur.com/QPYZIfa.png)
-
-1. [正妹教學](https://ithelp.ithome.com.tw/users/20121212/ironman/3578)
+1. [真香!教學](https://ithelp.ithome.com.tw/users/20121212/ironman/3578)
 
 2. [初心者的前端路線學習指南](https://medium.com/i-am-mike/%E5%88%9D%E5%BF%83%E8%80%85%E7%9A%84%E5%89%8D%E7%AB%AF%E8%B7%AF%E7%B7%9A%E5%AD%B8%E7%BF%92%E6%8C%87%E5%8D%97-895de088257f)
 
