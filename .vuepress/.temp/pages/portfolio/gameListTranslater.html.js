@@ -1,7 +1,7 @@
 export const data = {
   "key": "v-768d2905",
   "path": "/portfolio/gameListTranslater.html",
-  "title": "[巴哈]文字 to MD 表格",
+  "title": "Steam遊戲列表 to markdown 表格語法",
   "lang": "zh-tw",
   "frontmatter": {},
   "excerpt": "",
@@ -21,12 +21,12 @@ export const data = {
   ],
   "filePathRelative": "portfolio/gameListTranslater.md",
   "git": {
-    "updatedTime": 1648283443000,
+    "updatedTime": 1648819197000,
     "contributors": [
       {
         "name": "Richard Lin",
         "email": "33016870+dpes8693@users.noreply.github.com",
-        "commits": 1
+        "commits": 2
       }
     ]
   }

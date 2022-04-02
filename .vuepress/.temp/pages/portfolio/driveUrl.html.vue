@@ -1,4 +1,5 @@
-<template><h1 id="drive分享連結導出圖片連結"><a class="header-anchor" href="#drive分享連結導出圖片連結">#</a> drive分享連結導出圖片連結</h1>
+<template><h1 id="將googledrive分享連結-to-圖片連結"><a class="header-anchor" href="#將googledrive分享連結-to-圖片連結">#</a> 將GoogleDrive分享連結 to 圖片連結</h1>
+<p><RouterLink to="/portfolio/"><i class="fa fa-arrow-left"></i>返回列表</RouterLink></p>
 <p><a href="https://home.gamer.com.tw/artwork.php?sn=5259952" target="_blank" rel="noopener noreferrer">巴哈文章<OutboundLink/></a></p>
 <ul>
 <li>範例輸入格式</li>
@@ -31,5 +32,6 @@
 </code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br></div></div><div class="language-html ext-html line-numbers-mode"><pre v-pre class="language-html"><code>
 <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>img</span> <span class="token attr-name">width</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>50px<span class="token punctuation">"</span></span> <span class="token attr-name">src</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>https://drive.google.com/uc?export=download&amp;id=1FgTcxp2FPxXZD9FxlYgMABWGEYPIT3k4<span class="token punctuation">"</span></span> <span class="token punctuation">/></span></span>
 
-</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br></div></div><p><img src="https://drive.google.com/uc?export=download&amp;id=1FgTcxp2FPxXZD9FxlYgMABWGEYPIT3k4" alt=""></p>
+</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br></div></div><p><img src="https://drive.google.com/uc?export=download&amp;id=1FgTcxp2FPxXZD9FxlYgMABWGEYPIT3k4" alt="成果"></p>
+<p><RouterLink to="/portfolio/"><i class="fa fa-arrow-left"></i>返回列表</RouterLink></p>
 </template>

@@ -1,7 +1,7 @@
 export const data = {
   "key": "v-1d14d5cc",
   "path": "/guide/plugin.html",
-  "title": "Plugin",
+  "title": "Blog 修改的地方 Plugin",
   "lang": "zh-tw",
   "frontmatter": {},
   "excerpt": "",

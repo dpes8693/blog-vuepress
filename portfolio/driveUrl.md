@@ -1,5 +1,6 @@
 
-# drive分享連結導出圖片連結
+# 將GoogleDrive分享連結 to 圖片連結
+ [<i class="fa fa-arrow-left"></i>返回列表](./index.md)
 
 [巴哈文章](https://home.gamer.com.tw/artwork.php?sn=5259952)
 
@@ -54,4 +55,6 @@ https://drive.google.com/uc?export=download&id=1FgTcxp2FPxXZD9FxlYgMABWGEYPIT3k4
 
 
 
-![](https://drive.google.com/uc?export=download&id=1FgTcxp2FPxXZD9FxlYgMABWGEYPIT3k4)
+![成果](https://drive.google.com/uc?export=download&id=1FgTcxp2FPxXZD9FxlYgMABWGEYPIT3k4)
+
+ [<i class="fa fa-arrow-left"></i>返回列表](./index.md)

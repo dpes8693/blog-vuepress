@@ -58,27 +58,27 @@ module.exports = {
       {
         isGroup: true,
         text: "工具",
-        children: ["/tools/vscode.md","/tools/url.md"], //會去抓#的名稱
+        children: ["/tools/vscode.md","/tools/url.md"]
       },
       {
         isGroup: true,
         text: "Web",
-        children: ["/web/common.md", "/web/vue.md","/web/resource.md"], //會去抓#的名稱
+        children: ["/web/common.md", "/web/vue.md","/web/resource.md"]
       },
       {
         isGroup: true,
         text: "Windows",
-        children: ["/others/bashCommonSyntax.md"], //會去抓#的名稱
+        children: ["/others/bashCommonSyntax.md"]
       },
       {
         isGroup: true,
         text: "Proper Noun",
-        children: ["/web/noun.md",], //會去抓#的名稱
+        children: ["/web/noun.md",]
       },
       {
         isGroup: true,
         text: "Portfolio",
-        children: ["/portfolio/driveUrl.md","/portfolio/gameListTranslater.md"], //會去抓#的名稱        
+        children: ["/portfolio/index.md"]   
       }
     ],
   },

@@ -48,8 +48,7 @@ export const themeData = {
       "isGroup": true,
       "text": "Portfolio",
       "children": [
-        "/portfolio/driveUrl.md",
-        "/portfolio/gameListTranslater.md"
+        "/portfolio/index.md"
       ]
     }
   ],

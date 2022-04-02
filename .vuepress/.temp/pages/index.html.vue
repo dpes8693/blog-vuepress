@@ -97,7 +97,7 @@ clipboard-write; encrypted-media; gyroscope; picture-in-picture<span class="toke
 <!-- table -->
 <hr>
 <div class="language-markdown ext-md line-numbers-mode"><pre v-pre class="language-markdown"><code><span class="token table"><span class="token table-header-row"><span class="token punctuation">|</span><span class="token table-header important"> Tables        </span><span class="token punctuation">|</span><span class="token table-header important"> Are           </span><span class="token punctuation">|</span><span class="token table-header important"> Cool  </span><span class="token punctuation">|</span>
-</span><span class="token table-line"><span class="token punctuation">|</span> <span class="token punctuation">-------------</span> <span class="token punctuation">|</span><span class="token punctuation">:-------------:</span><span class="token punctuation">|</span> <span class="token punctuation">-----:</span><span class="token punctuation">|</span>
+</span><span class="token table-line"><span class="token punctuation">|</span> <span class="token punctuation">-------------</span> <span class="token punctuation">|</span><span class="token punctuation">-------------</span><span class="token punctuation">|</span> <span class="token punctuation">-----</span><span class="token punctuation">|</span>
 </span><span class="token table-data-rows"><span class="token punctuation">|</span><span class="token table-data"> col 3 is      </span><span class="token punctuation">|</span><span class="token table-data"> right-aligned </span><span class="token punctuation">|</span><span class="token table-data"> $1600 </span><span class="token punctuation">|</span>
 <span class="token punctuation">|</span><span class="token table-data"> col 2 is      </span><span class="token punctuation">|</span><span class="token table-data"> centered      </span><span class="token punctuation">|</span><span class="token table-data">   $12 </span><span class="token punctuation">|</span>
 <span class="token punctuation">|</span><span class="token table-data"> zebra stripes </span><span class="token punctuation">|</span><span class="token table-data"> are neat      </span><span class="token punctuation">|</span><span class="token table-data">    $1 </span><span class="token punctuation">|</span>
@@ -105,25 +105,25 @@ clipboard-write; encrypted-media; gyroscope; picture-in-picture<span class="toke
 <thead>
 <tr>
 <th>Tables</th>
-<th style="text-align:center">Are</th>
-<th style="text-align:right">Cool</th>
+<th>Are</th>
+<th>Cool</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>col 3 is</td>
-<td style="text-align:center">right-aligned</td>
-<td style="text-align:right">$1600</td>
+<td>right-aligned</td>
+<td>$1600</td>
 </tr>
 <tr>
 <td>col 2 is</td>
-<td style="text-align:center">centered</td>
-<td style="text-align:right">$12</td>
+<td>centered</td>
+<td>$12</td>
 </tr>
 <tr>
 <td>zebra stripes</td>
-<td style="text-align:center">are neat</td>
-<td style="text-align:right">$1</td>
+<td>are neat</td>
+<td>$1</td>
 </tr>
 </tbody>
 </table>
@@ -149,9 +149,9 @@ console.log('Hello, VuePress!')
 
 open預設展開 若要收合刪掉即可
 <span class="token table"><span class="token table-header-row"><span class="token punctuation">|</span><span class="token table-header important"> HTML TAG </span><span class="token punctuation">|</span><span class="token table-header important"> Eng.            </span><span class="token punctuation">|</span><span class="token table-header important"> X</span>
-</span><span class="token table-line"><span class="token punctuation">|</span> <span class="token punctuation">--------</span> <span class="token punctuation">|</span> <span class="token punctuation">---------------</span> <span class="token punctuation">|</span> <span class="token punctuation">--------------------------------</span> <span class="token punctuation">|</span>
-</span><span class="token table-data-rows"><span class="token punctuation">|</span><span class="token table-data"> var      </span><span class="token punctuation">|</span><span class="token table-data"> variable        </span><span class="token punctuation">|</span><span class="token table-data"> Text                             </span><span class="token punctuation">|</span>
-<span class="token punctuation">|</span><span class="token table-data"> q        </span><span class="token punctuation">|</span><span class="token table-data"> quotation       </span><span class="token punctuation">|</span><span class="token table-data"> Text                             </span><span class="token punctuation">|</span>
+</span><span class="token table-line"><span class="token punctuation">|</span> <span class="token punctuation">--------</span> <span class="token punctuation">|</span> <span class="token punctuation">---------------</span> <span class="token punctuation">|</span> <span class="token punctuation">------------</span> <span class="token punctuation">|</span>
+</span><span class="token table-data-rows"><span class="token punctuation">|</span><span class="token table-data"> var      </span><span class="token punctuation">|</span><span class="token table-data"> variable        </span><span class="token punctuation">|</span><span class="token table-data"> Text         </span><span class="token punctuation">|</span>
+<span class="token punctuation">|</span><span class="token table-data"> q        </span><span class="token punctuation">|</span><span class="token table-data"> quotation       </span><span class="token punctuation">|</span><span class="token table-data"> Text         </span><span class="token punctuation">|</span>
 </span></span>
 <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>details</span><span class="token punctuation">></span></span>
 </code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br><span class="line-number">11</span><br></div></div><details open>

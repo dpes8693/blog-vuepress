@@ -113,14 +113,14 @@ clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
 
 ```md
 | Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
+| ------------- |-------------| -----|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 ```
 
 | Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
+| ------------- |-------------| -----|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
@@ -153,9 +153,9 @@ console.log('Hello, VuePress!')
 
 open預設展開 若要收合刪掉即可
 | HTML TAG | Eng.            | X
-| -------- | --------------- | -------------------------------- |
-| var      | variable        | Text                             |
-| q        | quotation       | Text                             |
+| -------- | --------------- | ------------ |
+| var      | variable        | Text         |
+| q        | quotation       | Text         |
 
 </details>
 ```
@@ -167,9 +167,9 @@ open預設展開 若要收合刪掉即可
 
 open預設展開 若要收合刪掉即可
 | HTML TAG | Eng.            | X
-| -------- | --------------- | -------------------------------- |
-| var      | variable        | Text                             |
-| q        | quotation       | Text                             |
+| -------- | --------------- | ------------ |
+| var      | variable        | Text         |
+| q        | quotation       | Text         |
 
 </details>
 

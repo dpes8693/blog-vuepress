@@ -13,6 +13,8 @@ export const pagesData = {
   "v-3b074cd4": () => import(/* webpackChunkName: "v-3b074cd4" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/portfolio/driveUrl.html.js").then(({ data }) => data),
   // path: /portfolio/gameListTranslater.html
   "v-768d2905": () => import(/* webpackChunkName: "v-768d2905" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/portfolio/gameListTranslater.html.js").then(({ data }) => data),
+  // path: /portfolio/
+  "v-2e4c18c0": () => import(/* webpackChunkName: "v-2e4c18c0" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/portfolio/index.html.js").then(({ data }) => data),
   // path: /tools/url.html
   "v-494c5c92": () => import(/* webpackChunkName: "v-494c5c92" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/tools/url.html.js").then(({ data }) => data),
   // path: /tools/vscode.html

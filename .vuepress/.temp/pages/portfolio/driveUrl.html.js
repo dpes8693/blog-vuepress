@@ -1,19 +1,19 @@
 export const data = {
   "key": "v-3b074cd4",
   "path": "/portfolio/driveUrl.html",
-  "title": "drive分享連結導出圖片連結",
+  "title": "將GoogleDrive分享連結 to 圖片連結",
   "lang": "zh-tw",
   "frontmatter": {},
   "excerpt": "",
   "headers": [],
   "filePathRelative": "portfolio/driveUrl.md",
   "git": {
-    "updatedTime": 1647790460000,
+    "updatedTime": 1648819197000,
     "contributors": [
       {
         "name": "Richard Lin",
         "email": "33016870+dpes8693@users.noreply.github.com",
-        "commits": 2
+        "commits": 3
       },
       {
         "name": "林原醇",
