@@ -5,7 +5,17 @@
 [ #Medium](https://dpes5407.medium.com/)<br>
 [# 文件~~~](https://v2.vuepress.vuejs.org/reference/default-theme/config.html#basic-config)
 ## Markdown 語法
-### ``
+
+---
+### Table of Content
+<!-- toc -->
+```md
+[[toc]]
+```
+[[toc]]
+<!-- end toc -->
+
+### `強調`
 <!-- code -->
 ```md
 `我被框起來了`
@@ -13,6 +23,7 @@
 `我被框起來了`
 <!-- end code -->
 
+---
 ### Code 分隔
 <!-- 分隔 -->
 <iframe height=370 width=100% src="/blog-vuepress/demo/EmbedTest.html"></iframe>
@@ -93,7 +104,7 @@ clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
 
 :100:
 <!-- end emoji -->
-### tip
+### tip warning danger
 <!-- tip -->
 ---
 ```md
@@ -174,3 +185,20 @@ open預設展開 若要收合刪掉即可
 </details>
 
 <!-- end 收合 -->
+
+### 插入語法補充
+
+```md{1,3-5}
+
+
+
+
+
+
+高亮{1,3-5}
+```
+
+
+```md:no-line-numbers
+取消行數:no-line-numbers
+```

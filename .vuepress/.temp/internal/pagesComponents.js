@@ -17,6 +17,8 @@ export const pagesComponents = {
   "v-768d2905": defineAsyncComponent(() => import(/* webpackChunkName: "v-768d2905" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/portfolio/gameListTranslater.html.vue")),
   // path: /portfolio/
   "v-2e4c18c0": defineAsyncComponent(() => import(/* webpackChunkName: "v-2e4c18c0" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/portfolio/index.html.vue")),
+  // path: /review/%E5%8F%8D%E6%80%9D.html
+  "v-0368d985": defineAsyncComponent(() => import(/* webpackChunkName: "v-0368d985" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/review/反思.html.vue")),
   // path: /tools/url.html
   "v-494c5c92": defineAsyncComponent(() => import(/* webpackChunkName: "v-494c5c92" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/tools/url.html.vue")),
   // path: /tools/vscode.html

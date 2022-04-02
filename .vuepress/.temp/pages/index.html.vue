@@ -4,11 +4,18 @@
 <a href="https://dpes5407.medium.com/" target="_blank" rel="noopener noreferrer"> #Medium<OutboundLink/></a><br>
 <a href="https://v2.vuepress.vuejs.org/reference/default-theme/config.html#basic-config" target="_blank" rel="noopener noreferrer"># 文件~~~<OutboundLink/></a></p>
 <h2 id="markdown-語法"><a class="header-anchor" href="#markdown-語法">#</a> Markdown 語法</h2>
-<h3 id=""><a class="header-anchor" href="#">#</a> ``</h3>
+<hr>
+<h3 id="table-of-content"><a class="header-anchor" href="#table-of-content">#</a> Table of Content</h3>
+<!-- toc -->
+<div class="language-markdown ext-md line-numbers-mode"><pre v-pre class="language-markdown"><code>[[toc]]
+</code></pre><div class="line-numbers"><span class="line-number">1</span><br></div></div><nav class="table-of-contents"><ul><li><RouterLink to="#markdown-語法">Markdown 語法</RouterLink><ul><li><RouterLink to="#table-of-content">Table of Content</RouterLink></li><li><RouterLink to="#強調">強調</RouterLink></li><li><RouterLink to="#code-分隔">Code 分隔</RouterLink></li><li><RouterLink to="#youtube">YouTube</RouterLink></li><li><RouterLink to="#項目符號">項目符號+-</RouterLink></li><li><RouterLink to="#引用">引用&gt;</RouterLink></li><li><RouterLink to="#pic">pic</RouterLink></li><li><RouterLink to="#emoji">emoji</RouterLink></li><li><RouterLink to="#tip-warning-danger">tip warning danger</RouterLink></li><li><RouterLink to="#table">table</RouterLink></li><li><RouterLink to="#展開">展開</RouterLink></li><li><RouterLink to="#收合">收合</RouterLink></li><li><RouterLink to="#插入語法補充">插入語法補充</RouterLink></li></ul></li></ul></nav>
+<!-- end toc -->
+<h3 id="強調"><a class="header-anchor" href="#強調">#</a> <code>強調</code></h3>
 <!-- code -->
 <div class="language-markdown ext-md line-numbers-mode"><pre v-pre class="language-markdown"><code><span class="token code keyword">`我被框起來了`</span>
 </code></pre><div class="line-numbers"><span class="line-number">1</span><br></div></div><p><code>我被框起來了</code></p>
 <!-- end code -->
+<hr>
 <h3 id="code-分隔"><a class="header-anchor" href="#code-分隔">#</a> Code 分隔</h3>
 <!-- 分隔 -->
 <iframe height=370 width=100% src="/blog-vuepress/demo/EmbedTest.html"></iframe>
@@ -79,7 +86,7 @@ clipboard-write; encrypted-media; gyroscope; picture-in-picture<span class="toke
 </code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br></div></div><p>🎉</p>
 <p>💯</p>
 <!-- end emoji -->
-<h3 id="tip"><a class="header-anchor" href="#tip">#</a> tip</h3>
+<h3 id="tip-warning-danger"><a class="header-anchor" href="#tip-warning-danger">#</a> tip warning danger</h3>
 <!-- tip -->
 <hr>
 <div class="language-markdown ext-md line-numbers-mode"><pre v-pre class="language-markdown"><code>::: tip This is a tip 
@@ -181,4 +188,13 @@ open預設展開 若要收合刪掉即可
 </table>
 </details>
 <!-- end 收合 -->
-</template>
+<h3 id="插入語法補充"><a class="header-anchor" href="#插入語法補充">#</a> 插入語法補充</h3>
+<div class="language-markdown ext-md line-numbers-mode"><pre v-pre class="language-markdown"><code>
+
+
+
+
+
+高亮{1,3-5}
+</code></pre><div class="highlight-lines"><div class="highlight-line">&nbsp;</div><br><div class="highlight-line">&nbsp;</div><div class="highlight-line">&nbsp;</div><div class="highlight-line">&nbsp;</div><br><br></div><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br></div></div><div class="language-markdown ext-md"><pre v-pre class="language-markdown"><code>取消行數:no-line-numbers
+</code></pre></div></template>

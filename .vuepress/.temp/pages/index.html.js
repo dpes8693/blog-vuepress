@@ -13,8 +13,14 @@ export const data = {
       "children": [
         {
           "level": 3,
-          "title": "``",
-          "slug": "",
+          "title": "Table of Content",
+          "slug": "table-of-content",
+          "children": []
+        },
+        {
+          "level": 3,
+          "title": "強調",
+          "slug": "強調",
           "children": []
         },
         {
@@ -55,8 +61,8 @@ export const data = {
         },
         {
           "level": 3,
-          "title": "tip",
-          "slug": "tip",
+          "title": "tip warning danger",
+          "slug": "tip-warning-danger",
           "children": []
         },
         {
@@ -76,13 +82,19 @@ export const data = {
           "title": "收合",
           "slug": "收合",
           "children": []
+        },
+        {
+          "level": 3,
+          "title": "插入語法補充",
+          "slug": "插入語法補充",
+          "children": []
         }
       ]
     }
   ],
   "filePathRelative": "README.md",
   "git": {
-    "updatedTime": 1648657295000,
+    "updatedTime": 1648895464000,
     "contributors": [
       {
         "name": "Richard",
@@ -90,14 +102,14 @@ export const data = {
         "commits": 15
       },
       {
-        "name": "林原醇",
-        "email": "richard_lin@tangram.tw",
+        "name": "Richard Lin",
+        "email": "33016870+dpes8693@users.noreply.github.com",
         "commits": 2
       },
       {
-        "name": "Richard Lin",
-        "email": "33016870+dpes8693@users.noreply.github.com",
-        "commits": 1
+        "name": "林原醇",
+        "email": "richard_lin@tangram.tw",
+        "commits": 2
       }
     ]
   }
