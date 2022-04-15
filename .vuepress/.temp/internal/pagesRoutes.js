@@ -9,7 +9,7 @@ const routeItems = [
   ["v-3b074cd4","/portfolio/driveUrl.html","將GoogleDrive分享連結 to 圖片連結",["/portfolio/driveUrl.md"]],
   ["v-768d2905","/portfolio/gameListTranslater.html","Steam遊戲列表 to markdown 表格語法",["/portfolio/gameListTranslater.md"]],
   ["v-2e4c18c0","/portfolio/","作品列表",["/portfolio/index.html","/portfolio/index.md"]],
-  ["v-0368d985","/review/%E5%8F%8D%E6%80%9D.html","反省+自傳?",["/review/反思.html","/review/反思.md","/review/%E5%8F%8D%E6%80%9D.md"]],
+  ["v-0368d985","/review/%E5%8F%8D%E6%80%9D.html","反省?",["/review/反思.html","/review/反思.md","/review/%E5%8F%8D%E6%80%9D.md"]],
   ["v-494c5c92","/tools/url.html","工具網址",["/tools/url.md"]],
   ["v-48b62e3c","/tools/vscode.html","VScode",["/tools/vscode.md"]],
   ["v-07f2110c","/web/common.html","小常識",["/web/common.md"]],

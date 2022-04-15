@@ -1,4 +1,13 @@
-<template><h1 id="反省-自傳"><a class="header-anchor" href="#反省-自傳">#</a> 反省+自傳?</h1>
+<template><h1 id="反省"><a class="header-anchor" href="#反省">#</a> 反省?</h1>
+<!-- 英文，程式
+語法>>function>>{}>>框架模組套件的選擇
+{
+Design Pattern: SOLID
+物件導向
+}
+CI/CD yml shellscript
+docker
+cloud service -->
 <nav class="table-of-contents"><ul><li><RouterLink to="#聊聊-寫-js-code">聊聊 寫 JS Code</RouterLink><ul><li><RouterLink to="#function-題目-我拿到-2-個數-請印出他們相加的答案">[function]題目:我拿到 2 個數 請印出他們相加的答案</RouterLink></li><li><RouterLink to="#四大-function-函數-式-方法-遞迴-建構子-式-和-class">[四大 function()]函數(式)，方法，遞迴，建構子(式)和 class</RouterLink></li></ul></li></ul></nav>
 <!-- ## 聊聊 讀書學習方式 -->
 <h2 id="聊聊-寫-js-code"><a class="header-anchor" href="#聊聊-寫-js-code">#</a> 聊聊 寫 JS Code</h2>

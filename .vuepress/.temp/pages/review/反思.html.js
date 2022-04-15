@@ -1,7 +1,7 @@
 export const data = {
   "key": "v-0368d985",
   "path": "/review/%E5%8F%8D%E6%80%9D.html",
-  "title": "反省+自傳?",
+  "title": "反省?",
   "lang": "zh-tw",
   "frontmatter": {},
   "excerpt": "",
@@ -28,7 +28,13 @@ export const data = {
   ],
   "filePathRelative": "review/反思.md",
   "git": {
-    "updatedTime": null,
-    "contributors": []
+    "updatedTime": 1649169090000,
+    "contributors": [
+      {
+        "name": "Richard Lin",
+        "email": "33016870+dpes8693@users.noreply.github.com",
+        "commits": 2
+      }
+    ]
   }
 }
