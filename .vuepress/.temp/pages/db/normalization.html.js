@@ -14,6 +14,12 @@ export const data = {
     },
     {
       "level": 2,
+      "title": "不好的設計會導致 異常狀況(Anomaly)",
+      "slug": "不好的設計會導致-異常狀況-anomaly",
+      "children": []
+    },
+    {
+      "level": 2,
       "title": "工程師很懶的",
       "slug": "工程師很懶的",
       "children": []
@@ -22,25 +28,12 @@ export const data = {
       "level": 2,
       "title": "1NF 一階正規化",
       "slug": "_1nf-一階正規化",
-      "children": [
-        {
-          "level": 3,
-          "title": "解釋 PK FK 相依來相依去?",
-          "slug": "解釋-pk-fk-相依來相依去",
-          "children": []
-        }
-      ]
+      "children": []
     },
     {
       "level": 2,
       "title": "2NF 二階正規化",
       "slug": "_2nf-二階正規化",
-      "children": []
-    },
-    {
-      "level": 2,
-      "title": "解釋 異常狀況(Anomaly)",
-      "slug": "解釋-異常狀況-anomaly",
       "children": []
     },
     {
@@ -64,20 +57,13 @@ export const data = {
   ],
   "filePathRelative": "db/normalization.md",
   "git": {
-    "updatedTime": null,
-    "contributors": []
+    "updatedTime": 1651334335000,
+    "contributors": [
+      {
+        "name": "Richard Lin",
+        "email": "33016870+dpes8693@users.noreply.github.com",
+        "commits": 1
+      }
+    ]
   }
-}
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
 }

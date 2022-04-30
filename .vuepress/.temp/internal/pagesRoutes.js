@@ -18,7 +18,6 @@ const routeItems = [
   ["v-7dc11caa","/web/noun.html","名詞學習與整理",["/web/noun.md"]],
   ["v-2ca18037","/web/resource.html","深入的學習link",["/web/resource.md"]],
   ["v-1f585632","/web/vue.html","Vue.js練功",["/web/vue.md"]],
-  ["v-6d829d16","/docs/demo/test.html","",["/docs/demo/test.md"]],
   ["v-3706649a","/404.html","",[]],
 ]
 
