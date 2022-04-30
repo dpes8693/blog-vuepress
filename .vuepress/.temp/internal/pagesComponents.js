@@ -3,6 +3,8 @@ import { defineAsyncComponent } from 'vue'
 export const pagesComponents = {
   // path: /
   "v-8daa1a0e": defineAsyncComponent(() => import(/* webpackChunkName: "v-8daa1a0e" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/index.html.vue")),
+  // path: /db/normalization.html
+  "v-be381d98": defineAsyncComponent(() => import(/* webpackChunkName: "v-be381d98" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/db/normalization.html.vue")),
   // path: /guide/buildBlog.html
   "v-926930d6": defineAsyncComponent(() => import(/* webpackChunkName: "v-926930d6" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/guide/buildBlog.html.vue")),
   // path: /guide/plugin.html
@@ -19,6 +21,8 @@ export const pagesComponents = {
   "v-2e4c18c0": defineAsyncComponent(() => import(/* webpackChunkName: "v-2e4c18c0" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/portfolio/index.html.vue")),
   // path: /review/%E5%8F%8D%E6%80%9D.html
   "v-0368d985": defineAsyncComponent(() => import(/* webpackChunkName: "v-0368d985" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/review/反思.html.vue")),
+  // path: /review/%E6%8C%96%E5%9D%91.html
+  "v-1b629b01": defineAsyncComponent(() => import(/* webpackChunkName: "v-1b629b01" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/review/挖坑.html.vue")),
   // path: /tools/url.html
   "v-494c5c92": defineAsyncComponent(() => import(/* webpackChunkName: "v-494c5c92" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/tools/url.html.vue")),
   // path: /tools/vscode.html
@@ -31,6 +35,8 @@ export const pagesComponents = {
   "v-2ca18037": defineAsyncComponent(() => import(/* webpackChunkName: "v-2ca18037" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/web/resource.html.vue")),
   // path: /web/vue.html
   "v-1f585632": defineAsyncComponent(() => import(/* webpackChunkName: "v-1f585632" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/web/vue.html.vue")),
+  // path: /docs/demo/test.html
+  "v-6d829d16": defineAsyncComponent(() => import(/* webpackChunkName: "v-6d829d16" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/docs/demo/test.html.vue")),
   // path: /404.html
   "v-3706649a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3706649a" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/404.html.vue")),
 }

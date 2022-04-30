@@ -67,6 +67,11 @@ module.exports = {
       },
       {
         isGroup: true,
+        text: "DB",
+        children: ["/db/normalization.md",]
+      },
+      {
+        isGroup: true,
         text: "Windows",
         children: ["/others/bashCommonSyntax.md"]
       },

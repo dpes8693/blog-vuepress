@@ -1,6 +1,8 @@
 export const pagesData = {
   // path: /
   "v-8daa1a0e": () => import(/* webpackChunkName: "v-8daa1a0e" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/index.html.js").then(({ data }) => data),
+  // path: /db/normalization.html
+  "v-be381d98": () => import(/* webpackChunkName: "v-be381d98" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/db/normalization.html.js").then(({ data }) => data),
   // path: /guide/buildBlog.html
   "v-926930d6": () => import(/* webpackChunkName: "v-926930d6" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/guide/buildBlog.html.js").then(({ data }) => data),
   // path: /guide/plugin.html
@@ -17,6 +19,8 @@ export const pagesData = {
   "v-2e4c18c0": () => import(/* webpackChunkName: "v-2e4c18c0" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/portfolio/index.html.js").then(({ data }) => data),
   // path: /review/%E5%8F%8D%E6%80%9D.html
   "v-0368d985": () => import(/* webpackChunkName: "v-0368d985" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/review/反思.html.js").then(({ data }) => data),
+  // path: /review/%E6%8C%96%E5%9D%91.html
+  "v-1b629b01": () => import(/* webpackChunkName: "v-1b629b01" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/review/挖坑.html.js").then(({ data }) => data),
   // path: /tools/url.html
   "v-494c5c92": () => import(/* webpackChunkName: "v-494c5c92" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/tools/url.html.js").then(({ data }) => data),
   // path: /tools/vscode.html
@@ -29,6 +33,8 @@ export const pagesData = {
   "v-2ca18037": () => import(/* webpackChunkName: "v-2ca18037" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/web/resource.html.js").then(({ data }) => data),
   // path: /web/vue.html
   "v-1f585632": () => import(/* webpackChunkName: "v-1f585632" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/web/vue.html.js").then(({ data }) => data),
+  // path: /docs/demo/test.html
+  "v-6d829d16": () => import(/* webpackChunkName: "v-6d829d16" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/docs/demo/test.html.js").then(({ data }) => data),
   // path: /404.html
   "v-3706649a": () => import(/* webpackChunkName: "v-3706649a" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/404.html.js").then(({ data }) => data),
 }
