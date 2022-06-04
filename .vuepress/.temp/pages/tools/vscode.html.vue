@@ -1,4 +1,8 @@
 <template><h1 id="vscode"><a class="header-anchor" href="#vscode">#</a> VScode</h1>
+<div class="custom-container tip"><p class="custom-container-title">重點</p>
+<p><code>ctrl G</code> 輸入數字可以快速前往某一行程式碼
+對著變數用<code>F2</code>可以將該檔案變數全部編輯!</p>
+</div>
 <h2 id="vscode-快捷鍵"><a class="header-anchor" href="#vscode-快捷鍵">#</a> VScode 快捷鍵</h2>
 <CodeGroup>
 <CodeGroupItem title="最基本">

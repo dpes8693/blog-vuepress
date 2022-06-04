@@ -213,49 +213,63 @@ PKI(ublic Key Infrastructure){//公開金鑰基礎建設
 
 
 
-<details>
+<!-- <details>
   <summary>網頁攻擊</summary>
   
 ```js
 DDoS(){
 
 }
+SQL injection(){
+
+}
+XSS(){
+
+}
 
 ```
-</details>
+</details> -->
 
-
-
-其他慢慢整理
-
-+ Core-js
-+ crypto-js 加密
-+ nodejs dotenv 套件 環境變數
-+ [env](https://dwatow.github.io/2019/01-26-node-with-env-first/)
-+ uuid 不重複
+##### 看過知道是甚麼
 + [Lo-Dash 函式庫](https://medium.com/itsems-frontend/javascript-lodash-9e6833cb1158)
 + [Polyfill 實現瀏覽器並不支援的原生API的程式碼](https://codertw.com/%E5%89%8D%E7%AB%AF%E9%96%8B%E7%99%BC/29473/)
++ [env](https://dwatow.github.io/2019/01-26-node-with-env-first/)
 + Regex //正則表達
 + SKU //單品 最小單位
 + ORM // 物件關聯映射
++ Debounce Throttling 限制連續請求的機制
++ 名詞(snow pack/vite/eslint/swagger/vuex/vuerouter/nuxt/axios/i18n/polyfill)
+
+
+
+```md
+套件
++ nodejs 
+    + dotenv | 環境變數
+    + uuid | 產生不重複id
+    + Axios | 請求
++ js 函式庫
+    + Lodash
+    + jQuery
++ 架站 template
+    + Hexo
+    + Hugo  | Go 編寫
++ 圖
+    + raster | 點陣圖       
+```
+
+##### 其他
+
++ Core-js
++ crypto-js 加密
 + ngrok //轉址 後端開發
-+ jQuery
-+ Hexo
-+ Hugo
 + GatsbyJS
 + Wyam
 + typescript RxJS
-+ Debounce Throttling 限制連續請求的機制
-+ Lodash 做事件延遲
 + macrotask microtask -> single thread callback time
-+ raster 光柵 小格子
-+ http header分成4種: request general entity  
-+ Axios Instance 
-+ 名詞理解(snow pack/vite/eslint/e2e test/circleCI/alias/swagger
-/vuex/vuerouter/nuxt/axios/i18n/polyfill)
 + CIDR
 + BGP border gateway protocol
-<!-- JavaScript
-jQuery(JavaScript 函式庫)
-初衷是用來簡化 HTML 與 JavaScript 之間的溝通與操作 -->
-```
++ e2e
++ circleCI
++ alias
+

@@ -1,7 +1,7 @@
 export const data = {
   "key": "v-3b87d144",
   "path": "/others/bashCommonSyntax.html",
-  "title": "紀錄我常用的windows語法",
+  "title": "紀錄我用到的windows語法",
   "lang": "zh-tw",
   "frontmatter": {},
   "excerpt": "",

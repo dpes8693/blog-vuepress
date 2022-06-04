@@ -48,16 +48,16 @@
 將其廢物利用改造成可以放鍵盤 | 檯燈支架 | PC 支架
 </code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br></div></div></CodeGroupItem>
 <CodeGroupItem title="圖一">
-<p><img src="/blog-vuepress/images/block1.jpg" alt="Linkedin"></p>
+<p><img src="/blog-vuepress/images/block1.jpg" alt="成品"></p>
 </CodeGroupItem>
 <CodeGroupItem title="圖二">
-<p><img src="/blog-vuepress/images/block2.jpg" alt="Linkedin"></p>
+<p><img src="/blog-vuepress/images/block2.jpg" alt="PC支架"></p>
 </CodeGroupItem>
 <CodeGroupItem title="圖三">
-<p><img src="/blog-vuepress/images/block3.jpg" alt="Linkedin"></p>
+<p><img src="/blog-vuepress/images/block3.jpg" alt="可調式檯燈支架"></p>
 </CodeGroupItem>
 <CodeGroupItem title="圖四">
-<p><img src="/blog-vuepress/images/block4.jpg" alt="Linkedin"></p>
+<p><img src="/blog-vuepress/images/block4.jpg" alt="鍵盤支架"></p>
 </CodeGroupItem>
 </CodeGroup>
 <h3 id="奇葩書桌"><a class="header-anchor" href="#奇葩書桌">#</a> 奇葩書桌</h3>
@@ -90,7 +90,7 @@
 <a href="https://youtube.com/shorts/x35r2quSVwE?feature=share" target="_blank" rel="noopener noreferrer">讓你大吃一驚的影片<OutboundLink/></a></p>
 </CodeGroupItem>
 <CodeGroupItem title="最後的成果圖">
-<p><img src="/blog-vuepress/images/2022-01-diy2.jpg" alt="Linkedin"></p>
+<p><img src="/blog-vuepress/images/2022-01-diy2.jpg" alt="成果圖"></p>
 </CodeGroupItem>
 </CodeGroup>
 <hr>

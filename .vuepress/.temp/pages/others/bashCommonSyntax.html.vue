@@ -1,4 +1,4 @@
-<template><h1 id="紀錄我常用的windows語法"><a class="header-anchor" href="#紀錄我常用的windows語法">#</a> 紀錄我常用的windows語法</h1>
+<template><h1 id="紀錄我用到的windows語法"><a class="header-anchor" href="#紀錄我用到的windows語法">#</a> 紀錄我用到的windows語法</h1>
 <h2 id="run-執行"><a class="header-anchor" href="#run-執行">#</a> Run 執行</h2>
 <div class="language-bash ext-sh line-numbers-mode"><pre v-pre class="language-bash"><code><span class="token comment">#查詢剩餘的激活天數</span>
 slmgr.vbs -xpr 

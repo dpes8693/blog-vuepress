@@ -1,4 +1,4 @@
-# 紀錄我常用的windows語法
+# 紀錄我用到的windows語法
 
 ## Run 執行
 

@@ -82,16 +82,16 @@ Hyo，我是 Richard，一名軟體工程師。
 
 :::
 ::: code-group-item 圖一
-![Linkedin](/blog-vuepress/images/block1.jpg)
+![成品](/blog-vuepress/images/block1.jpg)
 :::
 ::: code-group-item 圖二
-![Linkedin](/blog-vuepress/images/block2.jpg)
+![PC支架](/blog-vuepress/images/block2.jpg)
 :::
 ::: code-group-item 圖三
-![Linkedin](/blog-vuepress/images/block3.jpg)
+![可調式檯燈支架](/blog-vuepress/images/block3.jpg)
 :::
 ::: code-group-item 圖四
-![Linkedin](/blog-vuepress/images/block4.jpg)
+![鍵盤支架](/blog-vuepress/images/block4.jpg)
 :::
 
 ::::
@@ -140,7 +140,7 @@ Hyo，我是 Richard，一名軟體工程師。
 [讓你大吃一驚的影片](https://youtube.com/shorts/x35r2quSVwE?feature=share)
 :::
 ::: code-group-item 最後的成果圖
-![Linkedin](/blog-vuepress/images/2022-01-diy2.jpg)
+![成果圖](/blog-vuepress/images/2022-01-diy2.jpg)
 :::
 
 ::::

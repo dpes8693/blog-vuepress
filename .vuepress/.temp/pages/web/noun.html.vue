@@ -187,44 +187,59 @@
 <a href="https://ithelp.ithome.com.tw/questions/10193796" target="_blank" rel="noopener noreferrer">SSL觀念 iT<OutboundLink/></a>
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Chain_of_trust.svg" alt="CA chain"></p>
 </details>
-<details>
+<!-- <details>
   <summary>網頁攻擊</summary>
-<div class="language-javascript ext-js line-numbers-mode"><pre v-pre class="language-javascript"><code><span class="token function">DDoS</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">{</span>
+  
+```js
+DDoS(){
 
-<span class="token punctuation">}</span>
+}
+SQL injection(){
 
-</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br></div></div></details>
-<p>其他慢慢整理</p>
+}
+XSS(){
+
+}
+
+```
+</details> -->
+<h5 id="看過知道是甚麼"><a class="header-anchor" href="#看過知道是甚麼">#</a> 看過知道是甚麼</h5>
 <ul>
-<li>Core-js</li>
-<li>crypto-js 加密</li>
-<li>nodejs dotenv 套件 環境變數</li>
-<li><a href="https://dwatow.github.io/2019/01-26-node-with-env-first/" target="_blank" rel="noopener noreferrer">env<OutboundLink/></a></li>
-<li>uuid 不重複</li>
 <li><a href="https://medium.com/itsems-frontend/javascript-lodash-9e6833cb1158" target="_blank" rel="noopener noreferrer">Lo-Dash 函式庫<OutboundLink/></a></li>
 <li><a href="https://codertw.com/%E5%89%8D%E7%AB%AF%E9%96%8B%E7%99%BC/29473/" target="_blank" rel="noopener noreferrer">Polyfill 實現瀏覽器並不支援的原生API的程式碼<OutboundLink/></a></li>
+<li><a href="https://dwatow.github.io/2019/01-26-node-with-env-first/" target="_blank" rel="noopener noreferrer">env<OutboundLink/></a></li>
 <li>Regex //正則表達</li>
 <li>SKU //單品 最小單位</li>
 <li>ORM // 物件關聯映射</li>
+<li>Debounce Throttling 限制連續請求的機制</li>
+<li>名詞(snow pack/vite/eslint/swagger/vuex/vuerouter/nuxt/axios/i18n/polyfill)</li>
+</ul>
+<div class="language-markdown ext-md line-numbers-mode"><pre v-pre class="language-markdown"><code>套件
+<span class="token list punctuation">+</span> nodejs 
+    <span class="token list punctuation">+</span> dotenv | 環境變數
+    <span class="token list punctuation">+</span> uuid | 產生不重複id
+    <span class="token list punctuation">+</span> Axios | 請求
+<span class="token list punctuation">+</span> js 函式庫
+    <span class="token list punctuation">+</span> Lodash
+    <span class="token list punctuation">+</span> jQuery
+<span class="token list punctuation">+</span> 架站 template
+    <span class="token list punctuation">+</span> Hexo
+    <span class="token list punctuation">+</span> Hugo  | Go 編寫
+<span class="token list punctuation">+</span> 圖
+    <span class="token list punctuation">+</span> raster | 點陣圖       
+</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br><span class="line-number">11</span><br><span class="line-number">12</span><br><span class="line-number">13</span><br></div></div><h5 id="其他"><a class="header-anchor" href="#其他">#</a> 其他</h5>
+<ul>
+<li>Core-js</li>
+<li>crypto-js 加密</li>
 <li>ngrok //轉址 後端開發</li>
-<li>jQuery</li>
-<li>Hexo</li>
-<li>Hugo</li>
 <li>GatsbyJS</li>
 <li>Wyam</li>
 <li>typescript RxJS</li>
-<li>Debounce Throttling 限制連續請求的機制</li>
-<li>Lodash 做事件延遲</li>
 <li>macrotask microtask -&gt; single thread callback time</li>
-<li>raster 光柵 小格子</li>
-<li>http header分成4種: request general entity</li>
-<li>Axios Instance</li>
-<li>名詞理解(snow pack/vite/eslint/e2e test/circleCI/alias/swagger
-/vuex/vuerouter/nuxt/axios/i18n/polyfill)</li>
 <li>CIDR</li>
 <li>BGP border gateway protocol</li>
+<li>e2e</li>
+<li>circleCI</li>
+<li>alias</li>
 </ul>
-<!-- JavaScript
-jQuery(JavaScript 函式庫)
-初衷是用來簡化 HTML 與 JavaScript 之間的溝通與操作 -->
-<div class="language-text ext-text line-numbers-mode"><pre v-pre class="language-text"><code></code></pre><div class="line-numbers"></div></div></template>
+</template>
