@@ -57,12 +57,12 @@ export const data = {
   ],
   "filePathRelative": "db/normalization.md",
   "git": {
-    "updatedTime": 1651334335000,
+    "updatedTime": 1651339511000,
     "contributors": [
       {
         "name": "Richard Lin",
         "email": "33016870+dpes8693@users.noreply.github.com",
-        "commits": 1
+        "commits": 2
       }
     ]
   }

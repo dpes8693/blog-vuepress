@@ -10,7 +10,8 @@ export const themeData = {
       "isGroup": true,
       "text": "Guide",
       "children": [
-        "/guide/buildBlog.md"
+        "/guide/buildBlog.md",
+        "/guide/markdown.md"
       ]
     },
     {

@@ -4,6 +4,7 @@ const routeItems = [
   ["v-8daa1a0e","/","About Me",["/index.html","/README.md"]],
   ["v-be381d98","/db/normalization.html","資料庫正規化",["/db/normalization.md"]],
   ["v-926930d6","/guide/buildBlog.html","用Vupress架Blog",["/guide/buildBlog.md"]],
+  ["v-0978b044","/guide/markdown.html","Markdown 語法",["/guide/markdown.md"]],
   ["v-1d14d5cc","/guide/plugin.html","Blog 修改的地方 Plugin",["/guide/plugin.md"]],
   ["v-3b87d144","/others/bashCommonSyntax.html","紀錄我常用的windows語法",["/others/bashCommonSyntax.md"]],
   ["v-d367aa3e","/others/testApiSyntax.html","",["/others/testApiSyntax.md"]],

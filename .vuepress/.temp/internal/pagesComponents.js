@@ -7,6 +7,8 @@ export const pagesComponents = {
   "v-be381d98": defineAsyncComponent(() => import(/* webpackChunkName: "v-be381d98" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/db/normalization.html.vue")),
   // path: /guide/buildBlog.html
   "v-926930d6": defineAsyncComponent(() => import(/* webpackChunkName: "v-926930d6" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/guide/buildBlog.html.vue")),
+  // path: /guide/markdown.html
+  "v-0978b044": defineAsyncComponent(() => import(/* webpackChunkName: "v-0978b044" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/guide/markdown.html.vue")),
   // path: /guide/plugin.html
   "v-1d14d5cc": defineAsyncComponent(() => import(/* webpackChunkName: "v-1d14d5cc" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/guide/plugin.html.vue")),
   // path: /others/bashCommonSyntax.html

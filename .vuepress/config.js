@@ -1,4 +1,5 @@
 module.exports = {
+  contributors: false,
   lang: "zh-tw",
   title: "Richard's Blog",
   head: [
@@ -53,7 +54,7 @@ module.exports = {
       {
         isGroup: true,
         text: "Guide",
-        children: ["/guide/buildBlog.md"], //會去抓#的名稱
+        children: ["/guide/buildBlog.md","/guide/markdown.md"], //會去抓#的名稱
       },
       {
         isGroup: true,
