@@ -89,7 +89,8 @@ if (response.rows?.[0]?.vehicles?.airlines?.Mandarin === 'Brt707') console.log('
 
 ::: tip JSON 格式語法
 JSON 格式和js寫物件不同 {"裡面":"要用雙引號"}
-https://youtu.be/R8GL5y49iJc
+
+感謝Alex大大[教學影片](https://youtu.be/R8GL5y49iJc)
 
 :::
 
@@ -142,11 +143,11 @@ https://youtu.be/R8GL5y49iJc
 :::
 
 
-### 練習Vue
+### 學Vue也要知道ES6語法，否則都看不懂
 1. vue cli mixin
 2. ES6
 Destructuring
 variables in string
 Arrow Function
-3. import{}及exportimport{}及export
+3. `import{}`及`exportimport{}`及`export`
 4. vue 傳值

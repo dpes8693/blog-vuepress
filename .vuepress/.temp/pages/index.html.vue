@@ -4,15 +4,15 @@
 <p>喜歡極簡生活，很欣賞日本的工匠精神!</p>
 <p>大四時發現自己其實是物慾很低的人，開始研究怎麼樣生活能最省事(科技始於人性)，常常思考哪些東西是真的需要去購買，爬文才知道有一個名詞叫做<code>極簡生活</code>，本意是多多感受人內心真正想追求的事物~ 找到每個人心中最適合的生活方式。</p>
 <p><s>目標是將家裡的私人物品用 2 個行李箱就能裝完，成為最速搬家大師。</s> <a href="https://youtu.be/xY-G3KjKgAA" target="_blank" rel="noopener noreferrer">大師在此<OutboundLink/></a></p>
-<p>會的語言: <code>英文</code> <code>中文</code> <code>日文</code></p>
-<!-- [本網站](https://dpes8693.github.io/blog-vuepress/)<br/> -->
+<p>會的語言: <code>中文</code> <code>英文</code> <code>台語</code> <code>日文</code></p>
 <!-- [# 文件~~~](https://v2.vuepress.vuejs.org/reference/default-theme/config.html#basic-config) -->
 <h2 id="連結"><a class="header-anchor" href="#連結">#</a> 連結</h2>
-<p><a href="https://github.com/dpes8693" target="_blank" rel="noopener noreferrer">Github<OutboundLink/></a><br/>
-<a href="https://home.gamer.com.tw/creation.php?owner=dpes5407" target="_blank" rel="noopener noreferrer">巴哈姆特-Blog<OutboundLink/></a><br/>
-<a href="https://dpes5407.medium.com/" target="_blank" rel="noopener noreferrer">Medium<OutboundLink/></a><br/>
-<a href="https://twitter.com/dpes5407" target="_blank" rel="noopener noreferrer">Twitter<OutboundLink/></a><br/>
-<a href="https://www.linkedin.com/in/dpes8693/" target="_blank" rel="noopener noreferrer">Linkedin<OutboundLink/></a><br/></p>
+<p><a href="https://dpes8693.github.io/blog-vuepress/" target="_blank" rel="noopener noreferrer">本網站<OutboundLink/></a> 技術相關&amp;作品集<br/>
+<a href="https://github.com/dpes8693" target="_blank" rel="noopener noreferrer">Github<OutboundLink/></a> 經營專案&amp;練習程式碼<br/>
+<a href="https://home.gamer.com.tw/creation.php?owner=dpes5407" target="_blank" rel="noopener noreferrer">巴哈姆特-Blog<OutboundLink/></a> 生活中的科技&amp;遊戲心得<br/>
+<a href="https://dpes5407.medium.com/" target="_blank" rel="noopener noreferrer">Medium<OutboundLink/></a> 個人經驗分享&amp;技術短篇<br/>
+<a href="https://twitter.com/dpes5407" target="_blank" rel="noopener noreferrer">Twitter<OutboundLink/></a> 偶爾發片段程式碼<br/>
+<a href="https://www.linkedin.com/in/dpes8693/" target="_blank" rel="noopener noreferrer">Linkedin<OutboundLink/></a> 找工作<br/></p>
 <h2 id="對我意義很大的文章"><a class="header-anchor" href="#對我意義很大的文章">#</a> 對我意義很大的文章</h2>
 <a href="https://home.gamer.com.tw/artwork.php?sn=4247876">
 <h3>PC 改造 2019</h3>
@@ -40,7 +40,34 @@
 <p>這個部分我覺得影響我很大，我養成遇到問題先爬文找資料 &amp; 有耐心地解決問題的習慣，找不到就自己實驗後寫一篇文章!</p>
 <p>以下分享一下奇葩的 DIY，客家精神拿出來!</p>
 <hr>
-<!-- ### 模組化機車手機架 -->
+<h3 id="模組化機車手機架"><a class="header-anchor" href="#模組化機車手機架">#</a> 模組化機車手機架</h3>
+<CodeGroup>
+<CodeGroupItem title="來龍去脈">
+<div class="language-markdown ext-md line-numbers-mode"><pre v-pre class="language-markdown"><code><span class="token title important"><span class="token punctuation">#</span>2020.07.16人生第一次買自己的機車</span>
+
+因為不希望改車，開始思考如何實現"等紅燈能看導航"這個目標
+最後利用90NT的鐵製手機支架+導航機實驗後達成目標!
+
+比較值得一提的是彎折的角度花了一些時間去調整，騎過科博館抖抖路也沒問題~
+目前用了2年多還是很滿意這種模組化設計，下車後放車廂不用擔心被偷走零件
+
+</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br></div></div></CodeGroupItem>
+<CodeGroupItem title="成品">
+<p><img src="https://drive.google.com/uc?export=download&amp;id=11Ddmi_RRp92s5hTvmC2HuSAkoHisxPVw" alt="成品"></p>
+</CodeGroupItem>
+<CodeGroupItem title="圖-右邊">
+<p><img src="https://drive.google.com/uc?export=download&amp;id=19t8h_-YH_IFUR7eAPKA-St0rYX3fkkUc" alt="圖-右邊"></p>
+</CodeGroupItem>
+<CodeGroupItem title="圖-正面">
+<p><img src="https://drive.google.com/uc?export=download&amp;id=1DMMqFOS0ZI0jQsYmKVUh22z860mWD3fJ" alt="圖-正面"></p>
+</CodeGroupItem>
+<CodeGroupItem title="圖-左邊">
+<p><img src="https://drive.google.com/uc?export=download&amp;id=1U8agvxzfLiHsCW_ws_QzdLnZiOdPxd_o" alt="圖-左邊"></p>
+</CodeGroupItem>
+<CodeGroupItem title="圖-側邊">
+<p><img src="https://drive.google.com/uc?export=download&amp;id=1s8j1LxskGMuR1w5w6BeVgKXDZF0b0MF8" alt="圖-側邊"></p>
+</CodeGroupItem>
+</CodeGroup>
 <h3 id="國小巧連智積木再利用"><a class="header-anchor" href="#國小巧連智積木再利用">#</a> 國小巧連智積木再利用</h3>
 <CodeGroup>
 <CodeGroupItem title="來龍去脈">
@@ -48,16 +75,16 @@
 將其廢物利用改造成可以放鍵盤 | 檯燈支架 | PC 支架
 </code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br></div></div></CodeGroupItem>
 <CodeGroupItem title="圖一">
-<p><img src="/blog-vuepress/images/block1.jpg" alt="成品"></p>
+<p><img src="https://drive.google.com/uc?export=download&amp;id=1Cjj3_kUes5_kJZ72WKCBTBooMrHUrJIS" alt="成品"></p>
 </CodeGroupItem>
 <CodeGroupItem title="圖二">
-<p><img src="/blog-vuepress/images/block2.jpg" alt="PC支架"></p>
+<p><img src="https://drive.google.com/uc?export=download&amp;id=1hG6SlnlS1xjJ1jaHDfP5p-T1zxobQsdx" alt="PC支架"></p>
 </CodeGroupItem>
 <CodeGroupItem title="圖三">
-<p><img src="/blog-vuepress/images/block3.jpg" alt="可調式檯燈支架"></p>
+<p><img src="https://drive.google.com/uc?export=download&amp;id=11vI3SNLaacBTPlgxzCmU0LeNLSUqzl_f" alt="可調式檯燈支架"></p>
 </CodeGroupItem>
 <CodeGroupItem title="圖四">
-<p><img src="/blog-vuepress/images/block4.jpg" alt="鍵盤支架"></p>
+<p><img src="https://drive.google.com/uc?export=download&amp;id=1VAJvJgYJwq22GXnPVpoDvErUXk-efVSU" alt="鍵盤支架"></p>
 </CodeGroupItem>
 </CodeGroup>
 <h3 id="奇葩書桌"><a class="header-anchor" href="#奇葩書桌">#</a> 奇葩書桌</h3>
@@ -73,10 +100,10 @@
 可以不花太多時間切換成玩賽車遊戲~但後來變得比較少玩遊戲(生灰塵)
 </code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br></div></div></CodeGroupItem>
 <CodeGroupItem title="圖一">
-<p><img src="/blog-vuepress/images/room2.jpg" alt="room2"></p>
+<p><img src="https://drive.google.com/uc?export=download&amp;id=1hcAbrD6v-EZjON49tAZZ9E-XSMsTCRF1" alt="room2"></p>
 </CodeGroupItem>
 <CodeGroupItem title="圖二">
-<p><img src="/blog-vuepress/images/room1.jpg" alt="room1"></p>
+<p><img src="https://drive.google.com/uc?export=download&amp;id=1XI1oa3gl6GGsbSLkr_HcDx8ISUWfoLQg" alt="room1"></p>
 </CodeGroupItem>
 </CodeGroup>
 <h3 id="奇葩洗手台"><a class="header-anchor" href="#奇葩洗手台">#</a> 奇葩洗手台</h3>
@@ -90,7 +117,7 @@
 <a href="https://youtube.com/shorts/x35r2quSVwE?feature=share" target="_blank" rel="noopener noreferrer">讓你大吃一驚的影片<OutboundLink/></a></p>
 </CodeGroupItem>
 <CodeGroupItem title="最後的成果圖">
-<p><img src="/blog-vuepress/images/2022-01-diy2.jpg" alt="成果圖"></p>
+<p><img src="https://drive.google.com/uc?export=download&amp;id=1fdUweCDobbJz21_OuHn88-PVxr3bFwdU" alt="成果圖"></p>
 </CodeGroupItem>
 </CodeGroup>
 <hr>

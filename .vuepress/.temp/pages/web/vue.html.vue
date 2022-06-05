@@ -67,8 +67,8 @@ The template root requires exactly one element.
 </code></pre>
 </div>
 <div class="custom-container tip"><p class="custom-container-title">JSON 格式語法</p>
-<p>JSON 格式和js寫物件不同 {&quot;裡面&quot;:&quot;要用雙引號&quot;}
-https://youtu.be/R8GL5y49iJc</p>
+<p>JSON 格式和js寫物件不同 {&quot;裡面&quot;:&quot;要用雙引號&quot;}</p>
+<p>感謝Alex大大<a href="https://youtu.be/R8GL5y49iJc" target="_blank" rel="noopener noreferrer">教學影片<OutboundLink/></a></p>
 </div>
 <details class="custom-container details"><summary>[舉個例子]</summary>
 <div class="language-javascript ext-js line-numbers-mode"><pre v-pre class="language-javascript"><code>    <span class="token keyword">let</span> number <span class="token operator">=</span> <span class="token number">1</span>
@@ -115,14 +115,14 @@ https://youtu.be/R8GL5y49iJc</p>
     <span class="token keyword">const</span> <span class="token function-variable function">funcA</span> <span class="token operator">=</span> <span class="token parameter">x</span> <span class="token operator">=></span> x <span class="token operator">+</span> <span class="token number">1</span> <span class="token comment">//2</span>
     <span class="token keyword">const</span> <span class="token function-variable function">funcB</span> <span class="token operator">=</span> <span class="token parameter">x</span> <span class="token operator">=></span> <span class="token punctuation">{</span> x <span class="token operator">+</span> <span class="token number">1</span> <span class="token punctuation">}</span> <span class="token comment">//undefined</span>
 </code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br><span class="line-number">11</span><br><span class="line-number">12</span><br><span class="line-number">13</span><br><span class="line-number">14</span><br><span class="line-number">15</span><br><span class="line-number">16</span><br><span class="line-number">17</span><br><span class="line-number">18</span><br><span class="line-number">19</span><br><span class="line-number">20</span><br><span class="line-number">21</span><br><span class="line-number">22</span><br><span class="line-number">23</span><br><span class="line-number">24</span><br><span class="line-number">25</span><br><span class="line-number">26</span><br><span class="line-number">27</span><br><span class="line-number">28</span><br><span class="line-number">29</span><br><span class="line-number">30</span><br><span class="line-number">31</span><br><span class="line-number">32</span><br><span class="line-number">33</span><br><span class="line-number">34</span><br><span class="line-number">35</span><br><span class="line-number">36</span><br><span class="line-number">37</span><br><span class="line-number">38</span><br><span class="line-number">39</span><br><span class="line-number">40</span><br><span class="line-number">41</span><br><span class="line-number">42</span><br><span class="line-number">43</span><br></div></div></details>
-<h3 id="練習vue"><a class="header-anchor" href="#練習vue">#</a> 練習Vue</h3>
+<h3 id="學vue也要知道es6語法-否則都看不懂"><a class="header-anchor" href="#學vue也要知道es6語法-否則都看不懂">#</a> 學Vue也要知道ES6語法，否則都看不懂</h3>
 <ol>
 <li>vue cli mixin</li>
 <li>ES6
 Destructuring
 variables in string
 Arrow Function</li>
-<li>import{}及exportimport{}及export</li>
+<li><code>import{}</code>及<code>exportimport{}</code>及<code>export</code></li>
 <li>vue 傳值</li>
 </ol>
 </template>

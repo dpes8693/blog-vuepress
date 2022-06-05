@@ -1,16 +1,11 @@
 <template><h1 id="主題列表"><a class="header-anchor" href="#主題列表">#</a> 主題列表</h1>
+<p>learning-with-tuco\2022\playground.md</p>
 <p>p5.js 炫炮
-canvas 2D遊戲
 socket.io 即時連線軟體
 line bot api
 virsody.io 黑洞 線上履歷博物館展覽
-Git 版本控制
 yml語法
-CI/CD
-https://youtu.be/sqrKB1yuAek</p>
-<h2 id="阿醇規則"><a class="header-anchor" href="#阿醇規則">#</a> 阿醇規則</h2>
-<p>持續的輸入/輸出 才記得住!
-聰明也好笨也好 大家的記憶力9成都差不多 次數才是關鍵</p>
+<a href="https://youtu.be/sqrKB1yuAek" target="_blank" rel="noopener noreferrer">CI/CD<OutboundLink/></a></p>
 <h2 id="前端面試題庫"><a class="header-anchor" href="#前端面試題庫">#</a> 前端面試題庫</h2>
 <p>https://blog.moli.rocks/2019/02/04/y20190205y/</p>
 <h3 id="ddd大王"><a class="header-anchor" href="#ddd大王">#</a> DDD大王</h3>

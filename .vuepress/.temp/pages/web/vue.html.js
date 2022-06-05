@@ -43,8 +43,8 @@ export const data = {
         },
         {
           "level": 3,
-          "title": "練習Vue",
-          "slug": "練習vue",
+          "title": "學Vue也要知道ES6語法，否則都看不懂",
+          "slug": "學vue也要知道es6語法-否則都看不懂",
           "children": []
         }
       ]

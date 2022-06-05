@@ -8,12 +8,6 @@ export const data = {
   "headers": [
     {
       "level": 2,
-      "title": "阿醇規則",
-      "slug": "阿醇規則",
-      "children": []
-    },
-    {
-      "level": 2,
       "title": "前端面試題庫",
       "slug": "前端面試題庫",
       "children": [

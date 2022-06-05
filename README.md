@@ -11,18 +11,18 @@ Hyo，我是 Richard，一名軟體工程師。
 ~~目標是將家裡的私人物品用 2 個行李箱就能裝完，成為最速搬家大師。~~ [大師在此](https://youtu.be/xY-G3KjKgAA)
 
 
-會的語言: `英文` `中文` `日文`
+會的語言: `中文` `英文` `台語` `日文`
 
-<!-- [本網站](https://dpes8693.github.io/blog-vuepress/)<br/> -->
 <!-- [# 文件~~~](https://v2.vuepress.vuejs.org/reference/default-theme/config.html#basic-config) -->
 
 ## 連結
 
-[Github](https://github.com/dpes8693)<br/>
-[巴哈姆特-Blog](https://home.gamer.com.tw/creation.php?owner=dpes5407)<br/>
-[Medium](https://dpes5407.medium.com/)<br/>
-[Twitter](https://twitter.com/dpes5407)<br/>
-[Linkedin](https://www.linkedin.com/in/dpes8693/)<br/>
+[本網站](https://dpes8693.github.io/blog-vuepress/) 技術相關&作品集<br/>
+[Github](https://github.com/dpes8693) 經營專案&練習程式碼<br/>
+[巴哈姆特-Blog](https://home.gamer.com.tw/creation.php?owner=dpes5407) 生活中的科技&遊戲心得<br/>
+[Medium](https://dpes5407.medium.com/) 個人經驗分享&技術短篇<br/>
+[Twitter](https://twitter.com/dpes5407) 偶爾發片段程式碼<br/>
+[Linkedin](https://www.linkedin.com/in/dpes8693/) 找工作<br/>
 
 ## 對我意義很大的文章
 
@@ -67,7 +67,41 @@ Hyo，我是 Richard，一名軟體工程師。
 
 ---
 
-<!-- ### 模組化機車手機架 -->
+### 模組化機車手機架
+
+:::: code-group
+
+::: code-group-item 來龍去脈
+
+```md
+#2020.07.16人生第一次買自己的機車
+
+因為不希望改車，開始思考如何實現"等紅燈能看導航"這個目標
+最後利用90NT的鐵製手機支架+導航機實驗後達成目標!
+
+比較值得一提的是彎折的角度花了一些時間去調整，騎過科博館抖抖路也沒問題~
+目前用了2年多還是很滿意這種模組化設計，下車後放車廂不用擔心被偷走零件
+
+```
+
+:::
+::: code-group-item 成品
+![成品](https://drive.google.com/uc?export=download&id=11Ddmi_RRp92s5hTvmC2HuSAkoHisxPVw)
+:::
+::: code-group-item 圖-右邊
+![圖-右邊](https://drive.google.com/uc?export=download&id=19t8h_-YH_IFUR7eAPKA-St0rYX3fkkUc)
+:::
+::: code-group-item 圖-正面
+![圖-正面](https://drive.google.com/uc?export=download&id=1DMMqFOS0ZI0jQsYmKVUh22z860mWD3fJ)
+:::
+::: code-group-item 圖-左邊
+![圖-左邊](https://drive.google.com/uc?export=download&id=1U8agvxzfLiHsCW_ws_QzdLnZiOdPxd_o)
+:::
+::: code-group-item 圖-側邊
+![圖-側邊](https://drive.google.com/uc?export=download&id=1s8j1LxskGMuR1w5w6BeVgKXDZF0b0MF8)
+:::
+
+::::
 
 ### 國小巧連智積木再利用
 
@@ -82,16 +116,16 @@ Hyo，我是 Richard，一名軟體工程師。
 
 :::
 ::: code-group-item 圖一
-![成品](/blog-vuepress/images/block1.jpg)
+![成品](https://drive.google.com/uc?export=download&id=1Cjj3_kUes5_kJZ72WKCBTBooMrHUrJIS)
 :::
 ::: code-group-item 圖二
-![PC支架](/blog-vuepress/images/block2.jpg)
+![PC支架](https://drive.google.com/uc?export=download&id=1hG6SlnlS1xjJ1jaHDfP5p-T1zxobQsdx)
 :::
 ::: code-group-item 圖三
-![可調式檯燈支架](/blog-vuepress/images/block3.jpg)
+![可調式檯燈支架](https://drive.google.com/uc?export=download&id=11vI3SNLaacBTPlgxzCmU0LeNLSUqzl_f)
 :::
 ::: code-group-item 圖四
-![鍵盤支架](/blog-vuepress/images/block4.jpg)
+![鍵盤支架](https://drive.google.com/uc?export=download&id=1VAJvJgYJwq22GXnPVpoDvErUXk-efVSU)
 :::
 
 ::::
@@ -115,10 +149,10 @@ Hyo，我是 Richard，一名軟體工程師。
 
 :::
 ::: code-group-item 圖一
-![room2](/blog-vuepress/images/room2.jpg)
+![room2](https://drive.google.com/uc?export=download&id=1hcAbrD6v-EZjON49tAZZ9E-XSMsTCRF1)
 :::
 ::: code-group-item 圖二
-![room1](/blog-vuepress/images/room1.jpg)
+![room1](https://drive.google.com/uc?export=download&id=1XI1oa3gl6GGsbSLkr_HcDx8ISUWfoLQg)
 :::
 
 ::::
@@ -140,7 +174,7 @@ Hyo，我是 Richard，一名軟體工程師。
 [讓你大吃一驚的影片](https://youtube.com/shorts/x35r2quSVwE?feature=share)
 :::
 ::: code-group-item 最後的成果圖
-![成果圖](/blog-vuepress/images/2022-01-diy2.jpg)
+![成果圖](https://drive.google.com/uc?export=download&id=1fdUweCDobbJz21_OuHn88-PVxr3bFwdU)
 :::
 
 ::::
