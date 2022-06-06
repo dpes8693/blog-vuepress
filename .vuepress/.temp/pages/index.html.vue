@@ -8,11 +8,14 @@
 <!-- [# 文件~~~](https://v2.vuepress.vuejs.org/reference/default-theme/config.html#basic-config) -->
 <h2 id="連結"><a class="header-anchor" href="#連結">#</a> 連結</h2>
 <p><a href="https://dpes8693.github.io/blog-vuepress/" target="_blank" rel="noopener noreferrer">本網站<OutboundLink/></a> 技術相關&amp;作品集<br/>
-<a href="https://github.com/dpes8693" target="_blank" rel="noopener noreferrer">Github<OutboundLink/></a> 經營專案&amp;練習程式碼<br/>
 <a href="https://home.gamer.com.tw/creation.php?owner=dpes5407" target="_blank" rel="noopener noreferrer">巴哈姆特-Blog<OutboundLink/></a> 生活中的科技&amp;遊戲心得<br/>
-<a href="https://dpes5407.medium.com/" target="_blank" rel="noopener noreferrer">Medium<OutboundLink/></a> 個人經驗分享&amp;技術短篇<br/>
+<a href="https://dpes5407.medium.com/" target="_blank" rel="noopener noreferrer">Medium<OutboundLink/></a> 個人經驗分享&amp;技術短篇<br/></p>
+<p><a href="https://github.com/dpes8693" target="_blank" rel="noopener noreferrer">Github<OutboundLink/></a> 經營專案&amp;練習程式碼<br/>
 <a href="https://twitter.com/dpes5407" target="_blank" rel="noopener noreferrer">Twitter<OutboundLink/></a> 偶爾發片段程式碼<br/>
 <a href="https://www.linkedin.com/in/dpes8693/" target="_blank" rel="noopener noreferrer">Linkedin<OutboundLink/></a> 找工作<br/></p>
+<p><a href="https://line.me/ti/p/~@318kpenv" target="_blank" rel="noopener noreferrer">Line 帳號-教練,我會學好英文<OutboundLink/></a> 定期發文練英文&amp;創作能力<br/></p>
+<h2 id="seo-上榜紀錄"><a class="header-anchor" href="#seo-上榜紀錄">#</a> SEO 上榜紀錄</h2>
+<p>統整在 <a href="https://hackmd.io/@dpes5407/rkeh0S4AO" target="_blank" rel="noopener noreferrer">Hackmd<OutboundLink/></a></p>
 <h2 id="對我意義很大的文章"><a class="header-anchor" href="#對我意義很大的文章">#</a> 對我意義很大的文章</h2>
 <a href="https://home.gamer.com.tw/artwork.php?sn=4247876">
 <h3>PC 改造 2019</h3>
@@ -43,15 +46,14 @@
 <h3 id="模組化機車手機架"><a class="header-anchor" href="#模組化機車手機架">#</a> 模組化機車手機架</h3>
 <CodeGroup>
 <CodeGroupItem title="來龍去脈">
-<div class="language-markdown ext-md line-numbers-mode"><pre v-pre class="language-markdown"><code><span class="token title important"><span class="token punctuation">#</span>2020.07.16人生第一次買自己的機車</span>
+<div class="language-markdown ext-md line-numbers-mode"><pre v-pre class="language-markdown"><code><span class="token title important"><span class="token punctuation">#</span>2020.07.16 人生第一次買自己的機車</span>
 
 因為不希望改車，開始思考如何實現"等紅燈能看導航"這個目標
-最後利用90NT的鐵製手機支架+導航機實驗後達成目標!
+最後利用 90NT 的鐵製手機支架+導航機實驗後達成目標!
 
 比較值得一提的是彎折的角度花了一些時間去調整，騎過科博館抖抖路也沒問題~
-目前用了2年多還是很滿意這種模組化設計，下車後放車廂不用擔心被偷走零件
-
-</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br></div></div></CodeGroupItem>
+目前用了 2 年多還是很滿意這種模組化設計，下車後放車廂不用擔心被偷走零件
+</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br></div></div></CodeGroupItem>
 <CodeGroupItem title="成品">
 <p><img src="https://drive.google.com/uc?export=download&amp;id=11Ddmi_RRp92s5hTvmC2HuSAkoHisxPVw" alt="成品"></p>
 </CodeGroupItem>

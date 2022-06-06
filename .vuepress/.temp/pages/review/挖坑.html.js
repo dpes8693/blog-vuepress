@@ -22,12 +22,12 @@ export const data = {
   ],
   "filePathRelative": "review/挖坑.md",
   "git": {
-    "updatedTime": 1650988290000,
+    "updatedTime": 1654417752000,
     "contributors": [
       {
         "name": "Richard Lin",
         "email": "33016870+dpes8693@users.noreply.github.com",
-        "commits": 1
+        "commits": 2
       }
     ]
   }

@@ -1,8 +1,10 @@
 export const pagesData = {
   // path: /
   "v-8daa1a0e": () => import(/* webpackChunkName: "v-8daa1a0e" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/index.html.js").then(({ data }) => data),
-  // path: /db/normalization.html
-  "v-be381d98": () => import(/* webpackChunkName: "v-be381d98" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/db/normalization.html.js").then(({ data }) => data),
+  // path: /backend/normalization.html
+  "v-167f0e70": () => import(/* webpackChunkName: "v-167f0e70" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/backend/normalization.html.js").then(({ data }) => data),
+  // path: /backend/noun.html
+  "v-311f716b": () => import(/* webpackChunkName: "v-311f716b" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/backend/noun.html.js").then(({ data }) => data),
   // path: /guide/buildBlog.html
   "v-926930d6": () => import(/* webpackChunkName: "v-926930d6" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/guide/buildBlog.html.js").then(({ data }) => data),
   // path: /guide/markdown.html
@@ -35,6 +37,10 @@ export const pagesData = {
   "v-2ca18037": () => import(/* webpackChunkName: "v-2ca18037" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/web/resource.html.js").then(({ data }) => data),
   // path: /web/vue.html
   "v-1f585632": () => import(/* webpackChunkName: "v-1f585632" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/web/vue.html.js").then(({ data }) => data),
+  // path: /backend/express/file-type.html
+  "v-2eeca661": () => import(/* webpackChunkName: "v-2eeca661" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/backend/express/file-type.html.js").then(({ data }) => data),
+  // path: /backend/express/
+  "v-58947e5a": () => import(/* webpackChunkName: "v-58947e5a" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/backend/express/index.html.js").then(({ data }) => data),
   // path: /404.html
   "v-3706649a": () => import(/* webpackChunkName: "v-3706649a" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/404.html.js").then(({ data }) => data),
 }

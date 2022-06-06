@@ -26,7 +26,7 @@ Hyo，我是 Richard，一名軟體工程師。
 
 [Line 帳號-教練,我會學好英文](https://line.me/ti/p/~@318kpenv) 定期發文練英文&創作能力<br/>
 
-## SEO 上榜紀錄(?
+## SEO 上榜紀錄
 
 統整在 [Hackmd](https://hackmd.io/@dpes5407/rkeh0S4AO)
 

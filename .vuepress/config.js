@@ -68,8 +68,8 @@ module.exports = {
       },
       {
         isGroup: true,
-        text: "DB",
-        children: ["/db/normalization.md",]
+        text: "Backend",
+        children: ["/backend/noun.md","/backend/express/index.md","/backend/normalization.md"]
       },
       {
         isGroup: true,

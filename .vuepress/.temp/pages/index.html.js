@@ -14,6 +14,12 @@ export const data = {
     },
     {
       "level": 2,
+      "title": "SEO 上榜紀錄",
+      "slug": "seo-上榜紀錄",
+      "children": []
+    },
+    {
+      "level": 2,
       "title": "對我意義很大的文章",
       "slug": "對我意義很大的文章",
       "children": []
@@ -52,7 +58,7 @@ export const data = {
   ],
   "filePathRelative": "README.md",
   "git": {
-    "updatedTime": 1654357687000,
+    "updatedTime": 1654518685000,
     "contributors": [
       {
         "name": "Richard",
@@ -62,7 +68,7 @@ export const data = {
       {
         "name": "Richard Lin",
         "email": "33016870+dpes8693@users.noreply.github.com",
-        "commits": 5
+        "commits": 7
       },
       {
         "name": "林原醇",

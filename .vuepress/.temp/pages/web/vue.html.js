@@ -52,7 +52,7 @@ export const data = {
   ],
   "filePathRelative": "web/vue.md",
   "git": {
-    "updatedTime": 1648819197000,
+    "updatedTime": 1654417752000,
     "contributors": [
       {
         "name": "Richard",
@@ -62,7 +62,7 @@ export const data = {
       {
         "name": "Richard Lin",
         "email": "33016870+dpes8693@users.noreply.github.com",
-        "commits": 4
+        "commits": 5
       }
     ]
   }

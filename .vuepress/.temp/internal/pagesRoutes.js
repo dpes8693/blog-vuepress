@@ -2,7 +2,8 @@ import { Vuepress } from '@vuepress/client/lib/components/Vuepress'
 
 const routeItems = [
   ["v-8daa1a0e","/","About Me",["/index.html","/README.md"]],
-  ["v-be381d98","/db/normalization.html","資料庫正規化",["/db/normalization.md"]],
+  ["v-167f0e70","/backend/normalization.html","資料庫正規化",["/backend/normalization.md"]],
+  ["v-311f716b","/backend/noun.html","後端要懂得知識",["/backend/noun.md"]],
   ["v-926930d6","/guide/buildBlog.html","用Vupress架Blog",["/guide/buildBlog.md"]],
   ["v-0978b044","/guide/markdown.html","Markdown 語法",["/guide/markdown.md"]],
   ["v-1d14d5cc","/guide/plugin.html","Blog 修改的地方 Plugin",["/guide/plugin.md"]],
@@ -19,6 +20,8 @@ const routeItems = [
   ["v-7dc11caa","/web/noun.html","名詞學習與整理",["/web/noun.md"]],
   ["v-2ca18037","/web/resource.html","深入的學習link",["/web/resource.md"]],
   ["v-1f585632","/web/vue.html","Vue.js練功",["/web/vue.md"]],
+  ["v-2eeca661","/backend/express/file-type.html","如何判斷上傳檔案格式 file-type 簡介",["/backend/express/file-type.md"]],
+  ["v-58947e5a","/backend/express/","Express code example",["/backend/express/index.html","/backend/express/index.md"]],
   ["v-3706649a","/404.html","",[]],
 ]
 

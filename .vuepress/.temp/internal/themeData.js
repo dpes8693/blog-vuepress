@@ -33,9 +33,11 @@ export const themeData = {
     },
     {
       "isGroup": true,
-      "text": "DB",
+      "text": "Backend",
       "children": [
-        "/db/normalization.md"
+        "/backend/noun.md",
+        "/backend/express/index.md",
+        "/backend/normalization.md"
       ]
     },
     {
