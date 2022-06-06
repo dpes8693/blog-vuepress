@@ -10,7 +10,6 @@ Hyo，我是 Richard，一名軟體工程師。
 
 ~~目標是將家裡的私人物品用 2 個行李箱就能裝完，成為最速搬家大師。~~ [大師在此](https://youtu.be/xY-G3KjKgAA)
 
-
 會的語言: `中文` `英文` `台語` `日文`
 
 <!-- [# 文件~~~](https://v2.vuepress.vuejs.org/reference/default-theme/config.html#basic-config) -->
@@ -18,11 +17,18 @@ Hyo，我是 Richard，一名軟體工程師。
 ## 連結
 
 [本網站](https://dpes8693.github.io/blog-vuepress/) 技術相關&作品集<br/>
-[Github](https://github.com/dpes8693) 經營專案&練習程式碼<br/>
 [巴哈姆特-Blog](https://home.gamer.com.tw/creation.php?owner=dpes5407) 生活中的科技&遊戲心得<br/>
 [Medium](https://dpes5407.medium.com/) 個人經驗分享&技術短篇<br/>
+
+[Github](https://github.com/dpes8693) 經營專案&練習程式碼<br/>
 [Twitter](https://twitter.com/dpes5407) 偶爾發片段程式碼<br/>
 [Linkedin](https://www.linkedin.com/in/dpes8693/) 找工作<br/>
+
+[Line 帳號-教練,我會學好英文](https://line.me/ti/p/~@318kpenv) 定期發文練英文&創作能力<br/>
+
+## SEO 上榜紀錄(?
+
+統整在 [Hackmd](https://hackmd.io/@dpes5407/rkeh0S4AO)
 
 ## 對我意義很大的文章
 
@@ -53,8 +59,6 @@ Hyo，我是 Richard，一名軟體工程師。
 
 那時候想學 P 圖技術，網路上下載的 PC 文字超小，用中文搜尋找不到解決方案。後來爬了國外網站才找到解法! 想說不如我來起頭寫中文版的解法，第一次感受到點閱率超過 1000!
 
-
-
 ## 動手玩創意
 
 小時候我就是個好奇寶寶，很想了解電器內部是怎麼運作的，如果有淘汰的電器就想拿螺絲起子把它拆了!
@@ -74,14 +78,13 @@ Hyo，我是 Richard，一名軟體工程師。
 ::: code-group-item 來龍去脈
 
 ```md
-#2020.07.16人生第一次買自己的機車
+#2020.07.16 人生第一次買自己的機車
 
 因為不希望改車，開始思考如何實現"等紅燈能看導航"這個目標
-最後利用90NT的鐵製手機支架+導航機實驗後達成目標!
+最後利用 90NT 的鐵製手機支架+導航機實驗後達成目標!
 
 比較值得一提的是彎折的角度花了一些時間去調整，騎過科博館抖抖路也沒問題~
-目前用了2年多還是很滿意這種模組化設計，下車後放車廂不用擔心被偷走零件
-
+目前用了 2 年多還是很滿意這種模組化設計，下車後放車廂不用擔心被偷走零件
 ```
 
 :::
@@ -180,4 +183,3 @@ Hyo，我是 Richard，一名軟體工程師。
 ::::
 
 ---
-
