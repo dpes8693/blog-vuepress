@@ -12,19 +12,21 @@ Hyo，我是 Richard，一名軟體工程師。
 
 會的語言: `中文` `英文` `台語` `日文`
 
+
 <!-- [# 文件~~~](https://v2.vuepress.vuejs.org/reference/default-theme/config.html#basic-config) -->
 
 ## 連結
 
 [本網站](https://dpes8693.github.io/blog-vuepress/) 技術相關&作品集<br/>
 [巴哈姆特-Blog](https://home.gamer.com.tw/creation.php?owner=dpes5407) 生活中的科技&遊戲心得<br/>
-[Medium](https://dpes5407.medium.com/) 個人經驗分享&技術短篇<br/>
+[Medium](https://dpes5407.medium.com/) 生活經驗分享&技術短篇<br/>
+[Hackmd](https://hackmd.io/@dpes5407) 隨筆<br/>
 
 [Github](https://github.com/dpes8693) 經營專案&練習程式碼<br/>
 [Twitter](https://twitter.com/dpes5407) 偶爾發片段程式碼<br/>
 [Linkedin](https://www.linkedin.com/in/dpes8693/) 找工作<br/>
 
-[Line 帳號-教練,我會學好英文](https://line.me/ti/p/~@318kpenv) 定期發文練英文&創作能力<br/>
+[Line 帳號-教練,我會學好英文](https://line.me/ti/p/~@318kpenv) 看圖背單字 | 練英文+Figma<br/>
 
 ## SEO 上榜紀錄
 
@@ -57,15 +59,15 @@ Hyo，我是 Richard，一名軟體工程師。
 
 這篇是大學寫的，也是啟蒙我開始寫部落格的一篇文章。
 
-那時候想學 P 圖技術，網路上下載的 PC 文字超小，用中文搜尋找不到解決方案。後來爬了國外網站才找到解法! 想說不如我來起頭寫中文版的解法，第一次感受到點閱率超過 1000!
+那時候想學 P 圖技術，網路上下載的 PS 文字超小，用中文搜尋找不到解決方案。後來爬了國外網站才找到解法! 想說不如我來起頭寫中文版的解法，第一次感受到點閱率超過 1000!
 
 ## 動手玩創意
 
-小時候我就是個好奇寶寶，很想了解電器內部是怎麼運作的，如果有淘汰的電器就想拿螺絲起子把它拆了!
+小時候就很想了解電器內部是怎麼運作的，如果有淘汰的電器就想拿螺絲起子把它拆了! 拆過電風扇、吹風機、家用電話、智慧型手機、平板、耳機...etc
 
 > OS: 拆了啦，哪次不拆
 
-這個部分我覺得影響我很大，我養成遇到問題先爬文找資料 & 有耐心地解決問題的習慣，找不到就自己實驗後寫一篇文章!
+這個部分我覺得影響我蠻多的，我養成遇到問題先爬文找資料 & 有耐心地解決問題的習慣，找不到就自己實驗後寫一些文章做紀錄!
 
 以下分享一下奇葩的 DIY，客家精神拿出來!
 
@@ -183,3 +185,11 @@ Hyo，我是 Richard，一名軟體工程師。
 ::::
 
 ---
+
+## 其他
+
+有一定經驗的職務內容: 
+
+`宿舍樓管` `數學家教`
+
+`AR` `MIS` `UX` `Web Frontend`
