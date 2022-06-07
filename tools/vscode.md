@@ -1,8 +1,14 @@
 # VScode
 
+[VScode 終端機技巧](https://dpes5407.medium.com/vscode-terminal-tips-%E7%B5%82%E7%AB%AF%E6%A9%9F-%E6%8A%80%E5%B7%A7-99e284b81be4)
+
 ::: tip 重點
 `ctrl G` 輸入數字可以快速前往某一行程式碼
+
 對著變數用`F2`可以將該檔案變數全部編輯!
+
+VScode新增檔案時名稱帶入階層會自動創建資料夾
+`a/b.html` 會自動創建 a資料夾和 b.html
 :::
 
 ## VScode 快捷鍵

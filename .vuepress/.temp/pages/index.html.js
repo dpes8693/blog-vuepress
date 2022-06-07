@@ -54,11 +54,17 @@ export const data = {
           "children": []
         }
       ]
+    },
+    {
+      "level": 2,
+      "title": "其他",
+      "slug": "其他",
+      "children": []
     }
   ],
   "filePathRelative": "README.md",
   "git": {
-    "updatedTime": 1654518685000,
+    "updatedTime": 1654585501000,
     "contributors": [
       {
         "name": "Richard",
@@ -68,7 +74,7 @@ export const data = {
       {
         "name": "Richard Lin",
         "email": "33016870+dpes8693@users.noreply.github.com",
-        "commits": 7
+        "commits": 9
       },
       {
         "name": "林原醇",

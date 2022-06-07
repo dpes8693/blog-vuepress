@@ -9,11 +9,12 @@
 <h2 id="連結"><a class="header-anchor" href="#連結">#</a> 連結</h2>
 <p><a href="https://dpes8693.github.io/blog-vuepress/" target="_blank" rel="noopener noreferrer">本網站<OutboundLink/></a> 技術相關&amp;作品集<br/>
 <a href="https://home.gamer.com.tw/creation.php?owner=dpes5407" target="_blank" rel="noopener noreferrer">巴哈姆特-Blog<OutboundLink/></a> 生活中的科技&amp;遊戲心得<br/>
-<a href="https://dpes5407.medium.com/" target="_blank" rel="noopener noreferrer">Medium<OutboundLink/></a> 個人經驗分享&amp;技術短篇<br/></p>
+<a href="https://dpes5407.medium.com/" target="_blank" rel="noopener noreferrer">Medium<OutboundLink/></a> 生活經驗分享&amp;技術短篇<br/>
+<a href="https://hackmd.io/@dpes5407" target="_blank" rel="noopener noreferrer">Hackmd<OutboundLink/></a> 隨筆<br/></p>
 <p><a href="https://github.com/dpes8693" target="_blank" rel="noopener noreferrer">Github<OutboundLink/></a> 經營專案&amp;練習程式碼<br/>
 <a href="https://twitter.com/dpes5407" target="_blank" rel="noopener noreferrer">Twitter<OutboundLink/></a> 偶爾發片段程式碼<br/>
 <a href="https://www.linkedin.com/in/dpes8693/" target="_blank" rel="noopener noreferrer">Linkedin<OutboundLink/></a> 找工作<br/></p>
-<p><a href="https://line.me/ti/p/~@318kpenv" target="_blank" rel="noopener noreferrer">Line 帳號-教練,我會學好英文<OutboundLink/></a> 定期發文練英文&amp;創作能力<br/></p>
+<p><a href="https://line.me/ti/p/~@318kpenv" target="_blank" rel="noopener noreferrer">Line 帳號-教練,我會學好英文<OutboundLink/></a> 看圖背單字 | 練英文+Figma<br/></p>
 <h2 id="seo-上榜紀錄"><a class="header-anchor" href="#seo-上榜紀錄">#</a> SEO 上榜紀錄</h2>
 <p>統整在 <a href="https://hackmd.io/@dpes5407/rkeh0S4AO" target="_blank" rel="noopener noreferrer">Hackmd<OutboundLink/></a></p>
 <h2 id="對我意義很大的文章"><a class="header-anchor" href="#對我意義很大的文章">#</a> 對我意義很大的文章</h2>
@@ -34,13 +35,13 @@
 <img src="https://truth.bahamut.com.tw/s01/201707/7fec13dfca4fb4c024ffdcf342e3b305.JPG" width="300">
 </a>
 <p>這篇是大學寫的，也是啟蒙我開始寫部落格的一篇文章。</p>
-<p>那時候想學 P 圖技術，網路上下載的 PC 文字超小，用中文搜尋找不到解決方案。後來爬了國外網站才找到解法! 想說不如我來起頭寫中文版的解法，第一次感受到點閱率超過 1000!</p>
+<p>那時候想學 P 圖技術，網路上下載的 PS 文字超小，用中文搜尋找不到解決方案。後來爬了國外網站才找到解法! 想說不如我來起頭寫中文版的解法，第一次感受到點閱率超過 1000!</p>
 <h2 id="動手玩創意"><a class="header-anchor" href="#動手玩創意">#</a> 動手玩創意</h2>
-<p>小時候我就是個好奇寶寶，很想了解電器內部是怎麼運作的，如果有淘汰的電器就想拿螺絲起子把它拆了!</p>
+<p>小時候就很想了解電器內部是怎麼運作的，如果有淘汰的電器就想拿螺絲起子把它拆了! 拆過電風扇、吹風機、家用電話、智慧型手機、平板、耳機...etc</p>
 <blockquote>
 <p>OS: 拆了啦，哪次不拆</p>
 </blockquote>
-<p>這個部分我覺得影響我很大，我養成遇到問題先爬文找資料 &amp; 有耐心地解決問題的習慣，找不到就自己實驗後寫一篇文章!</p>
+<p>這個部分我覺得影響我蠻多的，我養成遇到問題先爬文找資料 &amp; 有耐心地解決問題的習慣，找不到就自己實驗後寫一些文章做紀錄!</p>
 <p>以下分享一下奇葩的 DIY，客家精神拿出來!</p>
 <hr>
 <h3 id="模組化機車手機架"><a class="header-anchor" href="#模組化機車手機架">#</a> 模組化機車手機架</h3>
@@ -123,4 +124,8 @@
 </CodeGroupItem>
 </CodeGroup>
 <hr>
+<h2 id="其他"><a class="header-anchor" href="#其他">#</a> 其他</h2>
+<p>有一定經驗的職務內容:</p>
+<p><code>宿舍樓管</code> <code>數學家教</code></p>
+<p><code>AR</code> <code>MIS</code> <code>UX</code> <code>Web Frontend</code></p>
 </template>

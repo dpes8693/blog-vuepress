@@ -1,7 +1,10 @@
 <template><h1 id="vscode"><a class="header-anchor" href="#vscode">#</a> VScode</h1>
+<p><a href="https://dpes5407.medium.com/vscode-terminal-tips-%E7%B5%82%E7%AB%AF%E6%A9%9F-%E6%8A%80%E5%B7%A7-99e284b81be4" target="_blank" rel="noopener noreferrer">VScode 終端機技巧<OutboundLink/></a></p>
 <div class="custom-container tip"><p class="custom-container-title">重點</p>
-<p><code>ctrl G</code> 輸入數字可以快速前往某一行程式碼
-對著變數用<code>F2</code>可以將該檔案變數全部編輯!</p>
+<p><code>ctrl G</code> 輸入數字可以快速前往某一行程式碼</p>
+<p>對著變數用<code>F2</code>可以將該檔案變數全部編輯!</p>
+<p>VScode新增檔案時名稱帶入階層會自動創建資料夾
+<code>a/b.html</code> 會自動創建 a資料夾和 b.html</p>
 </div>
 <h2 id="vscode-快捷鍵"><a class="header-anchor" href="#vscode-快捷鍵">#</a> VScode 快捷鍵</h2>
 <CodeGroup>

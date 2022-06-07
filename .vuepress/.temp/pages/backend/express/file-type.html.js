@@ -28,7 +28,13 @@ export const data = {
   ],
   "filePathRelative": "backend/express/file-type.md",
   "git": {
-    "updatedTime": null,
-    "contributors": []
+    "updatedTime": 1654522541000,
+    "contributors": [
+      {
+        "name": "Richard Lin",
+        "email": "33016870+dpes8693@users.noreply.github.com",
+        "commits": 1
+      }
+    ]
   }
 }
