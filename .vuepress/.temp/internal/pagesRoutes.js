@@ -9,8 +9,8 @@ const routeItems = [
   ["v-1d14d5cc","/guide/plugin.html","Blog 修改的地方 Plugin",["/guide/plugin.md"]],
   ["v-3b87d144","/others/bashCommonSyntax.html","紀錄我用到的windows語法",["/others/bashCommonSyntax.md"]],
   ["v-d367aa3e","/others/testApiSyntax.html","",["/others/testApiSyntax.md"]],
-  ["v-3b074cd4","/portfolio/driveUrl.html","將GoogleDrive分享連結 to 圖片連結",["/portfolio/driveUrl.md"]],
-  ["v-768d2905","/portfolio/gameListTranslater.html","Steam遊戲列表 to markdown 表格語法",["/portfolio/gameListTranslater.md"]],
+  ["v-3b074cd4","/portfolio/driveUrl.html","將 GoogleDrive 分享連結 to 圖片連結",["/portfolio/driveUrl.md"]],
+  ["v-768d2905","/portfolio/gameListTranslater.html","Steam 遊戲列表 to markdown 表格語法",["/portfolio/gameListTranslater.md"]],
   ["v-2e4c18c0","/portfolio/","作品列表",["/portfolio/index.html","/portfolio/index.md"]],
   ["v-0368d985","/review/%E5%8F%8D%E6%80%9D.html","反省?",["/review/反思.html","/review/反思.md","/review/%E5%8F%8D%E6%80%9D.md"]],
   ["v-1b629b01","/review/%E6%8C%96%E5%9D%91.html","主題列表",["/review/挖坑.html","/review/挖坑.md","/review/%E6%8C%96%E5%9D%91.md"]],
@@ -22,6 +22,7 @@ const routeItems = [
   ["v-1f585632","/web/vue.html","Vue.js練功",["/web/vue.md"]],
   ["v-2eeca661","/backend/express/file-type.html","如何判斷上傳檔案格式 file-type 簡介",["/backend/express/file-type.md"]],
   ["v-58947e5a","/backend/express/","Express code example",["/backend/express/index.html","/backend/express/index.md"]],
+  ["v-6d829d16","/docs/demo/test.html","",["/docs/demo/test.md"]],
   ["v-3706649a","/404.html","",[]],
 ]
 

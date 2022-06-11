@@ -43,6 +43,8 @@ export const pagesComponents = {
   "v-2eeca661": defineAsyncComponent(() => import(/* webpackChunkName: "v-2eeca661" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/backend/express/file-type.html.vue")),
   // path: /backend/express/
   "v-58947e5a": defineAsyncComponent(() => import(/* webpackChunkName: "v-58947e5a" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/backend/express/index.html.vue")),
+  // path: /docs/demo/test.html
+  "v-6d829d16": defineAsyncComponent(() => import(/* webpackChunkName: "v-6d829d16" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/docs/demo/test.html.vue")),
   // path: /404.html
   "v-3706649a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3706649a" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/404.html.vue")),
 }

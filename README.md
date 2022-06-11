@@ -1,6 +1,6 @@
 # About Me <i class="fa fa-github"></i>
 
-Hyo，我是 Richard，一名軟體工程師。
+Hyo，我是 Richard，一名工程師。
 
 興趣是看[漫畫](https://home.gamer.com.tw/artwork.php?sn=4467794) | 研究新奇的新事物 | 聽日文歌
 
@@ -26,7 +26,7 @@ Hyo，我是 Richard，一名軟體工程師。
 [Twitter](https://twitter.com/dpes5407) 偶爾發片段程式碼<br/>
 [Linkedin](https://www.linkedin.com/in/dpes8693/) 找工作<br/>
 
-[Line 帳號-教練,我會學好英文](https://line.me/ti/p/~@318kpenv) 看圖背單字 | 練英文+Figma<br/>
+[Line 帳號-教練,我會學好英文](https://line.me/ti/p/~@318kpenv) 看圖背單字 | 練英文+練腦力激盪[Figma](https://www.figma.com/file/6d5MTWIurVMfJOIIOub041/%E5%AD%B8%E8%8B%B1%E6%96%87?node-id=0%3A1)<br/>
 
 ## SEO 上榜紀錄
 

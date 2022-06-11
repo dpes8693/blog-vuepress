@@ -1,5 +1,5 @@
 <template><h1 id="about-me"><a class="header-anchor" href="#about-me">#</a> About Me <i class="fa fa-github"></i></h1>
-<p>Hyo，我是 Richard，一名軟體工程師。</p>
+<p>Hyo，我是 Richard，一名工程師。</p>
 <p>興趣是看<a href="https://home.gamer.com.tw/artwork.php?sn=4467794" target="_blank" rel="noopener noreferrer">漫畫<OutboundLink/></a> | 研究新奇的新事物 | 聽日文歌</p>
 <p>喜歡極簡生活，很欣賞日本的工匠精神!</p>
 <p>大四時發現自己其實是物慾很低的人，開始研究怎麼樣生活能最省事(科技始於人性)，常常思考哪些東西是真的需要去購買，爬文才知道有一個名詞叫做<code>極簡生活</code>，本意是多多感受人內心真正想追求的事物~ 找到每個人心中最適合的生活方式。</p>
@@ -14,7 +14,7 @@
 <p><a href="https://github.com/dpes8693" target="_blank" rel="noopener noreferrer">Github<OutboundLink/></a> 經營專案&amp;練習程式碼<br/>
 <a href="https://twitter.com/dpes5407" target="_blank" rel="noopener noreferrer">Twitter<OutboundLink/></a> 偶爾發片段程式碼<br/>
 <a href="https://www.linkedin.com/in/dpes8693/" target="_blank" rel="noopener noreferrer">Linkedin<OutboundLink/></a> 找工作<br/></p>
-<p><a href="https://line.me/ti/p/~@318kpenv" target="_blank" rel="noopener noreferrer">Line 帳號-教練,我會學好英文<OutboundLink/></a> 看圖背單字 | 練英文+Figma<br/></p>
+<p><a href="https://line.me/ti/p/~@318kpenv" target="_blank" rel="noopener noreferrer">Line 帳號-教練,我會學好英文<OutboundLink/></a> 看圖背單字 | 練英文+練腦力激盪<a href="https://www.figma.com/file/6d5MTWIurVMfJOIIOub041/%E5%AD%B8%E8%8B%B1%E6%96%87?node-id=0%3A1" target="_blank" rel="noopener noreferrer">Figma<OutboundLink/></a><br/></p>
 <h2 id="seo-上榜紀錄"><a class="header-anchor" href="#seo-上榜紀錄">#</a> SEO 上榜紀錄</h2>
 <p>統整在 <a href="https://hackmd.io/@dpes5407/rkeh0S4AO" target="_blank" rel="noopener noreferrer">Hackmd<OutboundLink/></a></p>
 <h2 id="對我意義很大的文章"><a class="header-anchor" href="#對我意義很大的文章">#</a> 對我意義很大的文章</h2>

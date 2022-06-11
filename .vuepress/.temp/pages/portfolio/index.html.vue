@@ -26,7 +26,7 @@
 </thead>
 <tbody>
 <tr>
-<td><RouterLink to="/portfolio/driveUrl.html">快速將 GoogleDrive 分享連結 to 圖片連結</RouterLink></td>
+<td><RouterLink to="/portfolio/driveUrl.html">快速將 Drive 連結 轉 圖片下載連結</RouterLink></td>
 <td><code>工具</code></td>
 <td>每次轉換url很麻煩</td>
 </tr>

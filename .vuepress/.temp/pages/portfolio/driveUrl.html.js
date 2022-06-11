@@ -1,11 +1,30 @@
 export const data = {
   "key": "v-3b074cd4",
   "path": "/portfolio/driveUrl.html",
-  "title": "將GoogleDrive分享連結 to 圖片連結",
+  "title": "將 GoogleDrive 分享連結 to 圖片連結",
   "lang": "zh-tw",
   "frontmatter": {},
   "excerpt": "",
-  "headers": [],
+  "headers": [
+    {
+      "level": 2,
+      "title": "圖片使用教學",
+      "slug": "圖片使用教學",
+      "children": []
+    },
+    {
+      "level": 2,
+      "title": "參考資料",
+      "slug": "參考資料",
+      "children": []
+    },
+    {
+      "level": 2,
+      "title": "我學到什麼",
+      "slug": "我學到什麼",
+      "children": []
+    }
+  ],
   "filePathRelative": "portfolio/driveUrl.md",
   "git": {
     "updatedTime": 1648895464000,
@@ -27,4 +46,17 @@ export const data = {
       }
     ]
   }
+}
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
 }

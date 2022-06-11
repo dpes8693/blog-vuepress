@@ -1,7 +1,7 @@
 export const data = {
   "key": "v-768d2905",
   "path": "/portfolio/gameListTranslater.html",
-  "title": "Steam遊戲列表 to markdown 表格語法",
+  "title": "Steam 遊戲列表 to markdown 表格語法",
   "lang": "zh-tw",
   "frontmatter": {},
   "excerpt": "",
@@ -17,6 +17,12 @@ export const data = {
       "title": "DEMO",
       "slug": "demo",
       "children": []
+    },
+    {
+      "level": 2,
+      "title": "實作中練了什麼",
+      "slug": "實作中練了什麼",
+      "children": []
     }
   ],
   "filePathRelative": "portfolio/gameListTranslater.md",
@@ -30,4 +36,17 @@ export const data = {
       }
     ]
   }
+}
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
 }

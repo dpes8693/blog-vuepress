@@ -24,6 +24,12 @@ export const data = {
           "children": []
         }
       ]
+    },
+    {
+      "level": 2,
+      "title": "如何成為好的工程師，好的工程師有哪些特色",
+      "slug": "如何成為好的工程師-好的工程師有哪些特色",
+      "children": []
     }
   ],
   "filePathRelative": "review/反思.md",
@@ -37,4 +43,17 @@ export const data = {
       }
     ]
   }
+}
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
 }

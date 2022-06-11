@@ -8,7 +8,7 @@ Design Pattern: SOLID
 CI/CD yml shellscript
 docker
 cloud service -->
-<nav class="table-of-contents"><ul><li><RouterLink to="#聊聊-寫-js-code">聊聊 寫 JS Code</RouterLink><ul><li><RouterLink to="#function-題目-我拿到-2-個數-請印出他們相加的答案">[function]題目:我拿到 2 個數 請印出他們相加的答案</RouterLink></li><li><RouterLink to="#四大-function-函數-式-方法-遞迴-建構子-式-和-class">[四大 function()]函數(式)，方法，遞迴，建構子(式)和 class</RouterLink></li></ul></li></ul></nav>
+<nav class="table-of-contents"><ul><li><RouterLink to="#聊聊-寫-js-code">聊聊 寫 JS Code</RouterLink><ul><li><RouterLink to="#function-題目-我拿到-2-個數-請印出他們相加的答案">[function]題目:我拿到 2 個數 請印出他們相加的答案</RouterLink></li><li><RouterLink to="#四大-function-函數-式-方法-遞迴-建構子-式-和-class">[四大 function()]函數(式)，方法，遞迴，建構子(式)和 class</RouterLink></li></ul></li><li><RouterLink to="#如何成為好的工程師-好的工程師有哪些特色">如何成為好的工程師，好的工程師有哪些特色</RouterLink></li></ul></nav>
 <!-- ## 聊聊 讀書學習方式 -->
 <h2 id="聊聊-寫-js-code"><a class="header-anchor" href="#聊聊-寫-js-code">#</a> 聊聊 寫 JS Code</h2>
 <p>思考-<code>變數</code>為什麼會誕生呢? 去除重複，簡化，重複利用。最好的例子: CSS 的 style，可以寫 inline|放在 head|抽到外面資料夾。</p>
@@ -119,4 +119,7 @@ console<span class="token punctuation">.</span><span class="token function">log<
 </details>
 <!-- ### [巢狀判斷] -->
 <!-- ### [OO] -->
+<h2 id="如何成為好的工程師-好的工程師有哪些特色"><a class="header-anchor" href="#如何成為好的工程師-好的工程師有哪些特色">#</a> 如何成為好的工程師，好的工程師有哪些特色</h2>
+<p>可以參考 Rafeni 寫的這篇是我看過最清楚的文章</p>
+<p>https://ithelp.ithome.com.tw/articles/10251846</p>
 </template>
