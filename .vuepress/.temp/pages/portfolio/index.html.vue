@@ -9,7 +9,7 @@
 </thead>
 <tbody>
 <tr>
-<td><a href="https://axie-origin-cards.netlify.app/" target="_blank" rel="noopener noreferrer">區塊練遊戲 <code>Axie Infinity Origin</code> 卡片圖鑑<OutboundLink/></a></td>
+<td><RouterLink to="/portfolio/axie.html">區塊練遊戲 <code>Axie Infinity Origin</code> 卡片圖鑑</RouterLink></td>
 <td><code>卡牌</code></td>
 </tr>
 </tbody>

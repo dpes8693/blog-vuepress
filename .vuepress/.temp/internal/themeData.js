@@ -11,7 +11,8 @@ export const themeData = {
       "text": "Guide",
       "children": [
         "/guide/buildBlog.md",
-        "/guide/markdown.md"
+        "/guide/markdown.md",
+        "/guide/getll.md"
       ]
     },
     {
@@ -87,17 +88,4 @@ export const themeData = {
   ],
   "backToHome": "Take me home",
   "openInNewWindow": "open in new window"
-}
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updateThemeData) {
-    __VUE_HMR_RUNTIME__.updateThemeData(themeData)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ themeData }) => {
-    __VUE_HMR_RUNTIME__.updateThemeData(themeData)
-  })
 }

@@ -27,12 +27,12 @@ export const data = {
   ],
   "filePathRelative": "portfolio/driveUrl.md",
   "git": {
-    "updatedTime": 1648895464000,
+    "updatedTime": 1654959611000,
     "contributors": [
       {
         "name": "Richard Lin",
         "email": "33016870+dpes8693@users.noreply.github.com",
-        "commits": 4
+        "commits": 5
       },
       {
         "name": "林原醇",
@@ -46,17 +46,4 @@ export const data = {
       }
     ]
   }
-}
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
 }

@@ -29,12 +29,22 @@ Markdown 是一種易讀易寫的標記式語言，可以快速產生文檔。
 - 輸入:
   - 表格名稱，巴哈 id，遊戲列表
 - 核取方塊
-  - 是否開啟自動 Steam 加入超連結
+  - 是否開啟自動加入 Steam 超連結
 - 轉換:
   - 將遊戲列表從一列轉成三攔式表格，並且加上 Steam 搜尋的連結
 - 複製 (目前提示文字已經拿掉了):
   - 複製轉換後的文字，之後可以貼到 Hackmd 轉成網頁表格
   - 最後複製網頁表格貼在巴哈姆特哈拉區
+
+
+範例輸入:
+```md
+Lacuna
+Orwell: Ignorance is Strength
+Heaven's Vault
+FRAMED Collection
+We Need To Go Deeper
+```
 
 ## DEMO
 

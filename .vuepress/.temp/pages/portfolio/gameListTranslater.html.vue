@@ -29,7 +29,7 @@
 </li>
 <li>核取方塊
 <ul>
-<li>是否開啟自動 Steam 加入超連結</li>
+<li>是否開啟自動加入 Steam 超連結</li>
 </ul>
 </li>
 <li>轉換:
@@ -44,7 +44,13 @@
 </ul>
 </li>
 </ul>
-<h2 id="demo"><a class="header-anchor" href="#demo">#</a> DEMO</h2>
+<p>範例輸入:</p>
+<div class="language-markdown ext-md line-numbers-mode"><pre v-pre class="language-markdown"><code>Lacuna
+Orwell: Ignorance is Strength
+Heaven's Vault
+FRAMED Collection
+We Need To Go Deeper
+</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br></div></div><h2 id="demo"><a class="header-anchor" href="#demo">#</a> DEMO</h2>
 <p><img src="https://drive.google.com/uc?export=download&amp;id=19FSsqNrBGUNZZh21vXkZDa2xASShB4L1" alt="DEMO"></p>
 <p><img src="https://drive.google.com/uc?export=download&amp;id=1xT-PRxE36V769VJOt9D44aWbO3GdTDqL" alt="editArticle"></p>
 <p><img src="https://drive.google.com/uc?export=download&amp;id=19j8XMXcqffbOnL8yDXuWkrruZQj1AIUY" alt="article"></p>

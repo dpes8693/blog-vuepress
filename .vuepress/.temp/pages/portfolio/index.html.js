@@ -21,26 +21,13 @@ export const data = {
   ],
   "filePathRelative": "portfolio/index.md",
   "git": {
-    "updatedTime": 1654617640000,
+    "updatedTime": 1654959611000,
     "contributors": [
       {
         "name": "Richard Lin",
         "email": "33016870+dpes8693@users.noreply.github.com",
-        "commits": 4
+        "commits": 5
       }
     ]
   }
-}
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
 }

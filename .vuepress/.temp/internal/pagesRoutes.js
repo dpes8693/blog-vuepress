@@ -5,10 +5,12 @@ const routeItems = [
   ["v-167f0e70","/backend/normalization.html","資料庫正規化",["/backend/normalization.md"]],
   ["v-311f716b","/backend/noun.html","後端要懂得知識",["/backend/noun.md"]],
   ["v-926930d6","/guide/buildBlog.html","用Vupress架Blog",["/guide/buildBlog.md"]],
+  ["v-162b492f","/guide/getll.html","將台灣地址轉換成經緯度",["/guide/getll.md"]],
   ["v-0978b044","/guide/markdown.html","Markdown 語法",["/guide/markdown.md"]],
   ["v-1d14d5cc","/guide/plugin.html","Blog 修改的地方 Plugin",["/guide/plugin.md"]],
   ["v-3b87d144","/others/bashCommonSyntax.html","紀錄我用到的windows語法",["/others/bashCommonSyntax.md"]],
   ["v-d367aa3e","/others/testApiSyntax.html","",["/others/testApiSyntax.md"]],
+  ["v-beeb84f4","/portfolio/axie.html","Axie Infinity Origin Cards",["/portfolio/axie.md"]],
   ["v-3b074cd4","/portfolio/driveUrl.html","將 GoogleDrive 分享連結 to 圖片連結",["/portfolio/driveUrl.md"]],
   ["v-768d2905","/portfolio/gameListTranslater.html","Steam 遊戲列表 to markdown 表格語法",["/portfolio/gameListTranslater.md"]],
   ["v-2e4c18c0","/portfolio/","作品列表",["/portfolio/index.html","/portfolio/index.md"]],
@@ -22,7 +24,6 @@ const routeItems = [
   ["v-1f585632","/web/vue.html","Vue.js練功",["/web/vue.md"]],
   ["v-2eeca661","/backend/express/file-type.html","如何判斷上傳檔案格式 file-type 簡介",["/backend/express/file-type.md"]],
   ["v-58947e5a","/backend/express/","Express code example",["/backend/express/index.html","/backend/express/index.md"]],
-  ["v-6d829d16","/docs/demo/test.html","",["/docs/demo/test.md"]],
   ["v-3706649a","/404.html","",[]],
 ]
 

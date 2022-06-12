@@ -54,7 +54,7 @@ module.exports = {
       {
         isGroup: true,
         text: "Guide",
-        children: ["/guide/buildBlog.md","/guide/markdown.md"], //會去抓#的名稱
+        children: ["/guide/buildBlog.md","/guide/markdown.md","/guide/getll.md"], //會去抓#的名稱
       },
       {
         isGroup: true,
