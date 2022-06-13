@@ -21,12 +21,12 @@ export const data = {
   ],
   "filePathRelative": "portfolio/index.md",
   "git": {
-    "updatedTime": 1654959611000,
+    "updatedTime": 1655046479000,
     "contributors": [
       {
         "name": "Richard Lin",
         "email": "33016870+dpes8693@users.noreply.github.com",
-        "commits": 5
+        "commits": 6
       }
     ]
   }

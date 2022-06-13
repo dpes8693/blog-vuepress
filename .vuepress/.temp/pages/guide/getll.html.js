@@ -45,7 +45,13 @@ export const data = {
   ],
   "filePathRelative": "guide/getll.md",
   "git": {
-    "updatedTime": null,
-    "contributors": []
+    "updatedTime": 1655046479000,
+    "contributors": [
+      {
+        "name": "Richard Lin",
+        "email": "33016870+dpes8693@users.noreply.github.com",
+        "commits": 1
+      }
+    ]
   }
 }

@@ -47,6 +47,12 @@ export const pagesComponents = {
   "v-2eeca661": defineAsyncComponent(() => import(/* webpackChunkName: "v-2eeca661" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/backend/express/file-type.html.vue")),
   // path: /backend/express/
   "v-58947e5a": defineAsyncComponent(() => import(/* webpackChunkName: "v-58947e5a" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/backend/express/index.html.vue")),
+  // path: /others/tangram/gov20201029.html
+  "v-dca0311a": defineAsyncComponent(() => import(/* webpackChunkName: "v-dca0311a" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/others/tangram/gov20201029.html.vue")),
+  // path: /others/tangram/
+  "v-376756ca": defineAsyncComponent(() => import(/* webpackChunkName: "v-376756ca" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/others/tangram/index.html.vue")),
+  // path: /others/tangram/ms20201006.html
+  "v-19ca2bb0": defineAsyncComponent(() => import(/* webpackChunkName: "v-19ca2bb0" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/others/tangram/ms20201006.html.vue")),
   // path: /404.html
   "v-3706649a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3706649a" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/404.html.vue")),
 }

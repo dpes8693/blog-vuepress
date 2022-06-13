@@ -24,6 +24,9 @@ const routeItems = [
   ["v-1f585632","/web/vue.html","Vue.js練功",["/web/vue.md"]],
   ["v-2eeca661","/backend/express/file-type.html","如何判斷上傳檔案格式 file-type 簡介",["/backend/express/file-type.md"]],
   ["v-58947e5a","/backend/express/","Express code example",["/backend/express/index.html","/backend/express/index.md"]],
+  ["v-dca0311a","/others/tangram/gov20201029.html","企業智動化與數位轉型研討會",["/others/tangram/gov20201029.md"]],
+  ["v-376756ca","/others/tangram/","公司活動列表",["/others/tangram/index.html","/others/tangram/index.md"]],
+  ["v-19ca2bb0","/others/tangram/ms20201006.html","微軟新創加速器 DEMO Day",["/others/tangram/ms20201006.md"]],
   ["v-3706649a","/404.html","",[]],
 ]
 

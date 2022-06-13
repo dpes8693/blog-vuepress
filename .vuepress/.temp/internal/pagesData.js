@@ -45,6 +45,12 @@ export const pagesData = {
   "v-2eeca661": () => import(/* webpackChunkName: "v-2eeca661" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/backend/express/file-type.html.js").then(({ data }) => data),
   // path: /backend/express/
   "v-58947e5a": () => import(/* webpackChunkName: "v-58947e5a" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/backend/express/index.html.js").then(({ data }) => data),
+  // path: /others/tangram/gov20201029.html
+  "v-dca0311a": () => import(/* webpackChunkName: "v-dca0311a" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/others/tangram/gov20201029.html.js").then(({ data }) => data),
+  // path: /others/tangram/
+  "v-376756ca": () => import(/* webpackChunkName: "v-376756ca" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/others/tangram/index.html.js").then(({ data }) => data),
+  // path: /others/tangram/ms20201006.html
+  "v-19ca2bb0": () => import(/* webpackChunkName: "v-19ca2bb0" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/others/tangram/ms20201006.html.js").then(({ data }) => data),
   // path: /404.html
   "v-3706649a": () => import(/* webpackChunkName: "v-3706649a" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/404.html.js").then(({ data }) => data),
 }
