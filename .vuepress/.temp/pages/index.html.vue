@@ -14,7 +14,9 @@
 <p><a href="https://github.com/dpes8693" target="_blank" rel="noopener noreferrer">Github<OutboundLink/></a> 經營專案&amp;練習程式碼<br/>
 <a href="https://twitter.com/dpes5407" target="_blank" rel="noopener noreferrer">Twitter<OutboundLink/></a> 偶爾發片段程式碼<br/>
 <a href="https://www.linkedin.com/in/dpes8693/" target="_blank" rel="noopener noreferrer">Linkedin<OutboundLink/></a> 找工作<br/></p>
-<p><a href="https://line.me/ti/p/~@318kpenv" target="_blank" rel="noopener noreferrer">Line 帳號-教練,我會學好英文<OutboundLink/></a> 看圖背單字 | 練英文+練腦力激盪<a href="https://www.figma.com/file/6d5MTWIurVMfJOIIOub041/%E5%AD%B8%E8%8B%B1%E6%96%87?node-id=0%3A1" target="_blank" rel="noopener noreferrer">Figma<OutboundLink/></a><br/></p>
+<p><img src="https://drive.google.com/uc?export=download&amp;id=1RMGYPMfWF_Wh7skgbo_8n-8bCECUUXYB" alt="line voom"></p>
+<p><a href="https://line.me/ti/p/~@318kpenv" target="_blank" rel="noopener noreferrer">Line 帳號-教練,我會學好英文<OutboundLink/></a>
+看圖背單字 | 練英文+練腦力激盪<a href="https://www.figma.com/file/6d5MTWIurVMfJOIIOub041/%E5%AD%B8%E8%8B%B1%E6%96%87?node-id=0%3A1" target="_blank" rel="noopener noreferrer">Figma<OutboundLink/></a><br/></p>
 <h2 id="seo-上榜紀錄"><a class="header-anchor" href="#seo-上榜紀錄">#</a> SEO 上榜紀錄</h2>
 <p>統整在 <a href="https://hackmd.io/@dpes5407/rkeh0S4AO" target="_blank" rel="noopener noreferrer">Hackmd<OutboundLink/></a></p>
 <h2 id="對我意義很大的文章"><a class="header-anchor" href="#對我意義很大的文章">#</a> 對我意義很大的文章</h2>
@@ -46,7 +48,7 @@
 <hr>
 <h3 id="模組化機車手機架"><a class="header-anchor" href="#模組化機車手機架">#</a> 模組化機車手機架</h3>
 <CodeGroup>
-<CodeGroupItem title="來龍去脈">
+<CodeGroupItem title="&nbsp&nbsp來龍去脈&nbsp&nbsp">
 <div class="language-markdown ext-md line-numbers-mode"><pre v-pre class="language-markdown"><code><span class="token title important"><span class="token punctuation">#</span>2020.07.16 人生第一次買自己的機車</span>
 
 因為不希望改車，開始思考如何實現"等紅燈能看導航"這個目標
@@ -55,16 +57,16 @@
 比較值得一提的是彎折的角度花了一些時間去調整，騎過科博館抖抖路也沒問題~
 目前用了 2 年多還是很滿意這種模組化設計，下車後放車廂不用擔心被偷走零件
 </code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br></div></div></CodeGroupItem>
-<CodeGroupItem title="成品">
+<CodeGroupItem title="&nbsp&nbsp成品&nbsp&nbsp">
 <p><img src="https://drive.google.com/uc?export=download&amp;id=11Ddmi_RRp92s5hTvmC2HuSAkoHisxPVw" alt="成品"></p>
 </CodeGroupItem>
-<CodeGroupItem title="圖-右邊">
+<CodeGroupItem title="&nbsp&nbsp圖-右邊&nbsp&nbsp">
 <p><img src="https://drive.google.com/uc?export=download&amp;id=19t8h_-YH_IFUR7eAPKA-St0rYX3fkkUc" alt="圖-右邊"></p>
 </CodeGroupItem>
-<CodeGroupItem title="圖-正面">
+<CodeGroupItem title="&nbsp&nbsp圖-正面&nbsp&nbsp">
 <p><img src="https://drive.google.com/uc?export=download&amp;id=1DMMqFOS0ZI0jQsYmKVUh22z860mWD3fJ" alt="圖-正面"></p>
 </CodeGroupItem>
-<CodeGroupItem title="圖-左邊">
+<CodeGroupItem title="&nbsp&nbsp圖-左邊&nbsp&nbsp">
 <p><img src="https://drive.google.com/uc?export=download&amp;id=1U8agvxzfLiHsCW_ws_QzdLnZiOdPxd_o" alt="圖-左邊"></p>
 </CodeGroupItem>
 <CodeGroupItem title="圖-側邊">
@@ -73,17 +75,17 @@
 </CodeGroup>
 <h3 id="國小巧連智積木再利用"><a class="header-anchor" href="#國小巧連智積木再利用">#</a> 國小巧連智積木再利用</h3>
 <CodeGroup>
-<CodeGroupItem title="來龍去脈">
+<CodeGroupItem title="&nbsp&nbsp來龍去脈&nbsp&nbsp">
 <div class="language-markdown ext-md line-numbers-mode"><pre v-pre class="language-markdown"><code>2022 過年打掃時找到小一時玩的巧連智積木
 將其廢物利用改造成可以放鍵盤 | 檯燈支架 | PC 支架
 </code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br></div></div></CodeGroupItem>
-<CodeGroupItem title="圖一">
+<CodeGroupItem title="&nbsp&nbsp圖一&nbsp&nbsp">
 <p><img src="https://drive.google.com/uc?export=download&amp;id=1Cjj3_kUes5_kJZ72WKCBTBooMrHUrJIS" alt="成品"></p>
 </CodeGroupItem>
-<CodeGroupItem title="圖二">
+<CodeGroupItem title="&nbsp&nbsp圖二&nbsp&nbsp">
 <p><img src="https://drive.google.com/uc?export=download&amp;id=1hG6SlnlS1xjJ1jaHDfP5p-T1zxobQsdx" alt="PC支架"></p>
 </CodeGroupItem>
-<CodeGroupItem title="圖三">
+<CodeGroupItem title="&nbsp&nbsp圖三&nbsp&nbsp">
 <p><img src="https://drive.google.com/uc?export=download&amp;id=11vI3SNLaacBTPlgxzCmU0LeNLSUqzl_f" alt="可調式檯燈支架"></p>
 </CodeGroupItem>
 <CodeGroupItem title="圖四">
@@ -92,7 +94,7 @@
 </CodeGroup>
 <h3 id="奇葩書桌"><a class="header-anchor" href="#奇葩書桌">#</a> 奇葩書桌</h3>
 <CodeGroup>
-<CodeGroupItem title="來龍去脈">
+<CodeGroupItem title="&nbsp&nbsp來龍去脈&nbsp&nbsp">
 <div class="language-markdown ext-md line-numbers-mode"><pre v-pre class="language-markdown"><code>我們家房子大概是 85 年左右蓋的吧，房子算很舊;
 我的房間目前還是拿電視櫃當桌子，用到現在個人覺得還 OK 沒有不舒服的地方。
 
@@ -102,24 +104,24 @@
 設計 DIY 這個書桌是有 2 種型態，Coding 和 Gaming
 可以不花太多時間切換成玩賽車遊戲~但後來變得比較少玩遊戲(生灰塵)
 </code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br></div></div></CodeGroupItem>
-<CodeGroupItem title="圖一">
+<CodeGroupItem title="&nbsp&nbsp圖一&nbsp&nbsp">
 <p><img src="https://drive.google.com/uc?export=download&amp;id=1hcAbrD6v-EZjON49tAZZ9E-XSMsTCRF1" alt="room2"></p>
 </CodeGroupItem>
-<CodeGroupItem title="圖二">
+<CodeGroupItem title="&nbsp&nbsp圖二&nbsp&nbsp">
 <p><img src="https://drive.google.com/uc?export=download&amp;id=1XI1oa3gl6GGsbSLkr_HcDx8ISUWfoLQg" alt="room1"></p>
 </CodeGroupItem>
 </CodeGroup>
 <h3 id="奇葩洗手台"><a class="header-anchor" href="#奇葩洗手台">#</a> 奇葩洗手台</h3>
 <CodeGroup>
-<CodeGroupItem title="來龍去脈">
+<CodeGroupItem title="&nbsp&nbsp來龍去脈&nbsp&nbsp">
 <div class="language-markdown ext-md line-numbers-mode"><pre v-pre class="language-markdown"><code>親人家裡一樓的浴室居然打掉洗手台放洗衣機!
 洗手變成要去陽台洗，非常特別的設計
 </code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br></div></div></CodeGroupItem>
-<CodeGroupItem title="研究過程">
+<CodeGroupItem title="&nbsp&nbsp研究過程&nbsp&nbsp">
 <p>2022.01 研究如何改造，
 <a href="https://youtube.com/shorts/x35r2quSVwE?feature=share" target="_blank" rel="noopener noreferrer">讓你大吃一驚的影片<OutboundLink/></a></p>
 </CodeGroupItem>
-<CodeGroupItem title="最後的成果圖">
+<CodeGroupItem title="&nbsp&nbsp最後的成果圖&nbsp&nbsp">
 <p><img src="https://drive.google.com/uc?export=download&amp;id=1fdUweCDobbJz21_OuHn88-PVxr3bFwdU" alt="成果圖"></p>
 </CodeGroupItem>
 </CodeGroup>

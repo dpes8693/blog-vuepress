@@ -7,6 +7,7 @@
 根據需求不同分成 3x2 種情況
 
 - 不同筆數
+
   - 只要查 1 筆
   - 50 筆以內
   - 超過 50 筆
@@ -23,9 +24,21 @@
 
 - 方法 2
   去 [google map](https://www.google.com/maps) 搜尋取得該網址 例如:`新竹縣五峰鄉大隘95號`
-  會拿到以下連結`https://www.google.com/maps/place/%E6%96%B0%E7%AB%B9%E7%B8%A3%E4%BA%94%E5%B3%B0%E9%84%89%E5%85%AC%E6%89%80/@24.6320346,121.1108543,15z/data=!3m1!4b1!4m5!3m4!1s0x346845b2283b930b:0x4e8ee305f3c689a6!8m2!3d24.631984!4d121.1195496`
+  會拿到以下連結
+  ```md
+  `https://www.google.com/maps/place/%E6%96%B0%E7%AB%B9%E7%B8%A3%E4%BA%94%E5%B3%B0%E9%84%89%E5%85%AC%E6%89%80/@24.6320346,121.1108543,15z/data=!3m1!4b1!4m5!3m4!1s0x346845b2283b930b:0x4e8ee305f3c689a6!8m2!3d24.631984!4d121.1195496`
 
-仔細觀察會發現@後面就是經緯度了，`[@24.6320346,121.1108543]`
+  仔細觀察會發現@後面就是經緯度了，`[@24.6320346,121.1108543]`
+  ```
+
+
+
+- 方法 3
+  [google 團隊\_ json 範例](https://developers.google.com/maps/documentation/javascript/examples/geocoding-simple)
+  ![googlemap-json](https://drive.google.com/uc?export=download&id=1ckuGLbkKZp3-RKPFEO-mfHKI7Y294GQS)
+
+[google 團隊\_經緯度範例](https://developers-dot-devsite-v2-prod.appspot.com/maps/documentation/utils/geocoder#q%3D%25u65B0%25u5317%25u5E02%25u6C38%25u548C%25u5340%25u798F%25u548C%25u8DEF154%25u865F)
+![googlemap-ll](https://drive.google.com/uc?export=download&id=1r4hydBDoN6Ds0kGY5fjSLmBEhb0uHlrd)
 
 ## [CSV] 50 筆 & 超過 50 筆
 

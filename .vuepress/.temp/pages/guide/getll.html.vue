@@ -30,10 +30,19 @@ ex: <a href="https://www.latlong.net/convert-address-to-lat-long.html" target="_
 <li>
 <p>方法 2
 去 <a href="https://www.google.com/maps" target="_blank" rel="noopener noreferrer">google map<OutboundLink/></a> 搜尋取得該網址 例如:<code>新竹縣五峰鄉大隘95號</code>
-會拿到以下連結<code>https://www.google.com/maps/place/%E6%96%B0%E7%AB%B9%E7%B8%A3%E4%BA%94%E5%B3%B0%E9%84%89%E5%85%AC%E6%89%80/@24.6320346,121.1108543,15z/data=!3m1!4b1!4m5!3m4!1s0x346845b2283b930b:0x4e8ee305f3c689a6!8m2!3d24.631984!4d121.1195496</code></p>
+會拿到以下連結</p>
+<div class="language-markdown ext-md line-numbers-mode"><pre v-pre class="language-markdown"><code><span class="token code keyword">`https://www.google.com/maps/place/%E6%96%B0%E7%AB%B9%E7%B8%A3%E4%BA%94%E5%B3%B0%E9%84%89%E5%85%AC%E6%89%80/@24.6320346,121.1108543,15z/data=!3m1!4b1!4m5!3m4!1s0x346845b2283b930b:0x4e8ee305f3c689a6!8m2!3d24.631984!4d121.1195496`</span>
+
+仔細觀察會發現@後面就是經緯度了，<span class="token code keyword">`[@24.6320346,121.1108543]`</span>
+</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br></div></div></li>
+<li>
+<p>方法 3
+<a href="https://developers.google.com/maps/documentation/javascript/examples/geocoding-simple" target="_blank" rel="noopener noreferrer">google 團隊_ json 範例<OutboundLink/></a>
+<img src="https://drive.google.com/uc?export=download&amp;id=1ckuGLbkKZp3-RKPFEO-mfHKI7Y294GQS" alt="googlemap-json"></p>
 </li>
 </ul>
-<p>仔細觀察會發現@後面就是經緯度了，<code>[@24.6320346,121.1108543]</code></p>
+<p><a href="https://developers-dot-devsite-v2-prod.appspot.com/maps/documentation/utils/geocoder#q%3D%25u65B0%25u5317%25u5E02%25u6C38%25u548C%25u5340%25u798F%25u548C%25u8DEF154%25u865F" target="_blank" rel="noopener noreferrer">google 團隊_經緯度範例<OutboundLink/></a>
+<img src="https://drive.google.com/uc?export=download&amp;id=1r4hydBDoN6Ds0kGY5fjSLmBEhb0uHlrd" alt="googlemap-ll"></p>
 <h2 id="csv-50-筆-超過-50-筆"><a class="header-anchor" href="#csv-50-筆-超過-50-筆">#</a> [CSV] 50 筆 &amp; 超過 50 筆</h2>
 <p>測試過<code>1000筆</code>和<code>5000筆</code>都有通過可以轉換，看有沒有其他人一起用太多人同時用會出錯</p>
 <p><img src="https://drive.google.com/uc?export=download&amp;id=1yPAzB_lKFpllwBX6pbpb0b3Pl37gd4FS" alt="geocode"></p>

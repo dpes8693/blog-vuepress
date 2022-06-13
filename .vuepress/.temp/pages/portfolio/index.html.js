@@ -14,8 +14,8 @@ export const data = {
     },
     {
       "level": 2,
-      "title": "小品 & 練習",
-      "slug": "小品-練習",
+      "title": "小品 | 工具",
+      "slug": "小品-工具",
       "children": []
     }
   ],

@@ -1,7 +1,7 @@
 export const data = {
   "key": "v-07f2110c",
   "path": "/web/common.html",
-  "title": "小常識",
+  "title": "學習資源1",
   "lang": "zh-tw",
   "frontmatter": {},
   "excerpt": "",

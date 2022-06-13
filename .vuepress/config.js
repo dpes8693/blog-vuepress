@@ -64,7 +64,7 @@ module.exports = {
       {
         isGroup: true,
         text: "Web",
-        children: ["/web/common.md", "/web/vue.md","/web/resource.md"]
+        children: ["/web/common.md", "/web/resource.md", "/web/vue.md"]
       },
       {
         isGroup: true,

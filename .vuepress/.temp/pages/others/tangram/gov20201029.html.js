@@ -8,8 +8,8 @@ export const data = {
   "headers": [
     {
       "level": 2,
-      "title": "背板",
-      "slug": "背板",
+      "title": "背板延用上次的設計",
+      "slug": "背板延用上次的設計",
       "children": []
     },
     {
@@ -17,11 +17,23 @@ export const data = {
       "title": "立架型海報",
       "slug": "立架型海報",
       "children": []
+    },
+    {
+      "level": 2,
+      "title": "當日活動照",
+      "slug": "當日活動照",
+      "children": []
     }
   ],
   "filePathRelative": "others/tangram/gov20201029.md",
   "git": {
-    "updatedTime": null,
-    "contributors": []
+    "updatedTime": 1655106702000,
+    "contributors": [
+      {
+        "name": "Richard Lin",
+        "email": "33016870+dpes8693@users.noreply.github.com",
+        "commits": 1
+      }
+    ]
   }
 }

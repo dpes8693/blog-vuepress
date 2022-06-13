@@ -1,15 +1,15 @@
 export const data = {
   "key": "v-1f585632",
   "path": "/web/vue.html",
-  "title": "Vue.js練功",
+  "title": "Vue.js練功筆記",
   "lang": "zh-tw",
   "frontmatter": {},
   "excerpt": "",
   "headers": [
     {
       "level": 2,
-      "title": "入門1個月要認識?",
-      "slug": "入門1個月要認識",
+      "title": "入門1個月要認識的名詞?",
+      "slug": "入門1個月要認識的名詞",
       "children": []
     },
     {
@@ -31,12 +31,6 @@ export const data = {
         },
         {
           "level": 3,
-          "title": "JS",
-          "slug": "js",
-          "children": []
-        },
-        {
-          "level": 3,
           "title": "採坑",
           "slug": "採坑",
           "children": []
@@ -48,6 +42,12 @@ export const data = {
           "children": []
         }
       ]
+    },
+    {
+      "level": 2,
+      "title": "系列",
+      "slug": "系列",
+      "children": []
     }
   ],
   "filePathRelative": "web/vue.md",

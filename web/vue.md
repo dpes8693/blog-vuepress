@@ -1,6 +1,6 @@
-# <i class="fas fa-meteor"></i>  Vue.js練功
+# <i class="fas fa-meteor"></i>  Vue.js練功筆記
 
-## 入門1個月要認識?
+## 入門1個月要認識的名詞?
 ``` js
 html DOM節點傳遞
 JavaScript ES5 ES6 jQuery語法
@@ -38,46 +38,7 @@ $forceUpdate()
 
 ### 名詞
 [polyfill 是甚麼?](https://codertw.com/%E5%89%8D%E7%AB%AF%E9%96%8B%E7%99%BC/29473/)用於實現瀏覽器並不支援的原生API的程式碼
-### JS
-[如果再寫for迴圈，我就錘自己了](https://www.gushiciku.cn/pl/ghps/zh-tw)
 
-[Object.keys() & Object.values() & Object.entries()](https://titangene.github.io/article/javascript-object-keys-values-entries.html)
-
-[事件冒泡-DOM事件傳遞](https://blog.techbridge.cc/2017/07/15/javascript-event-propagation/)
-
-::: details [展開圖]EventFlow
-![EventFlow](https://i.imgur.com/W25OoWR.png)
-:::
-
-[不想再看到undefined的TypeError](https://ithelp.ithome.com.tw/articles/10230756)
-
-::: details [展開圖]
-
-```js
-const response = {
-  rows: [
-    {
-      "name": "John",
-      "age": 28,
-      "vehicles": {
-         "car": "Suzuki",
-         "bike": "Ubike",
-         "airlines":{
-            "UNI AIR" : "Air123",
-            "Mandarin" : "Brt707"
-         }
-      }
-    }
-  ]
-}
-
-if (response.rows?.[0]?.vehicles?.airlines?.Mandarin === 'Brt707') console.log('Get Brt707')
-
-//語法記憶 a.b有嗎?.c有嗎?
-//a.b?.c?
-```
-
-:::
 
 ### 採坑
 
@@ -151,3 +112,18 @@ variables in string
 Arrow Function
 3. `import{}`及`exportimport{}`及`export`
 4. vue 傳值
+
+## 系列
+
+1. 勇者鬥 Vue 龍 2019
+   [勇者鬥 Vue 龍 2019](https://ithelp.ithome.com.tw/users/20107789/ironman/1710)
+2. 前端史萊姆
+   [前端史萊姆與 Vue 的三十天時光冒險](https://ithelp.ithome.com.tw/users/20120426/ironman/2505)
+3. 從 0 開始 vue.js
+   [從 0 開始 vue.js 的 30 天學習日誌](https://ithelp.ithome.com.tw/users/20108224/ironman/1796)
+4. 用範例理解 Vue.js 系列
+   [用範例理解 Vue.js 系列](https://ithelp.ithome.com.tw/users/20107107/ironman/1243)
+
+##### API 補充
+
+[nextTick()方法](https://segmentfault.com/q/1010000011384320)

@@ -1,5 +1,5 @@
-<template><h1 id="vue-js練功"><a class="header-anchor" href="#vue-js練功">#</a> <i class="fas fa-meteor"></i>  Vue.js練功</h1>
-<h2 id="入門1個月要認識"><a class="header-anchor" href="#入門1個月要認識">#</a> 入門1個月要認識?</h2>
+<template><h1 id="vue-js練功筆記"><a class="header-anchor" href="#vue-js練功筆記">#</a> <i class="fas fa-meteor"></i>  Vue.js練功筆記</h1>
+<h2 id="入門1個月要認識的名詞"><a class="header-anchor" href="#入門1個月要認識的名詞">#</a> 入門1個月要認識的名詞?</h2>
 <div class="language-javascript ext-js line-numbers-mode"><pre v-pre class="language-javascript"><code>html <span class="token constant">DOM</span>節點傳遞
 JavaScript <span class="token constant">ES5</span> <span class="token constant">ES6</span> jQuery語法
 解構賦值 箭頭函數 <span class="token keyword">let</span> <span class="token keyword">const</span><span class="token punctuation">,</span>Template Literals<span class="token punctuation">,</span>Destructuring Assignment<span class="token punctuation">,</span>promise
@@ -29,37 +29,6 @@ v<span class="token operator">-</span><span class="token keyword">for</span>
 <div class="language-javascript ext-js line-numbers-mode"><pre v-pre class="language-javascript"><code><span class="token function">$forceUpdate</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
 </code></pre><div class="line-numbers"><span class="line-number">1</span><br></div></div><h3 id="名詞"><a class="header-anchor" href="#名詞">#</a> 名詞</h3>
 <p><a href="https://codertw.com/%E5%89%8D%E7%AB%AF%E9%96%8B%E7%99%BC/29473/" target="_blank" rel="noopener noreferrer">polyfill 是甚麼?<OutboundLink/></a>用於實現瀏覽器並不支援的原生API的程式碼</p>
-<h3 id="js"><a class="header-anchor" href="#js">#</a> JS</h3>
-<p><a href="https://www.gushiciku.cn/pl/ghps/zh-tw" target="_blank" rel="noopener noreferrer">如果再寫for迴圈，我就錘自己了<OutboundLink/></a></p>
-<p><a href="https://titangene.github.io/article/javascript-object-keys-values-entries.html" target="_blank" rel="noopener noreferrer">Object.keys() &amp; Object.values() &amp; Object.entries()<OutboundLink/></a></p>
-<p><a href="https://blog.techbridge.cc/2017/07/15/javascript-event-propagation/" target="_blank" rel="noopener noreferrer">事件冒泡-DOM事件傳遞<OutboundLink/></a></p>
-<details class="custom-container details"><summary>[展開圖]EventFlow</summary>
-<p><img src="https://i.imgur.com/W25OoWR.png" alt="EventFlow"></p>
-</details>
-<p><a href="https://ithelp.ithome.com.tw/articles/10230756" target="_blank" rel="noopener noreferrer">不想再看到undefined的TypeError<OutboundLink/></a></p>
-<details class="custom-container details"><summary>[展開圖]</summary>
-<div class="language-javascript ext-js line-numbers-mode"><pre v-pre class="language-javascript"><code><span class="token keyword">const</span> response <span class="token operator">=</span> <span class="token punctuation">{</span>
-  rows<span class="token operator">:</span> <span class="token punctuation">[</span>
-    <span class="token punctuation">{</span>
-      <span class="token string">"name"</span><span class="token operator">:</span> <span class="token string">"John"</span><span class="token punctuation">,</span>
-      <span class="token string">"age"</span><span class="token operator">:</span> <span class="token number">28</span><span class="token punctuation">,</span>
-      <span class="token string">"vehicles"</span><span class="token operator">:</span> <span class="token punctuation">{</span>
-         <span class="token string">"car"</span><span class="token operator">:</span> <span class="token string">"Suzuki"</span><span class="token punctuation">,</span>
-         <span class="token string">"bike"</span><span class="token operator">:</span> <span class="token string">"Ubike"</span><span class="token punctuation">,</span>
-         <span class="token string">"airlines"</span><span class="token operator">:</span><span class="token punctuation">{</span>
-            <span class="token string">"UNI AIR"</span> <span class="token operator">:</span> <span class="token string">"Air123"</span><span class="token punctuation">,</span>
-            <span class="token string">"Mandarin"</span> <span class="token operator">:</span> <span class="token string">"Brt707"</span>
-         <span class="token punctuation">}</span>
-      <span class="token punctuation">}</span>
-    <span class="token punctuation">}</span>
-  <span class="token punctuation">]</span>
-<span class="token punctuation">}</span>
-
-<span class="token keyword">if</span> <span class="token punctuation">(</span>response<span class="token punctuation">.</span>rows<span class="token operator">?.</span><span class="token punctuation">[</span><span class="token number">0</span><span class="token punctuation">]</span><span class="token operator">?.</span>vehicles<span class="token operator">?.</span>airlines<span class="token operator">?.</span>Mandarin <span class="token operator">===</span> <span class="token string">'Brt707'</span><span class="token punctuation">)</span> console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token string">'Get Brt707'</span><span class="token punctuation">)</span>
-
-<span class="token comment">//語法記憶 a.b有嗎?.c有嗎?</span>
-<span class="token comment">//a.b?.c?</span>
-</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br><span class="line-number">11</span><br><span class="line-number">12</span><br><span class="line-number">13</span><br><span class="line-number">14</span><br><span class="line-number">15</span><br><span class="line-number">16</span><br><span class="line-number">17</span><br><span class="line-number">18</span><br><span class="line-number">19</span><br><span class="line-number">20</span><br><span class="line-number">21</span><br></div></div></details>
 <h3 id="採坑"><a class="header-anchor" href="#採坑">#</a> 採坑</h3>
 <div class="custom-container tip"><p class="custom-container-title">vue template 根節點</p>
 <pre><code>Vue template裡面只能有一個根節點
@@ -125,4 +94,17 @@ Arrow Function</li>
 <li><code>import{}</code>及<code>exportimport{}</code>及<code>export</code></li>
 <li>vue 傳值</li>
 </ol>
+<h2 id="系列"><a class="header-anchor" href="#系列">#</a> 系列</h2>
+<ol>
+<li>勇者鬥 Vue 龍 2019
+<a href="https://ithelp.ithome.com.tw/users/20107789/ironman/1710" target="_blank" rel="noopener noreferrer">勇者鬥 Vue 龍 2019<OutboundLink/></a></li>
+<li>前端史萊姆
+<a href="https://ithelp.ithome.com.tw/users/20120426/ironman/2505" target="_blank" rel="noopener noreferrer">前端史萊姆與 Vue 的三十天時光冒險<OutboundLink/></a></li>
+<li>從 0 開始 vue.js
+<a href="https://ithelp.ithome.com.tw/users/20108224/ironman/1796" target="_blank" rel="noopener noreferrer">從 0 開始 vue.js 的 30 天學習日誌<OutboundLink/></a></li>
+<li>用範例理解 Vue.js 系列
+<a href="https://ithelp.ithome.com.tw/users/20107107/ironman/1243" target="_blank" rel="noopener noreferrer">用範例理解 Vue.js 系列<OutboundLink/></a></li>
+</ol>
+<h5 id="api-補充"><a class="header-anchor" href="#api-補充">#</a> API 補充</h5>
+<p><a href="https://segmentfault.com/q/1010000011384320" target="_blank" rel="noopener noreferrer">nextTick()方法<OutboundLink/></a></p>
 </template>

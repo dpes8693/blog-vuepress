@@ -1,4 +1,5 @@
-<template><h1 id="小常識"><a class="header-anchor" href="#小常識">#</a> 小常識</h1>
+<template><h1 id="學習資源1"><a class="header-anchor" href="#學習資源1">#</a> 學習資源1</h1>
+<!-- common -->
 <h2 id="網頁架構"><a class="header-anchor" href="#網頁架構">#</a> 網頁架構</h2>
 <p>說到網頁不得不提 DOM BOM
 <img src="https://i.imgur.com/n9FjFpv.png" alt="BOM"></p>

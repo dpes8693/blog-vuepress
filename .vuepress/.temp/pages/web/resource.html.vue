@@ -1,30 +1,57 @@
-<template><h1 id="深入的學習link"><a class="header-anchor" href="#深入的學習link">#</a> 深入的學習link</h1>
+<template><h1 id="學習資源2"><a class="header-anchor" href="#學習資源2">#</a> 學習資源2</h1>
+<!-- resource -->
 <h2 id="關於前端發展"><a class="header-anchor" href="#關於前端發展">#</a> 關於前端發展</h2>
 <ol>
-<li>web前端入坑系列
-<img src="https://i.imgur.com/lwKwPXJ.png" alt="web前端入坑系列">
-<a href="https://codertw.com/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/36936/" target="_blank" rel="noopener noreferrer">web前端入坑系列<OutboundLink/></a></li>
+<li>web 前端入坑系列</li>
 </ol>
+<p>
+  第一篇：&nbsp;<a
+    href="https://mp.weixin.qq.com/s?__biz=MzI5ODM3MjcxNQ==&amp;mid=2247483703&amp;idx=1&amp;sn=173038906c6c86346fc14670af7cfb27&amp;scene=21#wechat_redirect"
+    >web 前端入坑第一篇：web前端到底是什麼？有前途嗎</a
+  ><br />第二篇：&nbsp;<a
+    href="https://mp.weixin.qq.com/s?__biz=MzI5ODM3MjcxNQ==&amp;mid=2247483840&amp;idx=2&amp;sn=0ff8bb94c24f0fd4bb9a044a9ff9251d&amp;scene=21#wechat_redirect"
+    >web前端入坑第二篇：web前端到底怎麼學？乾貨資料！</a
+  ><br />第三篇：&nbsp;<a
+    href="https://mp.weixin.qq.com/s?__biz=MzI5ODM3MjcxNQ==&amp;mid=2247483750&amp;idx=1&amp;sn=5dbb5b0e57ca0a1625a2e62b6f4eaf32&amp;scene=21#wechat_redirect"
+    >web前端入坑第三篇：&nbsp;</a
+  ><a
+    href="https://mp.weixin.qq.com/s?__biz=MzI5ODM3MjcxNQ==&amp;mid=2247483840&amp;idx=2&amp;sn=0ff8bb94c24f0fd4bb9a044a9ff9251d&amp;scene=21#wechat_redirect"
+    >web前端| 一條“不歸路” – 學習路線！</a><br />第四篇：&nbsp;<a
+    href="https://mp.weixin.qq.com/s?__biz=MzI5ODM3MjcxNQ==&amp;mid=2247483750&amp;idx=1&amp;sn=5dbb5b0e57ca0a1625a2e62b6f4eaf32&amp;scene=21#wechat_redirect"
+    >web前端入坑第四篇：&nbsp;</a
+  ><a
+    href="https://mp.weixin.qq.com/s?__biz=MzI5ODM3MjcxNQ==&amp;mid=2247483840&amp;idx=2&amp;sn=0ff8bb94c24f0fd4bb9a044a9ff9251d&amp;scene=21#wechat_redirect"
+  >web前端 | 你還在用jQuery？</a><br />第五篇：&nbsp;<a
+    href="https://mp.weixin.qq.com/s?__biz=MzI5ODM3MjcxNQ==&amp;mid=2247483943&amp;idx=1&amp;sn=d2b019ae41d8bd63d42f5abd0df64173&amp;chksm=eca79923dbd01035b4038e8c513075ed5dcf201659cfca291125f45b4491fa96cf8b6f023a50&amp;scene=21#wechat_redirect"
+    >秒懂Vuejs、Angular、React原理和前端發展歷史</a
+  ><a
+    href="https://mp.weixin.qq.com/s?__biz=MzI5ODM3MjcxNQ==&amp;mid=2247483943&amp;idx=1&amp;sn=d2b019ae41d8bd63d42f5abd0df64173&amp;chksm=eca79923dbd01035b4038e8c513075ed5dcf201659cfca291125f45b4491fa96cf8b6f023a50&amp;scene=21#wechat_redirect"
+    >！</a
+  ><br />番外篇：&nbsp;<a
+    href="https://mp.weixin.qq.com/s?__biz=MzI5ODM3MjcxNQ==&amp;mid=2247483777&amp;idx=1&amp;sn=b958ee69a06bd5b775623e0cb23a526c&amp;scene=21#wechat_redirect"
+    >web前端&nbsp;|&nbsp;如何選擇擼碼神器</a
+  >
+</p>
 <h2 id="資料處理"><a class="header-anchor" href="#資料處理">#</a> 資料處理</h2>
 <ol start="0">
 <li>
-<p>API RESTful JSON範例
+<p>API RESTful JSON 範例
 <a href="https://course-ec-api.hexschool.io/document?javascript#frontend-login" target="_blank" rel="noopener noreferrer">generated API reference.<OutboundLink/></a></p>
 </li>
 <li>
-<p>request的方式？ajax &amp; fetch &amp; axios
+<p>request 的方式？ajax &amp; fetch &amp; axios
 <img src="https://i.imgur.com/47fsWV8.png" alt="ajax &amp; fetch &amp; axios">
 <a href="https://ithelp.ithome.com.tw/articles/10244631" target="_blank" rel="noopener noreferrer">ajax &amp; fetch &amp; axios<OutboundLink/></a></p>
 </li>
 <li>
-<p>JavaScript基本功修練：Day29 - axios基本語法與練習(GET、POST請求)
+<p>JavaScript 基本功修練：Day29 - axios 基本語法與練習(GET、POST 請求)
 <img src="https://i.imgur.com/w1INAgp.png" alt="基本功">
-<a href="https://ithelp.ithome.com.tw/articles/10253259" target="_blank" rel="noopener noreferrer">axios基本語法與練習<OutboundLink/></a></p>
+<a href="https://ithelp.ithome.com.tw/articles/10253259" target="_blank" rel="noopener noreferrer">axios 基本語法與練習<OutboundLink/></a></p>
 </li>
 <li>
-<p>Axios介紹(使用+作用)<br>
+<p>Axios 介紹(使用+作用)<br>
 <img src="https://i.imgur.com/LrF5Lrd.png" alt="Axios介紹(使用+作用)"><br>
-<a href="https://www.cnblogs.com/yuanjili666/articles/11299759.html" target="_blank" rel="noopener noreferrer">Axios介紹(使用+作用)<OutboundLink/></a></p>
+<a href="https://www.cnblogs.com/yuanjili666/articles/11299759.html" target="_blank" rel="noopener noreferrer">Axios 介紹(使用+作用)<OutboundLink/></a></p>
 </li>
 </ol>
 <h3 id="登入"><a class="header-anchor" href="#登入">#</a> 登入</h3>
@@ -33,69 +60,79 @@
 </code></pre>
 <hr>
 <h2 id="js"><a class="header-anchor" href="#js">#</a> JS</h2>
-<div class="language-javascript ext-js line-numbers-mode"><pre v-pre class="language-javascript"><code><span class="token constant">ES6</span>普及了 Chrome完全支援<span class="token constant">ES7</span> 持續努力
-Hoisting
-<span class="token keyword">undefined</span>
-coercion 扣兒二宣<span class="token operator">-</span><span class="token operator">></span>強迫
-precedence 優先級
+<div class="language-javascript ext-js line-numbers-mode"><pre v-pre class="language-javascript"><code><span class="token comment">// 兩個單字先背</span>
+<span class="token comment">// coercion 發音:扣兒二宣->強迫轉型別</span>
+<span class="token comment">// precedence 優先級</span>
 
-<span class="token function">陳述式</span><span class="token punctuation">(</span>Statement<span class="token punctuation">)</span> 不會回傳結果。 
-    <span class="token keyword">var</span> a <span class="token operator">=</span><span class="token number">1</span>
-<span class="token operator">*</span><span class="token function">表達式</span><span class="token punctuation">(</span>Expression<span class="token punctuation">)</span> <span class="token keyword">return</span>
-    <span class="token number">1</span>
-    <span class="token boolean">true</span>
-    <span class="token keyword">return</span> <span class="token number">2</span>
-</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br><span class="line-number">11</span><br><span class="line-number">12</span><br></div></div><ol>
+<span class="token function">陳述式</span><span class="token punctuation">(</span>Statement<span class="token punctuation">)</span><span class="token punctuation">;</span> <span class="token comment">//不會回傳結果</span>
+<span class="token keyword">var</span> a <span class="token operator">=</span> <span class="token number">1</span> <span class="token operator">*</span> <span class="token function">表達式</span><span class="token punctuation">(</span>Expression<span class="token punctuation">)</span><span class="token punctuation">;</span> <span class="token comment">//會回傳結果</span>
+<span class="token number">1</span><span class="token punctuation">;</span>
+<span class="token boolean">true</span><span class="token punctuation">;</span>
+<span class="token keyword">return</span> <span class="token number">2</span><span class="token punctuation">;</span>
+</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br></div></div><ol>
 <li>
-<p><a href="https://pjchender.blogspot.com/2016/04/javascriptparameterargumentsspread.html" target="_blank" rel="noopener noreferrer">JS中函式的參數(parameter),arguments和展開運算子(spread)<OutboundLink/></a></p>
+<p><a href="https://pjchender.blogspot.com/2016/04/javascriptparameterargumentsspread.html" target="_blank" rel="noopener noreferrer">JS 中函式的參數(parameter),arguments 和展開運算子(spread)<OutboundLink/></a></p>
 <p>中文 爭論,論證;白話來說就是 裡面得參數用很像陣列的方式表示</p>
-<div class="language-javascript ext-js line-numbers-mode"><pre v-pre class="language-javascript"><code>    <span class="token keyword">function</span> <span class="token function">argu</span><span class="token punctuation">(</span><span class="token parameter">帶入的參數<span class="token number">1</span><span class="token punctuation">,</span>參數<span class="token number">2</span></span><span class="token punctuation">)</span><span class="token punctuation">{</span>
-        console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>arguments<span class="token punctuation">)</span>
-    <span class="token punctuation">}</span>
-    <span class="token comment">//斜體的 [] (array-like)</span>
-    <span class="token function">argu</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span><span class="token comment">// []</span>
-    <span class="token function">argu</span><span class="token punctuation">(</span><span class="token string">"87"</span><span class="token punctuation">)</span><span class="token punctuation">;</span><span class="token comment">// ["87"]</span>
-    <span class="token function">argu</span><span class="token punctuation">(</span><span class="token string">"54"</span><span class="token punctuation">,</span><span class="token string">"87"</span><span class="token punctuation">)</span><span class="token punctuation">;</span><span class="token comment">// ["54","87"]</span>
-
-</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br></div></div></li>
+<div class="language-javascript ext-js line-numbers-mode"><pre v-pre class="language-javascript"><code><span class="token keyword">function</span> <span class="token function">argu</span><span class="token punctuation">(</span><span class="token parameter">帶入的參數<span class="token number">1</span><span class="token punctuation">,</span> 參數<span class="token number">2</span></span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+  console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>arguments<span class="token punctuation">)</span><span class="token punctuation">;</span>
+<span class="token punctuation">}</span>
+<span class="token comment">//斜體的 [] (array-like)</span>
+<span class="token function">argu</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span> <span class="token comment">// []</span>
+<span class="token function">argu</span><span class="token punctuation">(</span><span class="token string">"87"</span><span class="token punctuation">)</span><span class="token punctuation">;</span> <span class="token comment">// ["87"]</span>
+<span class="token function">argu</span><span class="token punctuation">(</span><span class="token string">"54"</span><span class="token punctuation">,</span> <span class="token string">"87"</span><span class="token punctuation">)</span><span class="token punctuation">;</span> <span class="token comment">// ["54","87"]</span>
+</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br></div></div></li>
 <li>
-<p><a href="https://pjchender.blogspot.com/2016/01/javascriptcoercion-default-value.html" target="_blank" rel="noopener noreferrer">JS中coercion的實際使用--建立函式預設值(default value)<OutboundLink/></a>
-舉個例子</p>
-<div class="language-javascript ext-js line-numbers-mode"><pre v-pre class="language-javascript"><code>    <span class="token function">dialogDelete</span><span class="token punctuation">(</span><span class="token parameter">val</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-    val <span class="token operator">||</span> <span class="token keyword">this</span><span class="token punctuation">.</span><span class="token function">closeDelete</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
-    
-    <span class="token punctuation">}</span>
-
-    <span class="token keyword">function</span> <span class="token function">greet</span><span class="token punctuation">(</span><span class="token parameter">name</span><span class="token punctuation">)</span><span class="token punctuation">{</span>
-        name <span class="token operator">=</span> nme <span class="token operator">||</span> <span class="token string">'8787'</span>
-        console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>name<span class="token punctuation">)</span>
-    <span class="token punctuation">}</span>
-
-</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br></div></div></li>
+<p><a href="https://pjchender.blogspot.com/2016/01/javascriptcoercion-default-value.html" target="_blank" rel="noopener noreferrer">JS 中 coercion 的實際使用--建立函式預設值(default value)<OutboundLink/></a></p>
+<div class="language-javascript ext-js line-numbers-mode"><pre v-pre class="language-javascript"><code><span class="token keyword">function</span> <span class="token function">greet</span><span class="token punctuation">(</span><span class="token parameter">name</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+  <span class="token comment">// || precedence高</span>
+  name <span class="token operator">=</span> name <span class="token operator">||</span> <span class="token string">"yoyo8787"</span><span class="token punctuation">;</span> <span class="token comment">// undefined被轉成false</span>
+  console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>name<span class="token punctuation">)</span><span class="token punctuation">;</span>
+<span class="token punctuation">}</span>
+</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br></div></div></li>
 <li>
-<p><a href="https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Functions/Arrow_functions" target="_blank" rel="noopener noreferrer">箭頭函式ES6<OutboundLink/></a></p>
+<p><a href="https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Functions/Arrow_functions" target="_blank" rel="noopener noreferrer">箭頭函式 ES6<OutboundLink/></a></p>
+</li>
+<li>
+<p>大推 <a href="https://www.gushiciku.cn/pl/ghps/zh-tw" target="_blank" rel="noopener noreferrer">for 迴圈大亂逗<OutboundLink/></a></p>
+</li>
+<li>
+<p><a href="https://titangene.github.io/article/javascript-object-keys-values-entries.html" target="_blank" rel="noopener noreferrer">Object.keys() &amp; Object.values() &amp; Object.entries()<OutboundLink/></a></p>
+</li>
+<li>
+<p><a href="https://blog.techbridge.cc/2017/07/15/javascript-event-propagation/" target="_blank" rel="noopener noreferrer">事件冒泡-DOM 事件傳遞<OutboundLink/></a></p>
 </li>
 </ol>
-<hr>
-<h2 id="vue"><a class="header-anchor" href="#vue">#</a> Vue</h2>
-<ol>
-<li>勇者鬥Vue龍 2019
-<a href="https://ithelp.ithome.com.tw/users/20107789/ironman/1710" target="_blank" rel="noopener noreferrer">勇者鬥Vue龍 2019<OutboundLink/></a></li>
-<li>前端史萊姆
-<a href="https://ithelp.ithome.com.tw/users/20120426/ironman/2505" target="_blank" rel="noopener noreferrer">前端史萊姆與Vue的三十天時光冒險<OutboundLink/></a></li>
-<li>從0開始vue.js
-<a href="https://ithelp.ithome.com.tw/users/20108224/ironman/1796" target="_blank" rel="noopener noreferrer">從0開始vue.js的30天學習日誌<OutboundLink/></a></li>
-<li>用範例理解 Vue.js 系列
-<a href="https://ithelp.ithome.com.tw/users/20107107/ironman/1243" target="_blank" rel="noopener noreferrer">用範例理解 Vue.js 系列<OutboundLink/></a></li>
+<details class="custom-container details"><summary>[展開/收合]EventFlow</summary>
+<p><img src="https://i.imgur.com/W25OoWR.png" alt="EventFlow"></p>
+</details>
+<ol start="7">
+<li><a href="https://ithelp.ithome.com.tw/articles/10230756" target="_blank" rel="noopener noreferrer">Optional chaining operator<OutboundLink/></a></li>
 </ol>
-<h5 id="nexttick"><a class="header-anchor" href="#nexttick">#</a> nextTick()</h5>
-<pre><code>1. nextTick()方法,白話來說就是 等函數執行完成才渲染啦,不用徒勞作渲染
-    ```js
-    Vue.nextTick()
-    ```
-</code></pre>
+<details class="custom-container details"><summary>[展開/收合]</summary>
+<div class="language-javascript ext-js line-numbers-mode"><pre v-pre class="language-javascript"><code><span class="token keyword">const</span> response <span class="token operator">=</span> <span class="token punctuation">{</span>
+  rows<span class="token operator">:</span> <span class="token punctuation">[</span>
+    <span class="token punctuation">{</span>
+      name<span class="token operator">:</span> <span class="token string">"John"</span><span class="token punctuation">,</span>
+      age<span class="token operator">:</span> <span class="token number">28</span><span class="token punctuation">,</span>
+      vehicles<span class="token operator">:</span> <span class="token punctuation">{</span>
+        car<span class="token operator">:</span> <span class="token string">"Suzuki"</span><span class="token punctuation">,</span>
+        bike<span class="token operator">:</span> <span class="token string">"Ubike"</span><span class="token punctuation">,</span>
+        airlines<span class="token operator">:</span> <span class="token punctuation">{</span>
+          <span class="token string">"UNI AIR"</span><span class="token operator">:</span> <span class="token string">"Air123"</span><span class="token punctuation">,</span>
+          Mandarin<span class="token operator">:</span> <span class="token string">"Brt707"</span><span class="token punctuation">,</span>
+        <span class="token punctuation">}</span><span class="token punctuation">,</span>
+      <span class="token punctuation">}</span><span class="token punctuation">,</span>
+    <span class="token punctuation">}</span><span class="token punctuation">,</span>
+  <span class="token punctuation">]</span><span class="token punctuation">,</span>
+<span class="token punctuation">}</span><span class="token punctuation">;</span>
+
+<span class="token keyword">if</span> <span class="token punctuation">(</span>response<span class="token punctuation">.</span>rows<span class="token operator">?.</span><span class="token punctuation">[</span><span class="token number">0</span><span class="token punctuation">]</span><span class="token operator">?.</span>vehicles<span class="token operator">?.</span>airlines<span class="token operator">?.</span>Mandarin <span class="token operator">===</span> <span class="token string">"Brt707"</span><span class="token punctuation">)</span>
+  console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token string">"Get Brt707"</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+
+<span class="token comment">//語法記憶 a.b有嗎?.c有嗎?</span>
+<span class="token comment">//a.b?.c?</span>
+</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br><span class="line-number">11</span><br><span class="line-number">12</span><br><span class="line-number">13</span><br><span class="line-number">14</span><br><span class="line-number">15</span><br><span class="line-number">16</span><br><span class="line-number">17</span><br><span class="line-number">18</span><br><span class="line-number">19</span><br><span class="line-number">20</span><br><span class="line-number">21</span><br><span class="line-number">22</span><br></div></div></details>
 <h2 id="css"><a class="header-anchor" href="#css">#</a> CSS</h2>
-<p>權重
-<a href="https://ithelp.ithome.com.tw/articles/10196454" target="_blank" rel="noopener noreferrer">權重<OutboundLink/></a>
-<a href="https://ithelp.ithome.com.tw/articles/10240444" target="_blank" rel="noopener noreferrer">Specificity<OutboundLink/></a></p>
+<p><a href="https://ithelp.ithome.com.tw/articles/10196454" target="_blank" rel="noopener noreferrer">權重<OutboundLink/></a></p>
+<p><a href="https://ithelp.ithome.com.tw/articles/10240444" target="_blank" rel="noopener noreferrer">Specificity<OutboundLink/></a></p>
 </template>

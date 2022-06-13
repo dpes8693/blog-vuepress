@@ -28,8 +28,8 @@ export const themeData = {
       "text": "Web",
       "children": [
         "/web/common.md",
-        "/web/vue.md",
-        "/web/resource.md"
+        "/web/resource.md",
+        "/web/vue.md"
       ]
     },
     {

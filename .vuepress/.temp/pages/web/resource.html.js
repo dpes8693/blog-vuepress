@@ -1,7 +1,7 @@
 export const data = {
   "key": "v-2ca18037",
   "path": "/web/resource.html",
-  "title": "深入的學習link",
+  "title": "學習資源2",
   "lang": "zh-tw",
   "frontmatter": {},
   "excerpt": "",
@@ -29,12 +29,6 @@ export const data = {
       "level": 2,
       "title": "JS",
       "slug": "js",
-      "children": []
-    },
-    {
-      "level": 2,
-      "title": "Vue",
-      "slug": "vue",
       "children": []
     },
     {
