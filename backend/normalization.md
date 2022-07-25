@@ -201,3 +201,5 @@ ID | NAME | TEL.
 [ERD img example](https://www.twblogs.net/a/5db3328ebd9eee310da02e92)
 
 [資料庫設計筆記](https://codertw.com/%E8%B3%87%E6%96%99%E5%BA%AB/123167/)
+
+[[資料庫] 關聯介紹 一對一、一對多、多對多](https://notes.andywu.tw/2018/%E8%B3%87%E6%96%99%E5%BA%AB-%E9%97%9C%E8%81%AF%E4%BB%8B%E7%B4%B9-%E4%B8%80%E5%B0%8D%E4%B8%80%E3%80%81%E4%B8%80%E5%B0%8D%E5%A4%9A%E3%80%81%E5%A4%9A%E5%B0%8D%E5%A4%9A/)
