@@ -47,6 +47,8 @@ export const pagesComponents = {
   "v-2eeca661": defineAsyncComponent(() => import(/* webpackChunkName: "v-2eeca661" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/backend/express/file-type.html.vue")),
   // path: /backend/express/
   "v-58947e5a": defineAsyncComponent(() => import(/* webpackChunkName: "v-58947e5a" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/backend/express/index.html.vue")),
+  // path: /docs/demo/test.html
+  "v-6d829d16": defineAsyncComponent(() => import(/* webpackChunkName: "v-6d829d16" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/docs/demo/test.html.vue")),
   // path: /others/tangram/gov20201029.html
   "v-dca0311a": defineAsyncComponent(() => import(/* webpackChunkName: "v-dca0311a" */"C:/Users/YUAN/Documents/Github/blog-vuepress/.vuepress/.temp/pages/others/tangram/gov20201029.html.vue")),
   // path: /others/tangram/
