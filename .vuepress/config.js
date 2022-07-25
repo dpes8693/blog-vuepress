@@ -58,7 +58,7 @@ module.exports = {
       },
       {
         isGroup: true,
-        text: "工具",
+        text: "Tool",
         children: ["/tools/vscode.md","/tools/url.md"]
       },
       {
