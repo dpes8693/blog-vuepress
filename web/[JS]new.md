@@ -77,10 +77,11 @@ params.append("passward", password);
 
 // 0726
 var e = new KeyboardEvent("keydown", { key: "g" });
+//NEW 起來
 ```
 
----
 
-NEW 起來
-Primitive Wrapper
-https://ithelp.ithome.com.tw/articles/10193902
+
+### Primitive Wrapper
+
+[https://ithelp.ithome.com.tw/articles/10193902](https://ithelp.ithome.com.tw/articles/10193902)
