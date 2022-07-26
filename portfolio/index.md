@@ -19,6 +19,6 @@
 | [包子漫畫 前往下一話 插件](https://home.gamer.com.tw/artwork.php?sn=5450569) | `Tampermonkey` | 電腦看漫畫操作滑鼠點按鈕太麻煩 [2022製]
 | [租金列印表單](https://dpes8693.github.io/vuetify-rent/) | `列印` | 協助親人建置列印租金表單 [2022製]
 | [嗨皮漫畫 前往下一話 插件](https://home.gamer.com.tw/artwork.php?sn=5476179) | `Tampermonkey` | 電腦看漫畫操作滑鼠點按鈕太麻煩 [2022製]
-
-<!-- 鬼滅 -->
+| [看漫畫神器](https://dpes8693.github.io/manga-tool/) | `漫畫` | 想一口氣抓取很多話漫畫，連貫地看完 [2022製]
+| [自用寫後端轉換小工具](./backTool.md) | `工具` | 寫後端時快速轉換成自己需要的格式 [2022製]
 <!-- ATM MAP -->
