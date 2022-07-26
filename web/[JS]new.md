@@ -1,3 +1,5 @@
+# How many new Object? @@
+
 ```js
 //Math
 //BigInt
@@ -37,21 +39,21 @@ let reader = new FileReader();
 
 let speech = new webkitSpeechRecognition(); //webkit
 //Blob物件
-new Blob
+new Blob();
 
 //Proxy物件
-const buffer = new ArrayBuffer(8);//16
+const buffer = new ArrayBuffer(8); //16
 // new RangeError([message[, fileName[, lineNumber]]])
-let a = new Proxy({id:1},function(){})
+let a = new Proxy({ id: 1 }, function () {});
 
 // new URL(<url>, <base>);
 // 建立 URL 物件
-new URL('https://www.google.com/foo'); // https://www.google.com/foo
-new URL('bar', 'https://www.google.com/foo'); // https://www.google.com/bar
+new URL("https://www.google.com/foo"); // https://www.google.com/foo
+new URL("bar", "https://www.google.com/foo"); // https://www.google.com/bar
 
 // 建立 Hash Tag
-var url = new URL('https://example.com/path?foo=1&bar=2');
-url.hash = 'hashTag';
+var url = new URL("https://example.com/path?foo=1&bar=2");
+url.hash = "hashTag";
 
 // 取得 url 資訊
 url.href; // "https://example.com/path?foo=1&bar=2"
@@ -63,28 +65,22 @@ url.protocol; // "https:"
 // 可以用的方法
 url.toString(); // "https://example.com/path?foo=1&bar=2"
 
+new XMLSerializer();
 
- new XMLSerializer()
-
-var data = new FormData()
-
+var data = new FormData();
 
 let params = new URLSearchParams();
-const userName = document.querySelector('.username'); // userNo1
-const password = document.querySelector('.password'); // 123456aaa
-params.append('username', userName);
-params.append('passward', password);
+const userName = document.querySelector(".username"); // userNo1
+const password = document.querySelector(".password"); // 123456aaa
+params.append("username", userName);
+params.append("passward", password);
 
 // 0726
-var e = new KeyboardEvent("keydown", {key:"g"});
-
+var e = new KeyboardEvent("keydown", { key: "g" });
 ```
 
 ---
 
-
-
-
-NEW起來
+NEW 起來
 Primitive Wrapper
 https://ithelp.ithome.com.tw/articles/10193902

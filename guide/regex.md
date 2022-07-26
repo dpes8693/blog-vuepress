@@ -1,4 +1,7 @@
-## pattern flag
+# Regex @@
+
+```md
+## pattern flag 
 符號
 
 /^\d{3}$/g
@@ -123,3 +126,4 @@ parsInt('101',8) //65
     
     ?<= is for positive look behind
     ?<! is for negative look behind
+```    
