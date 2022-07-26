@@ -1,6 +1,12 @@
 # About Software Design @@
 
-https://youtu.be/dGbzlsBuw9M
+推薦影片:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e0UOuQ_lCUY?start=141" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+以下筆記參考來源:
+
+[https://youtu.be/dGbzlsBuw9M](https://youtu.be/dGbzlsBuw9M)
 
 ## 如何製作軟的產品 ?
 大方向來說兩點
