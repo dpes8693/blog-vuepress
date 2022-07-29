@@ -32,10 +32,10 @@ module.exports = {
       //   link: '/guide/1.md',
       // },
       // NavbarGroup
-      // {
-      //   text: 'Group',
-      //   children: ['/group/foo.md', '/group/bar.md'],
-      // },
+      {
+        text: 'Work',
+        children: ['/interview/interview-2022.md'],
+      },
       //'/guide/1.md',
     ],
     //會去抓#的名稱
