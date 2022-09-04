@@ -1,4 +1,5 @@
-# MSI MD241PW 24吋螢幕 心得
+# MSI MD241PW 24 吋螢幕 心得
+
 ![圖一 看漫畫](https://drive.google.com/uc?export=download&id=1hVf-iXPP2r3SO4w36cc3kFQ9P-iVstXE)
 
 人生中第二次買螢幕 做個心得紀錄
@@ -76,8 +77,10 @@ reddot winner 2021 Business & Productivity Monitors winner
 價格擺在那...
 放兩個對比(Samsung S20 錄音):
 
-小米方盒子藍牙喇叭 2
-MSI MD241PW 24
+- 小米方盒子藍牙喇叭 2
+  - https://www.dropbox.com/s/rpl0dyuwbdox64z/2.wav?dl=0
+- MSI MD241PW 24
+  - https://www.dropbox.com/s/8gts7sfpmk4779d/1.wav?dl=0
 
 ## 接口 [6.5/10]
 
