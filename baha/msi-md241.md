@@ -61,7 +61,7 @@ reddot winner 2021 Business & Productivity Monitors winner
 
 - OSD(On-Screen Display)
   簡單好上手
-  `私心許願`:出旋轉 90 度，讓手機也能方便投影
+  `私心許願`:增加畫面旋轉 90 度功能，讓手機也能方便投影
 
 - MSI 有出 display kit
 
