@@ -4,20 +4,24 @@
 
 - 範例輸入格式
 
-```
+```md
 https://drive.google.com/file/d/1FgTcxp2FPxXZD9FxlYgMABWGEYPIT3k4/view?usp=sharing
+
+`2023/04/22發現有新版 是 /view?usp=share_link 結尾`
+https://drive.google.com/file/d/1FgTcxp2FPxXZD9FxlYgMABWGEYPIT3k4/view?usp=share_link
 ```
 
 - 範例輸出格式
 
-```
+```md
 https://drive.google.com/uc?export=download&id=1FgTcxp2FPxXZD9FxlYgMABWGEYPIT3k4
 ```
 
 <h3>作品</h3>
-<iframe width="100%" height="300" src="//jsfiddle.net/dpes5407/63rxdc42/embedded/result/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
 
-<!-- <iframe width="100%" height="200" src="//jsfiddle.net/dpes5407/63rxdc42/185/embedded/result/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe> -->
+<iframe width="100%" height="300" src="//jsfiddle.net/dpes5407/63rxdc42/256/embedded/result/dark/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
+
+<!-- <iframe width="100%" height="300" src="//jsfiddle.net/dpes5407/63rxdc42/embedded/result/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe> -->
 
 <h3>操作方式</h3>
 

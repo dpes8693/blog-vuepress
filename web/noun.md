@@ -272,4 +272,5 @@ XSS(){
 + e2e
 + circleCI
 + alias
++ service-worker & indexDB
 
