@@ -63,6 +63,11 @@ module.exports = {
       },
       {
         isGroup: true,
+        text: "Git",
+        children: ["/git/index.md"],
+      },
+      {
+        isGroup: true,
         text: "Web",
         children: [
           "/web/common.md",

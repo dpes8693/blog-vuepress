@@ -157,7 +157,7 @@ yarn vuepress dev
 
 :::
 
-+ 'dest' 是 build 打包時 資料夾名稱,因為部屬到 Github 要用 docs
++ 'dist' 是 build 打包時 資料夾名稱,因為部屬到 Github 要用 docs
 + 'head' 後面連結是 icon 的位置 需要自己建立/.vuepress/public/images
 + 'base' 是你專案的名稱
 + 'navbar' 右上導覽
