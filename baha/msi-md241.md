@@ -1,6 +1,6 @@
 # MSI MD241PW 24 吋螢幕 心得
 
-![圖一 看漫畫](https://drive.google.com/uc?export=download&id=1hVf-iXPP2r3SO4w36cc3kFQ9P-iVstXE)
+![圖一 看漫畫](https://drive.google.com/thumbnail?id=1hVf-iXPP2r3SO4w36cc3kFQ9P-iVstXE&sz=w1366)
 
 人生中第二次買螢幕 做個心得紀錄
 使用了 MSI MD241PW 24 吋螢幕一段時間以下分成幾個網路上沒什麼人討論的部分說明
@@ -11,7 +11,7 @@
 
 這次是在蝦皮購買的 2 天多就宅配到家裡了
 
-![圖二 蝦皮](https://drive.google.com/uc?export=download&id=1d3K_On4h9iekIGmCen6BY0QL3J2A5qdH)
+![圖二 蝦皮](https://drive.google.com/thumbnail?id=1d3K_On4h9iekIGmCen6BY0QL3J2A5qdH&sz=w1366)
 
 - 基本參數
   - 保固三年
@@ -51,7 +51,7 @@ reddot winner 2021 Business & Productivity Monitors winner
 - 反光: 螢幕是霧面的有做反光處理
 - 漏光: 肉眼看真的還好但是用手機拍四周還是有點明顯(畢竟是 IPS)
 
-![圖三 全暗環境測試](https://drive.google.com/uc?export=download&id=1l2AzLtSNkCJJxKLV-ZjIilwWnEYWBzbs)
+![圖三 全暗環境測試](https://drive.google.com/thumbnail?id=1l2AzLtSNkCJJxKLV-ZjIilwWnEYWBzbs&sz=w1366)
 
 整體來說是一塊很棒的螢幕
 
@@ -99,9 +99,9 @@ SamsungDex 模式
 
 或許將這台螢幕的喇叭和 3.5mm 移除改成 USB3.0 會賣的更好(?)
 
-![圖四 接口](https://drive.google.com/uc?export=download&id=18VhLTJ8AZol7D88VUfVQ01qOuNy02RQ-)
+![圖四 接口](https://drive.google.com/thumbnail?id=18VhLTJ8AZol7D88VUfVQ01qOuNy02RQ-&sz=w1366)
 
-![圖五 變壓器](https://drive.google.com/uc?export=download&id=1p3w_BgJrJ918bsj_4izndemz8ZzNAwgF)
+![圖五 變壓器](https://drive.google.com/thumbnail?id=1p3w_BgJrJ918bsj_4izndemz8ZzNAwgF&sz=w1366)
 
 ---
 
