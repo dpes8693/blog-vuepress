@@ -48,11 +48,11 @@ We Need To Go Deeper
 
 ## DEMO
 
-![DEMO](https://drive.google.com/uc?export=download&id=19FSsqNrBGUNZZh21vXkZDa2xASShB4L1)
+![DEMO](https://drive.google.com/thumbnail?id=19FSsqNrBGUNZZh21vXkZDa2xASShB4L1&sz=w1366)
 
-![editArticle](https://drive.google.com/uc?export=download&id=1xT-PRxE36V769VJOt9D44aWbO3GdTDqL)
+![editArticle](https://drive.google.com/thumbnail?id=1xT-PRxE36V769VJOt9D44aWbO3GdTDqL&sz=w1366)
 
-![article](https://drive.google.com/uc?export=download&id=19j8XMXcqffbOnL8yDXuWkrruZQj1AIUY)
+![article](https://drive.google.com/thumbnail?id=19j8XMXcqffbOnL8yDXuWkrruZQj1AIUY&sz=w1366)
 
 ## 實作中練了什麼
 

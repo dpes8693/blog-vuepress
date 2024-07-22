@@ -108,8 +108,8 @@
 
 ```
 
-![api](https://drive.google.com/uc?export=download&id=1Q9TW06Xf7AzS_d0MmdMbRcRyRelK_vfk)
-![DNS](https://drive.google.com/uc?export=download&id=12oFm4dk-3guNnHwOco7xNS9MCaSc-JPK)
+![api](https://drive.google.com/thumbnail?id=1Q9TW06Xf7AzS_d0MmdMbRcRyRelK_vfk&sz=w1366)
+![DNS](https://drive.google.com/thumbnail?id=12oFm4dk-3guNnHwOco7xNS9MCaSc-JPK&sz=w1366)
 
 </details>
 
