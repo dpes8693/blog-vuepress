@@ -31,7 +31,7 @@ cmd
 
 ```
 
-![稽核原則追蹤](https://drive.google.com/uc?export=download&id=1Qas3DIHzRj1tPMKV2Z7Rt77b8p6779rp)
+![稽核原則追蹤](https://drive.google.com/thumbnail?id=1Qas3DIHzRj1tPMKV2Z7Rt77b8p6779rp&sz=w1366)
 
 ## cmd 命令
 

@@ -186,7 +186,7 @@ ID | NAME | TEL.
 是不是都只要改一次就好了呢?
 :::
 
-![完成比較圖](https://drive.google.com/uc?export=download&id=1CkGb1GdJpKv-kv736Ws-0ePhruRb8I8u)
+![完成比較圖](https://drive.google.com/thumbnail?id=1CkGb1GdJpKv-kv736Ws-0ePhruRb8I8u&sz=w1366)
 
 ## 其他正規化 有興趣可以搜尋
 
