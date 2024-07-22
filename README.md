@@ -12,7 +12,6 @@ Hyo，我是 Richard，一名工程師。
 
 會的語言: `中文` `英文` `台語` `日文`
 
-
 <!-- [# 文件~~~](https://v2.vuepress.vuejs.org/reference/default-theme/config.html#basic-config) -->
 
 ## 連結
@@ -26,8 +25,7 @@ Hyo，我是 Richard，一名工程師。
 [Twitter](https://twitter.com/dpes5407) 偶爾發片段程式碼<br/>
 [Linkedin](https://www.linkedin.com/in/dpes8693/) 找工作<br/>
 
-![line voom](https://drive.google.com/uc?export=download&id=1RMGYPMfWF_Wh7skgbo_8n-8bCECUUXYB)
-
+![line voom](https://drive.google.com/thumbnail?id=1RMGYPMfWF_Wh7skgbo_8n-8bCECUUXYB&sz=w1366)
 
 [Line 帳號-教練,我會學好英文](https://line.me/ti/p/~@318kpenv)
 看圖背單字 | 練英文+練腦力激盪[Figma](https://www.figma.com/file/6d5MTWIurVMfJOIIOub041/%E5%AD%B8%E8%8B%B1%E6%96%87?node-id=0%3A1)<br/>
@@ -81,7 +79,7 @@ Hyo，我是 Richard，一名工程師。
 
 :::: code-group
 
-::: code-group-item &nbsp&nbsp來龍去脈&nbsp&nbsp
+::: code-group-item &nbsp&nbsp 來龍去脈&nbsp&nbsp
 
 ```md
 #2020.07.16 人生第一次買自己的機車
@@ -94,20 +92,20 @@ Hyo，我是 Richard，一名工程師。
 ```
 
 :::
-::: code-group-item &nbsp&nbsp成品&nbsp&nbsp
-![成品](https://drive.google.com/uc?export=download&id=11Ddmi_RRp92s5hTvmC2HuSAkoHisxPVw)
+::: code-group-item &nbsp&nbsp 成品&nbsp&nbsp
+![成品](https://drive.google.com/thumbnail?id=11Ddmi_RRp92s5hTvmC2HuSAkoHisxPVw&sz=w1366)
 :::
-::: code-group-item &nbsp&nbsp圖-右邊&nbsp&nbsp
-![圖-右邊](https://drive.google.com/uc?export=download&id=19t8h_-YH_IFUR7eAPKA-St0rYX3fkkUc)
+::: code-group-item &nbsp&nbsp 圖-右邊&nbsp&nbsp
+![圖-右邊](https://drive.google.com/thumbnail?id=19t8h_-YH_IFUR7eAPKA-St0rYX3fkkUc&sz=w1366)
 :::
-::: code-group-item &nbsp&nbsp圖-正面&nbsp&nbsp
-![圖-正面](https://drive.google.com/uc?export=download&id=1DMMqFOS0ZI0jQsYmKVUh22z860mWD3fJ)
+::: code-group-item &nbsp&nbsp 圖-正面&nbsp&nbsp
+![圖-正面](https://drive.google.com/thumbnail?id=1DMMqFOS0ZI0jQsYmKVUh22z860mWD3fJ&sz=w1366)
 :::
-::: code-group-item &nbsp&nbsp圖-左邊&nbsp&nbsp
-![圖-左邊](https://drive.google.com/uc?export=download&id=1U8agvxzfLiHsCW_ws_QzdLnZiOdPxd_o)
+::: code-group-item &nbsp&nbsp 圖-左邊&nbsp&nbsp
+![圖-左邊](https://drive.google.com/thumbnail?id=1U8agvxzfLiHsCW_ws_QzdLnZiOdPxd_o&sz=w1366)
 :::
 ::: code-group-item 圖-側邊
-![圖-側邊](https://drive.google.com/uc?export=download&id=1s8j1LxskGMuR1w5w6BeVgKXDZF0b0MF8)
+![圖-側邊](https://drive.google.com/thumbnail?id=1s8j1LxskGMuR1w5w6BeVgKXDZF0b0MF8&sz=w1366)
 :::
 
 ::::
@@ -116,7 +114,7 @@ Hyo，我是 Richard，一名工程師。
 
 :::: code-group
 
-::: code-group-item &nbsp&nbsp來龍去脈&nbsp&nbsp
+::: code-group-item &nbsp&nbsp 來龍去脈&nbsp&nbsp
 
 ```md
 2022 過年打掃時找到小一時玩的巧連智積木
@@ -124,17 +122,17 @@ Hyo，我是 Richard，一名工程師。
 ```
 
 :::
-::: code-group-item &nbsp&nbsp圖一&nbsp&nbsp
-![成品](https://drive.google.com/uc?export=download&id=1Cjj3_kUes5_kJZ72WKCBTBooMrHUrJIS)
+::: code-group-item &nbsp&nbsp 圖一&nbsp&nbsp
+![成品](https://drive.google.com/thumbnail?id=1Cjj3_kUes5_kJZ72WKCBTBooMrHUrJIS&sz=w1366)
 :::
-::: code-group-item &nbsp&nbsp圖二&nbsp&nbsp
-![PC支架](https://drive.google.com/uc?export=download&id=1hG6SlnlS1xjJ1jaHDfP5p-T1zxobQsdx)
+::: code-group-item &nbsp&nbsp 圖二&nbsp&nbsp
+![PC支架](https://drive.google.com/thumbnail?id=1hG6SlnlS1xjJ1jaHDfP5p-T1zxobQsdx&sz=w1366)
 :::
-::: code-group-item &nbsp&nbsp圖三&nbsp&nbsp
-![可調式檯燈支架](https://drive.google.com/uc?export=download&id=11vI3SNLaacBTPlgxzCmU0LeNLSUqzl_f)
+::: code-group-item &nbsp&nbsp 圖三&nbsp&nbsp
+![可調式檯燈支架](https://drive.google.com/thumbnail?id=11vI3SNLaacBTPlgxzCmU0LeNLSUqzl_f&sz=w1366)
 :::
 ::: code-group-item 圖四
-![鍵盤支架](https://drive.google.com/uc?export=download&id=1VAJvJgYJwq22GXnPVpoDvErUXk-efVSU)
+![鍵盤支架](https://drive.google.com/thumbnail?id=1VAJvJgYJwq22GXnPVpoDvErUXk-efVSU&sz=w1366)
 :::
 
 ::::
@@ -143,7 +141,7 @@ Hyo，我是 Richard，一名工程師。
 
 :::: code-group
 
-::: code-group-item &nbsp&nbsp來龍去脈&nbsp&nbsp
+::: code-group-item &nbsp&nbsp 來龍去脈&nbsp&nbsp
 
 ```md
 我們家房子大概是 85 年左右蓋的吧，房子算很舊;
@@ -157,11 +155,11 @@ Hyo，我是 Richard，一名工程師。
 ```
 
 :::
-::: code-group-item &nbsp&nbsp圖一&nbsp&nbsp
-![room2](https://drive.google.com/uc?export=download&id=1hcAbrD6v-EZjON49tAZZ9E-XSMsTCRF1)
+::: code-group-item &nbsp&nbsp 圖一&nbsp&nbsp
+![room2](https://drive.google.com/thumbnail?id=1hcAbrD6v-EZjON49tAZZ9E-XSMsTCRF1&sz=w1366)
 :::
-::: code-group-item &nbsp&nbsp圖二&nbsp&nbsp
-![room1](https://drive.google.com/uc?export=download&id=1XI1oa3gl6GGsbSLkr_HcDx8ISUWfoLQg)
+::: code-group-item &nbsp&nbsp 圖二&nbsp&nbsp
+![room1](https://drive.google.com/thumbnail?id=1XI1oa3gl6GGsbSLkr_HcDx8ISUWfoLQg&sz=w1366)
 :::
 
 ::::
@@ -170,7 +168,7 @@ Hyo，我是 Richard，一名工程師。
 
 :::: code-group
 
-::: code-group-item &nbsp&nbsp來龍去脈&nbsp&nbsp
+::: code-group-item &nbsp&nbsp 來龍去脈&nbsp&nbsp
 
 ```md
 親人家裡一樓的浴室居然打掉洗手台放洗衣機!
@@ -178,12 +176,12 @@ Hyo，我是 Richard，一名工程師。
 ```
 
 :::
-::: code-group-item &nbsp&nbsp研究過程&nbsp&nbsp
+::: code-group-item &nbsp&nbsp 研究過程&nbsp&nbsp
 2022.01 研究如何改造，
 [讓你大吃一驚的影片](https://youtube.com/shorts/x35r2quSVwE?feature=share)
 :::
-::: code-group-item &nbsp&nbsp最後的成果圖&nbsp&nbsp
-![成果圖](https://drive.google.com/uc?export=download&id=1fdUweCDobbJz21_OuHn88-PVxr3bFwdU)
+::: code-group-item &nbsp&nbsp 最後的成果圖&nbsp&nbsp
+![成果圖](https://drive.google.com/thumbnail?id=1fdUweCDobbJz21_OuHn88-PVxr3bFwdU&sz=w1366)
 :::
 
 ::::
@@ -192,7 +190,7 @@ Hyo，我是 Richard，一名工程師。
 
 ## 其他
 
-有一定經驗的職務內容: 
+有一定經驗的職務內容:
 
 `宿舍樓管` `數學家教`
 
