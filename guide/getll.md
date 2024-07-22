@@ -34,17 +34,17 @@
 
 
 - 方法 3
-  [google 團隊\_ json 範例](https://developers.google.com/maps/documentation/javascript/examples/geocoding-simple)
-  ![googlemap-json](https://drive.google.com/uc?export=download&id=1ckuGLbkKZp3-RKPFEO-mfHKI7Y294GQS)
+  [google 團隊_ json 範例](https://developers.google.com/maps/documentation/javascript/examples/geocoding-simple)
+  ![googlemap-json](https://drive.google.com/thumbnail?id=1ckuGLbkKZp3-RKPFEO-mfHKI7Y294GQS&sz=w1366)
 
-[google 團隊\_經緯度範例](https://developers-dot-devsite-v2-prod.appspot.com/maps/documentation/utils/geocoder#q%3D%25u65B0%25u5317%25u5E02%25u6C38%25u548C%25u5340%25u798F%25u548C%25u8DEF154%25u865F)
-![googlemap-ll](https://drive.google.com/uc?export=download&id=1r4hydBDoN6Ds0kGY5fjSLmBEhb0uHlrd)
+[google 團隊_經緯度範例](https://developers-dot-devsite-v2-prod.appspot.com/maps/documentation/utils/geocoder#q%3D%25u65B0%25u5317%25u5E02%25u6C38%25u548C%25u5340%25u798F%25u548C%25u8DEF154%25u865F)
+![googlemap-ll](https://drive.google.com/thumbnail?id=1r4hydBDoN6Ds0kGY5fjSLmBEhb0uHlrd&sz=w1366)
 
 ## [CSV] 50 筆 & 超過 50 筆
 
 測試過`1000筆`和`5000筆`都有通過可以轉換，看有沒有其他人一起用太多人同時用會出錯
 
-![geocode](https://drive.google.com/uc?export=download&id=1yPAzB_lKFpllwBX6pbpb0b3Pl37gd4FS)
+![geocode](https://drive.google.com/thumbnail?id=1yPAzB_lKFpllwBX6pbpb0b3Pl37gd4FS&sz=w1366)
 
 一律推薦[Geocode by Awesome Table](https://workspace.google.com/u/0/marketplace/app/geocode_by_awesome_table/904124517349?hl=zh&pann=sheets_addon_widget)
 
