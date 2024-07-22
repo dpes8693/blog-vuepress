@@ -14,14 +14,18 @@ https://drive.google.com/file/d/1FgTcxp2FPxXZD9FxlYgMABWGEYPIT3k4/view?usp=share
 - 範例輸出格式
 
 ```md
-https://drive.google.com/uc?export=download&id=1FgTcxp2FPxXZD9FxlYgMABWGEYPIT3k4
+https://drive.google.com/thumbnail?id=1FgTcxp2FPxXZD9FxlYgMABWGEYPIT3k4&sz=w1366
 ```
+
+<!-- 
+錯誤: https://drive.google.com/uc?export=download&id=1wArd5fdcLDshuroM0gm-WOs5cRl-VXlu
+正確: https://drive.google.com/thumbnail?id=1wArd5fdcLDshuroM0gm-WOs5cRl-VXlu&sz=w1366
+ -->
 
 <h3>作品</h3>
 
-<iframe width="100%" height="300" src="//jsfiddle.net/dpes5407/63rxdc42/256/embedded/result/dark/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
+<iframe width="100%" height="300" src="//jsfiddle.net/dpes5407/63rxdc42/260/embedded/result/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
 
-<!-- <iframe width="100%" height="300" src="//jsfiddle.net/dpes5407/63rxdc42/embedded/result/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe> -->
 
 <h3>操作方式</h3>
 
@@ -35,26 +39,26 @@ https://drive.google.com/uc?export=download&id=1FgTcxp2FPxXZD9FxlYgMABWGEYPIT3k4
 
 <!-- <h3>小按鈕</h3>
 
-![小按鈕](https://drive.google.com/uc?export=download&id=1MdMm41gsiYi4vwzAb88MBqRVIBBJ1F6a) -->
+![小按鈕](https://drive.google.com/thumbnail?id=1MdMm41gsiYi4vwzAb88MBqRVIBBJ1F6a&sz=w1366 -->
 
 ## 圖片使用教學
 
 [巴哈文章](https://home.gamer.com.tw/artwork.php?sn=5259952)
 
 ```md
-![小米](https://drive.google.com/uc?export=download&id=1FgTcxp2FPxXZD9FxlYgMABWGEYPIT3k4)
+![小米](https://drive.google.com/thumbnail?id=1FgTcxp2FPxXZD9FxlYgMABWGEYPIT3k4&sz=w1366)
 ```
 
 ```html
 <img
   width="50px"
-  src="https://drive.google.com/uc?export=download&id=1FgTcxp2FPxXZD9FxlYgMABWGEYPIT3k4"
+  src="https://drive.google.com/thumbnail?id=1FgTcxp2FPxXZD9FxlYgMABWGEYPIT3k4&sz=w1366"
 />
 ```
 
 成果圖
 
-![成果](https://drive.google.com/uc?export=download&id=1FgTcxp2FPxXZD9FxlYgMABWGEYPIT3k4)
+![成果](https://drive.google.com/thumbnail?id=1FgTcxp2FPxXZD9FxlYgMABWGEYPIT3k4&sz=w1366)
 
 ## 參考資料
 
